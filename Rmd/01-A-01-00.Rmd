@@ -1,0 +1,19 @@
+# Risk Assessment & Management {-}
+
+Risk management in the clinical laboratory is a disciplined, administrative process designed to anticipate hazards before they result in injury or operational downtime. It transitions safety from a reactive "cleanup" model to a proactive strategic model. This management system relies on two distinct but interconnected pillars: robust internal **Planning** and a mastery of external **OSHA Terminology** and frameworks. Together, these elements ensure that the laboratory not only complies with federal law but also creates a culture of safety that protects personnel, patients, and the physical facility
+
+## **Planning: The Administrative Foundation** {-}
+
+Effective planning transforms theoretical risk assessments into concrete actions. It establishes the governance structure and the documentation necessary to maintain a standardized safety environment
+
+*   **Governance (Safety Officer & Committee):** The Safety Officer acts as the executive planner, interpreting regulations and managing resources. The Safety Committee serves as the deliberative body, representing various lab sections to review incidents, set goals, and ensure policies are practical for bench-level staff
+*   **Standard Operating Procedures (SOPs):** SOPs are the primary administrative control. Planning involves embedding safety protocols (such as engineering controls and PPE requirements) directly into technical procedures, ensuring that safety is integral to the workflow rather than an afterthought
+*   **Verification & Education:** Planning extends to human reliability. This includes designing training curricula (onboarding and annual retraining), scheduling regular inspections to verify compliance, and managing the unique risks introduced by outside contractors and vendors
+
+## **OSHA Terminology & Regulatory Frameworks** {-}
+
+To manage risk effectively, laboratory leadership must understand the specific language and legal structures utilized by the Occupational Safety and Health Administration (OSHA). This terminology dictates how risks are prioritized and how compliance is enforced
+
+*   **Hierarchy of Controls:** This is the strategic roadmap for risk mitigation, visualized as an inverted pyramid. It prioritizes methods that physically remove hazards (**Elimination** and **Substitution**) over those that isolate the worker (**Engineering Controls**). **Administrative Controls** and **PPE** are considered the least effective as they rely entirely on human behavior
+*   **Performance vs. Specification Standards:** Managers must distinguish between "Specification Standards" (rigid rules) and "Performance Standards" (flexible goals). The **Laboratory Standard (29 CFR 1910.1450)** is a performance standard, allowing the lab to write a customized Chemical Hygiene Plan rather than following a rigid industrial prescription
+*   **The General Duty Clause:** Section 5(a)(1) of the OSH Act serves as a "catch-all" enforcement tool. It requires employers to protect workers from "recognized hazards" even if no specific regulation exists. This is frequently applied to modern risks such as **Ergonomics** and **Workplace Violence**

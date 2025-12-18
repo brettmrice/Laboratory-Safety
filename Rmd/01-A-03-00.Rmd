@@ -1,0 +1,27 @@
+# Emergencies, Injuries, & Exposures {-}
+
+Managing emergencies and exposures in the clinical laboratory requires a rigid administrative framework. This ensures that when the unexpected occurs - whether a needle stick, a natural disaster, or a chemical spill - the response is immediate, standardized, and compliant with federal law. This section focuses on the three administrative pillars of emergency management: **Reporting**, **Planning**, and **Training**
+
+## **Reporting Requirements** {-}
+
+Reporting transforms isolated incidents into legal records and actionable safety data. It creates the trail of evidence required for medical intervention and regulatory compliance
+
+*   **Internal & Medical Reporting:** Immediate internal Incident Reports (IR) trigger the medical management of the exposed employee (e.g., HIV prophylaxis within hours of a needle stick)
+*   **OSHA Recordkeeping:** Management must maintain the **OSHA 300 Log** for work-related injuries. Severe events (fatalities, amputations, inpatient hospitalization) require active reporting to OSHA within 8–24 hours. A separate **Sharps Injury Log** tracks device failures to evaluate engineering controls
+*   **External Agencies:** Injuries involving medical devices may require **FDA** reporting, while claims for lost wages involve state **Workers' Compensation** filings
+
+## **Disaster Planning (Continuity of Operations)** {-}
+
+Disaster planning prepares the laboratory to maintain essential testing functions during catastrophic system failures. This requires an **"All-Hazards Approach"**
+
+*   **Hazard Vulnerability Analysis (HVA):** A risk assessment that prioritizes threats based on likelihood and impact (e.g., power failure, cyber-attack, flood)
+*   **Emergency Operations Plan (EOP):** The written playbook for survival. It includes **Communication Plans** (redundant call trees), **Utility Failure Protocols** (operating on backup generators or without water), and **Downtime Procedures** (manual testing during LIS/Cyber outages)
+*   **Mass Casualty Incidents (MCI):** Protocols to surge staffing and restrict test menus to trauma panels to preserve resources during a sudden influx of patients
+
+## **Staff Training** {-}
+
+Training converts the written plan into employee competence. It ensures staff can perform "Self-Rescue" and function under stress
+
+*   **Exposure Response:** Training staff on the immediate "First Aid" for chemical splashes (15-minute eye flushing) and BBP exposures (immediate washing, not squeezing), followed by the correct notification chain
+*   **Fire & Evacuation:** Hands-on drills for using extinguishers (P.A.S.S. technique) and executing evacuation routes (R.A.C.E. protocol)
+*   **Functional Drills:** Conducting "Downtime Drills" (practicing paper-based resulting) and "Tabletop Exercises" to test the laboratory’s readiness for disasters without disrupting patient care

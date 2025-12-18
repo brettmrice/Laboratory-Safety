@@ -1,0 +1,19 @@
+# Regulated Medical Waste {-}
+
+The safe disposal of laboratory waste is the final critical step in the safety lifecycle. It is governed by complex regulations designed to prevent the release of infectious agents into the environment and to protect downstream workers (custodians, waste haulers) from injury. Failure to segregate and treat this waste correctly can lead to severe regulatory fines and public health hazards
+
+##   **Biohazard Waste** {-}
+
+RMW encompasses any waste capable of transmitting infection, such as blood, cultures, and pathological tissues
+
+*   **Identification:** Must be segregated into **Red Bags** or containers marked with the **Biohazard Symbol**
+*   **Treatment:** Waste is typically rendered non-infectious via **Steam Sterilization (Autoclaving)** or **Incineration** before final disposal. Pathological waste (tissues) requires incineration
+*   **Liquid Waste:** Bulk blood and body fluids can often be disposed of via the sanitary sewer (sink) with copious water, provided appropriate PPE is worn and local regulations permit
+
+##   **Sharps Waste** {-}
+
+Sharps (needles, glass, scalpels) represent the highest immediate physical risk for disease transmission (HIV/HBV/HCV)
+
+*   **Container:** Must be rigid, puncture-resistant, leak-proof, and red-labeled
+*   **Safety Rule:** Never recap needles. Dispose of sharps immediately at the point of use
+*   **Fill Limit:** Never overfill a sharps container past the designated "Max Fill" line (3/4 full). Overfilled bins force users to push trash against contaminated needles, leading to injury

@@ -1,0 +1,49 @@
+# Personal Protective Equipment {-}
+
+Personal Protective Equipment (PPE) represents the final line of defense in the hierarchy of safety controls. While engineering controls (like biosafety cabinets) isolate the hazard from the worker, PPE isolates the worker from the hazard. Under OSHA’s Bloodborne Pathogens Standard and General Industry Standard, the employer is required to provide appropriate PPE, but it is the responsibility of the laboratory scientist to select the correct equipment for the task, wear it properly, and maintain it to ensure effective barrier protection against chemical, biological, and physical threats
+
+## **Face Protection** {-}
+
+Mucous membranes (eyes, nose, mouth) are rapid portals of entry for pathogens and chemicals
+
+*   **Safety Glasses:** Provide impact protection (flying debris) but do not seal against liquids
+*   **Goggles:** Indirect-vented goggles provide a secure seal around the eyes, offering the best protection against chemical splashes and aerosols
+*   **Face Shields:** A secondary barrier used *over* goggles to protect the entire face and neck during high-splash tasks (e.g., disposal of bulk fluids) or cryogen handling
+
+## **Lab Coats & Aprons** {-}
+
+The lab coat is the primary body barrier, designed to prevent contamination of personal clothing and skin
+
+*   **Selection:** Use fluid-resistant coats for general lab work and flame-resistant (cotton) coats for Microbiology/Histology
+*   **Proper Wear:** Coats must be fully buttoned/snapped with **knit cuffs** to create a seal with the gloves
+*   **Hygiene:** Coats must be removed before leaving the technical area and never laundered at home. Rubber aprons are added for handling concentrated acids or bulk liquids
+
+## **Footwear & Shoe Covers** {-}
+
+Footwear protects against physical trauma (dropped sharps) and chemical absorption
+
+*   **Requirements:** Shoes must be fully enclosed (no sandals or "peep-toes"), made of impermeable material (leather/synthetic, not canvas/mesh), and have non-slip soles
+*   **Shoe Covers:** Disposable "booties" are used for containment during massive spill cleanups or when entering strict isolation environments
+
+## **Gloves** {-}
+
+Gloves are the most frequently used PPE but are hazard-specific
+
+*   **Material:** **Nitrile** is the industry standard due to superior chemical resistance and lack of allergens. Latex is less common due to allergy risks; Vinyl is reserved for low-risk tasks
+*   **Compatibility:** Always verify the "breakthrough time" of the glove material against the specific chemical being handled
+*   **Protocol:** Change gloves immediately if torn, between patients, or every 30-60 minutes. Never touch "clean" surfaces (phones, door handles) with contaminated gloves
+
+## **Masks & Respirators** {-}
+
+These devices are distinct and serve different purposes
+
+*   **Surgical Masks:** Loose-fitting barriers designed to block large droplets and splashes. They do **not** filter airborne aerosols
+*   **Respirators (N95):** Tight-fitting devices designed to filter 95% of airborne particles (e.g., Tuberculosis). Usage requires medical clearance, annual **fit testing**, and a seal check every time they are worn
+
+## **Hand Hygiene** {-}
+
+The single most effective measure to prevent the spread of infection and cross-contamination
+
+*   **Soap and Water:** Mandatory for visibly soiled hands or when working with spore-forming bacteria (e.g., *C. diff*, *B. anthracis*)
+*   **Alcohol Sanitizer:** Acceptable for routine antisepsis when hands are not visibly dirty
+*   **Timing:** Hands must be washed immediately **after glove removal**, before leaving the lab, and before touching clean equipment. Artificial nails are prohibited in clinical laboratories due to biofilm accumulation

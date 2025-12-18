@@ -1,0 +1,74 @@
+# Licensing, Documentation, & Management {-}
+
+While the use of radioisotopes in the clinical laboratory has diminished with the advent of chemiluminescence and ELISA technologies, radiation safety remains a critical compliance area for departments performing Radioimmunoassays (RIA) or operating Blood Bank irradiators. The possession and use of radioactive materials (RAM) are governed by the strictest regulatory framework in laboratory safety, overseen federally by the **Nuclear Regulatory Commission (NRC)** or at the state level by **Agreement States**. A failure in compliance can result in severe fines, the loss of the facility's license to operate, and criminal negligence charges
+
+## **Regulatory Framework & Licensing** {-}
+
+The foundation of a laboratory's ability to use radioactive material is its license. The type of license determines the scope of operations and the administrative burden placed on the laboratory management
+
+### **Nuclear Regulatory Commission (NRC) vs. Agreement States** {-}
+
+*   **NRC:** The federal agency responsible for protecting public health and safety related to nuclear energy
+*   **Agreement States:** Approximately 39 states have entered into an agreement with the NRC to assume regulatory authority within their borders. These states enforce regulations that are usually identical to, or stricter than, federal NRC standards. Labs must know whether they answer to the NRC or their State Department of Health
+
+### **Types of Licenses** {-}
+
+*   **Specific License:** Most hospitals and clinical laboratories operate under a Specific License. This document names the specific radioisotopes allowed (e.g., Iodine-125, Cobalt-57, Cesium-137), the maximum activity limits (in millicuries or becquerels), and the authorized users. It requires a detailed radiation safety program and a designated Radiation Safety Officer
+*   **General License:** This applies to the use of devices containing radioactive material where the safety features are built into the design (e.g., certain small calibration sources or pre-packaged in-vitro kits). While less burdensome, "General License" acknowledgment still requires strict inventory tracking and disposal protocols
+
+## **The Radiation Safety Officer (RSO)** {-}
+
+The **Radiation Safety Officer (RSO)** is the individual named on the license who is legally responsible for the implementation and oversight of the radiation safety program
+
+*   **Authority:** The RSO must have independent authority to stop operations that they consider unsafe. Management cannot overrule the RSO on safety matters
+*   **Duties:** The RSO manages personnel monitoring (dosimetry), waste disposal, license amendments, and the annual audit of the program
+*   **Radiation Safety Committee (RSC):** In larger medical institutions, the RSO reports to the RSC. This committee, composed of management and authorized users, reviews uses of RAM and approves protocols
+
+## **Documentation: The "Cradle-to-Grave" Principle** {-}
+
+Regulatory agencies strictly enforce a "Cradle-to-Grave" tracking system. Every microcurie of radioactive material must be accounted for from the moment it enters the facility until it has decayed to background levels or is transferred to an authorized waste broker
+
+### **Receipt & Check-In** {-}
+
+*   **Package Inspection:** Upon arrival, packages containing RAM (identified by DOT labels White-I, Yellow-II, or Yellow-III) must be inspected for damage
+*   **Wipe Test:** The exterior of the package must be "wiped" (swabbed) and counted in a scintillation counter to ensure the source is not leaking. This must be documented within 3 hours of receipt during normal business hours
+*   **Log Entry:** The isotope, lot number, activity, and date of receipt must be entered into the permanent inventory log
+
+### **Inventory & Usage Logs** {-}
+
+*   **Running Inventory:** As laboratory scientists use the material (e.g., pipetting I-125 for a thyroid panel), they must log the amount removed or the date the kit was used
+*   **Quarterly Inventory:** A physical inventory of all sealed and unsealed sources is typically required every quarter to reconcile the logbook with the actual stock
+*   **Security (Part 37):** High-activity sources, particularly Blood Bank irradiators (Cesium-137), fall under NRC "Part 37" security rules. These require background checks for staff, biometric access controls, and immediate reporting of any unauthorized access
+
+### **Disposal Documentation** {-}
+
+Radioactive waste cannot be discarded in regular trash or biohazard bins
+
+*   **Decay-in-Storage:** Short-lived isotopes (like I-125, half-life ~60 days) are often stored in a lead-shielded room until they are no longer radioactive
+    *   **The 10 Half-Life Rule:** Material is generally held for 10 half-lives
+    *   **Surveying:** Before disposal, the waste must be surveyed with a Geiger-Mueller counter in a low-background area. It can only be discarded as regular trash if it is indistinguishable from background radiation
+    *   **Defacing:** All radioactive symbols and labels must be obliterated or removed before the waste is thrown in the regular trash
+
+## **Personnel Management & ALARA** {-}
+
+The guiding management philosophy for radiation safety is **ALARA** (As Low As Reasonably Achievable). This principle dictates that all doses should be kept as far below the regulatory limits as possible through the use of Time, Distance, and Shielding
+
+### **Dosimetry (Personal Monitoring)** {-}
+
+*   **Requirement:** Monitoring devices (badges) are required for anyone likely to receive more than 10% of the annual occupational limit
+*   **Types**
+    *   **Film Badges:** Older technology, sensitive to heat/humidity
+    *   **TLD (Thermoluminescent Dosimeter):** Uses lithium fluoride crystals; more durable
+    *   **OSL (Optically Stimulated Luminescence):** The industry standard; uses aluminum oxide and can be re-read multiple times
+*   **Review:** The RSO must review dosimetry reports monthly or quarterly. Participants must be notified of their exposure levels annually
+
+### **The Declared Pregnant Worker** {-}
+
+*   **Voluntary Declaration:** Under NRC regulations, a pregnant worker is not subject to lower fetal dose limits *unless* she voluntarily declares her pregnancy in writing to the RSO
+*   **Limits:** Once declared, the exposure limit drops drastically (0.5 rem or 5 mSv for the entire gestation period) to protect the fetus
+*   **Management:** The RSO usually provides a second "fetal badge" worn at waist level and may restructure work duties to minimize exposure to high-activity sources
+
+### **Training & Audits** {-}
+
+*   **Initial and Annual:** All staff working with or "frequenting" areas with radioactive material must receive initial and annual refresher training. This training must be documented with signatures
+*   **Annual Audit:** The RSO must conduct a formal review of the radiation protection program annually to ensure compliance with ALARA and regulatory changes. This report is the first document inspectors will ask for

@@ -1,0 +1,66 @@
+# Signs & Labels {-}
+
+In the hierarchy of laboratory safety controls, hazard communication acts as the "silent sentinel." Before a laboratory scientist touches a specimen or enters a room, signs and labels provide the critical first warning of potential danger. Under the OSHA Bloodborne Pathogens Standard (29 CFR 1910.1030) and the CDC/NIH *Biosafety in Microbiological and Biomedical Laboratories* (BMBL) guidelines, the use of standardized signs and labels is not merely a suggestion - it is a mandatory legal requirement. Effective labeling bridges the gap between the known hazards of an agent and the awareness of the personnel handling it, including support staff (janitorial, maintenance) who may not have scientific training
+
+## **The Universal Biohazard Symbol** {-}
+
+The cornerstone of biological safety signage is the Universal Biohazard Symbol. Designed in 1966 by the Dow Chemical Company, it was created to be "memorable but meaningless" initially - a shape that had no prior association so it could be learned as a specific warning
+
+*   **Design:** Three interlocking circles with a superimposed circle in the center. It must be distinct and visible from a distance
+*   **Color Standard:** According to OSHA, the biohazard warning label must be fluorescent orange or orange-red with lettering and symbols in a contrasting color (usually black)
+*   **Meaning:** The presence of the symbol indicates the actual or potential presence of a biological agent that causes disease in humans. It serves as an immediate command to "Stop, Assess, and use Precautions"
+
+## **Laboratory Entrance Signage** {-}
+
+The door to the laboratory is the primary boundary between the uncontrolled public space and the controlled containment zone. The BMBL dictates that signage must be posted at the entrance to the laboratory when infectious agents are present. This sign serves as a decision matrix for anyone approaching the door, including emergency responders (firefighters/paramedics)
+
+*   **Mandatory Information**
+    *   **The Universal Biohazard Symbol:** Clearly displayed
+    *   **Biosafety Level:** Identification of the containment level (e.g., BSL-2 or BSL-3)
+    *   **Agents Present:** The specific agents in use (e.g., *Mycobacterium tuberculosis*, HIV, *Salmonella*). *Note: In some high-security environments, specific agents may be coded for security, but the hazard level must remain clear*
+    *   **Entry Requirements:** A list of precautions required to enter. (e.g., "Gown and Gloves Required" or "Respirator Required")
+    *   **Responsible Party:** The name and telephone number of the Laboratory Director, Principal Investigator, or other responsible personnel to be contacted in an emergency (24-hour contact is preferred)
+
+## **Equipment Labeling** {-}
+
+Once inside the laboratory, specific equipment must be labeled to differentiate "clean" surfaces from those designated for biohazard work. This prevents cross-contamination and accidental exposure of maintenance personnel
+
+*   **Refrigerators and Freezers:** Any unit storing blood, body fluids, or cultures must bear the Biohazard symbol. Crucially, these units must also carry a label stating **"NO FOOD OR DRINK"** to prevent the accidental ingestion of pathogens
+*   **Incubators:** As these units culture organisms at optimal growth temperatures, they contain high concentrations of pathogens. The exterior door must be labeled
+*   **Centrifuges:** The exterior of the centrifuge should be labeled. Furthermore, if the centrifuge buckets are designed to be aerosol-tight safety carriers, the buckets themselves often bear a biohazard mark to remind the user to open them only inside a Biosafety Cabinet
+*   **Water Baths:** These are frequent reservoirs for bacterial and fungal growth. They should be labeled as a potential biohazard, particularly if used to thaw frozen specimens
+*   **Waste Containers:** Foot-pedal bins used for contaminated gloves, plastic transfer pipettes, and plates must be clearly labeled (usually inherent in the red color of the bag, but the hard container needs a label)
+
+## **Specimen Transport & Shipping Labels** {-}
+
+Communication of hazards extends beyond the laboratory walls during transport. The requirements differ between internal transport (walking down the hall) and external shipping (FedEx/Courier)
+
+### **Internal Transport** {-}
+
+When moving samples from Central Receiving to the Microbiology bench:
+
+*   The secondary container (tray or bin) must have a visible Biohazard symbol
+*   This alerts anyone in the hallway that the carrier contains potentially infectious material
+
+### **External Shipping (DOT/IATA)** {-}
+
+Shipping biological materials is strictly regulated. The labeling acts as a warning to transport workers (pilots, drivers) who have no medical training. The labels must be diamond-shaped (diamond-on-point)
+
+*   **Category A (UN 2814/UN 2900):** For high-consequence pathogens (e.g., Ebola, Anthrax). The package must display the **"Infectious Substance"** label (a diamond with the three-crescent biohazard symbol)
+*   **Category B (UN 3373):** For diagnostic specimens. The package must display a diamond label with **"UN 3373"** and the text **"Biological Substance, Category B"**. *Note: The standard orange biohazard symbol is NOT used on the outer box for Category B shipping; it is replaced by the UN 3373 diamond*
+*   **Orientation Arrows:** "This Way Up" arrows must be placed on opposite sides of the box to ensure the tubes inside remain upright to prevent leaking
+
+## **Maintenance & Integrity** {-}
+
+A sign is only effective if it is legible and accurate. Part of the laboratory safety protocol involves the regular audit of signage
+
+*   **Degradation:** Stickers on water baths or incubators often peel or fade due to heat and humidity. These must be replaced immediately
+*   **Accuracy:** If a laboratory ceases work with a specific pathogen (e.g., a research lab stops working with Anthrax and switches to *E. coli*), the door signage must be updated to reflect the change in risk
+*   **Clutter:** Safety signs should not be obscured by notices about office parties or non-safety-related memos. The warning must remain the focal point of the visual field
+
+## **Distinguishing Biological from Chemical** {-}
+
+It is a common error to rely solely on the "Biohazard" label for everything in the lab. laboratory scientists must distinguish between biological and chemical warnings
+
+*   **Ethanol/Bleach Bottles:** Squirt bottles used for disinfection must carry **Chemical Hazard** labels (Flammable or Corrosive) rather than, or in addition to, biohazard labels. A bottle of bleach is a chemical hazard; the *surface* it cleans is the biohazard
+*   **Waste Separation:** Clear labeling helps segregation. A "Biohazard" label on a bin means it goes to the autoclave/incinerator. A "Chemical Waste" label means it goes to environmental health services. Mixing these streams due to poor labeling can result in legal penalties and dangerous chemical reactions during autoclaving

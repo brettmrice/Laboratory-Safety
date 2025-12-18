@@ -1,0 +1,68 @@
+# Cryogens {-}
+
+Cryogens are liquefied gases maintained at extremely low temperatures, typically below -150°C (-238°F). In the clinical laboratory, the two most ubiquitous cryogens are **Liquid Nitrogen (LN2)**, used for long-term storage of cells and tissues in Blood Bank or Microbiology, and **Dry Ice (Solid Carbon Dioxide)**, used for specimen transport. While indispensable, cryogens pose three distinct life-threatening hazards: extreme cold (tissue damage), rapid expansion (explosion), and asphyxiation (oxygen displacement)
+
+## **The Physics of the Hazard** {-}
+
+To respect the danger of cryogens, laboratory personnel must understand their physical properties:
+
+1.  **Extreme Temperature:** Liquid Nitrogen boils at **-196°C (-320°F)**. Dry Ice sublimates at **-78.5°C (-109°F)**. Contact with skin causes instantaneous freezing of water in the cells, leading to severe frostbite or "cryogenic burns" indistinguishable from third-degree thermal burns
+2.  **Expansion Ratio:** The liquid-to-gas expansion ratio of Nitrogen is approximately **694:1**. This means 1 liter of liquid nitrogen expands to create nearly 700 liters of nitrogen gas
+    *   **Explosion Risk:** If LN2 is trapped in a sealed container (like a screw-top cryovial) and warms up, the pressure will shatter the vessel
+    *   **Asphyxiation Risk:** This massive volume of gas rapidly displaces breathable oxygen in the room
+
+## **Personal Protective Equipment (PPE)** {-}
+
+Standard laboratory PPE (latex gloves and a lab coat) is **insufficient** for handling cryogens. Specific gear is required to prevent splash injuries
+
+*   **Cryogenic Gloves:** Must be loose-fitting, insulated gloves designed for extreme cold
+    *   *Why Loose-Fitting?* If liquid nitrogen splashes *inside* the glove, the user must be able to shake the glove off instantly. Tight gloves trap the liquid against the skin, guaranteeing severe necrosis
+*   **Face Protection:** A full **Face Shield** is mandatory when pouring or transferring liquid nitrogen. Safety glasses alone do not protect the face or neck from splashes
+*   **Body Protection**
+    *   **Lab Coat:** Must be fully buttoned
+    *   **Apron:** A non-porous rubber or leather apron is recommended for large volume transfers
+    *   **Footwear:** Closed-toe shoes are mandatory. Ideally, trousers should cover the shoe opening (cuffless pants) so spilled liquid runs off onto the floor rather than pooling inside the shoe. Sandals or mesh-top sneakers are strictly prohibited
+
+## **Handling & Storage Protocols** {-}
+
+### **Liquid Nitrogen (LN2)** {-}
+
+*   **Dewars:** LN2 must be stored in specialized vacuum-insulated containers called Dewars
+    *   **Venting:** Dewars have loose-fitting lids or pressure relief valves. *Never* seal a Dewar with a tight plug. The boil-off gas must be allowed to escape, or the vessel will explode
+    *   **Glass Dewars:** If using older glass Dewars, they must be wrapped in tape to contain shards in case of implosion
+*   **Transfer**
+    *   Pour slowly to minimize boiling and splashing
+    *   Use a phase separator or funnel to direct the flow
+    *   Never dip a hollow tube into LN2; liquid can spray out the top (the "geyser effect")
+
+### **Dry Ice (Solid CO2)** {-}
+
+*   **Handling:** Use tongs or insulated gloves. Never handle dry ice with bare hands
+*   **Disposal:** Do not dump dry ice into a sink or toilet. The extreme cold can crack ceramic and pipes. Allow it to sublimate in a well-ventilated area (like a fume hood) or a designated cooler
+*   **Sealed Containers:** Never store dry ice in a tightly sealed jar or cooler. As it sublimates into CO2 gas, pressure builds up until the container bursts
+
+## **The Asphyxiation Hazard (Oxygen Deficiency)** {-}
+
+This is the most insidious danger of cryogens because Nitrogen and CO2 are odorless, colorless, and tasteless. A leak or spill gives no sensory warning
+
+*   **The Mechanism:** As the cryogen boils or sublimates, it expands and pushes the lighter Oxygen out of the room
+    *   Normal air is ~21% Oxygen
+    *   At <19.5%, cognitive impairment begins
+    *   At <12%, unconsciousness is rapid
+    *   At <6%, death occurs within minutes
+*   **High-Risk Areas:** Small, unventilated rooms like walk-in freezers, elevators, or small closet-sized storage rooms
+*   **Oxygen Monitors:** Rooms storing large volumes of LN2 should be equipped with wall-mounted Oxygen Deficiency Monitors. If the alarm sounds, evacuate immediately. Do not enter to rescue a colleague without self-contained breathing apparatus (SCBA)
+
+## **Specimen Transport Safety** {-}
+
+*   **Cryovials:** When removing cryovials from liquid nitrogen, they may explode if liquid nitrogen has seeped inside the cap
+    *   *Safety Rule:* Place the vial in a heavy-walled container or behind a shield immediately upon removal to thaw. Do not hold it near your face
+*   **Vehicle Transport:** Never transport Dewars or large coolers of dry ice in the passenger cabin of a car. If the container vents, the driver can lose consciousness. Transport them in the separate trunk of a vehicle or a truck bed
+
+## **First Aid for Cryogenic Burns** {-}
+
+1.  **Remove:** Move the victim away from the hazard
+2.  **Warm:** Immerse the affected area in **tepid (warm) water** (100-105°F / 37-40°C)
+    *   *Crucial:* Do **NOT:** use hot water. Do **NOT** rub or massage the area (this destroys frozen tissue). Do **NOT** use dry heat (hair dryer)
+3.  **Protect:** Cover with a sterile dressing
+4.  **Evaluate:** Seek immediate medical attention. Deep tissue damage may not be immediately visible

@@ -1,0 +1,52 @@
+# Fire Alarms {-}
+
+In the integrated system of laboratory life safety, the **Fire Alarm System** acts as the central nervous system. It is designed to detect the earliest signs of combustion, alert occupants to evacuate, and trigger automated suppression and containment measures. For laboratory personnel, understanding the components and operation of this system is critical, as seconds of delay in a chemical-rich environment can lead to catastrophe. The system is governed by NFPA 72 (National Fire Alarm and Signaling Code)
+
+## **Initiating Devices (Inputs)** {-}
+
+The fire alarm system is triggered by "Initiating Devices," which can be either automatic or manual
+
+### **Manual Pull Stations** {-}
+
+These are the primary method for human intervention
+
+*   **Operation:** Most modern stations are "Double Action" to prevent accidental activation. The user must lift a cover or push a panel (Action 1) before pulling the handle down (Action 2)
+*   **Location:** Code requires a pull station within 5 feet of every exit door on every floor. In a laboratory, they are typically located at the corridor exits so staff can activate the alarm *as they escape*
+*   **Mechanism:** Pulling the handle breaks a glass rod or flips a switch, sending a signal to the Fire Alarm Control Panel (FACP)
+
+### **Automatic Detectors** {-}
+
+*   **Smoke Detectors**
+    *   **Ionization:** Good for fast-flaming fires. They use a small amount of radioactive material to ionize air; smoke disrupts the current
+    *   **Photoelectric:** Better for smoldering, smoky fires. They use a light beam; smoke scatters the light onto a sensor
+    *   **Laboratory Considerations:** Standard smoke detectors can cause false alarms in labs due to steam (autoclaves) or chemical vapors. In these areas, heat detectors are often used instead
+*   **Heat Detectors:** Triggered by temperature, not smoke
+    *   **Fixed Temperature:** Activates when the ambient temperature reaches a specific point (e.g., 135°F)
+    *   **Rate-of-Rise:** Activates if the temperature spikes rapidly (e.g., rising 15°F in one minute), regardless of the starting temperature. These are preferred in chemistry labs where chemical fires create intense, rapid heat
+*   **Duct Detectors:** Located inside the HVAC system. If they detect smoke, they shut down the fans to prevent pumping toxic smoke into other parts of the hospital (Containment)
+*   **Flame Detectors:** Used in high-risk areas. They use Infrared (IR) or Ultraviolet (UV) sensors to "see" the specific wavelengths of light emitted by a flame within milliseconds
+
+## **Notification Appliances (Outputs)** {-}
+
+Once triggered, the system must alert the occupants
+
+*   **Audible Alarms:** Horns, bells, or sirens
+    *   **Temporal Code 3:** The standard evacuation signal is a "three-pulse" pattern (beep-beep-beep... pause... beep-beep-beep). This distinguishes fire alarms from other hospital alerts (like Code Blue)
+*   **Visual Alarms (Strobes)**
+    *   **ADA Compliance:** Flashing xenon strobe lights are mandatory to alert hearing-impaired staff. They flash at a specific synchronized frequency (usually 1 Hz) to avoid triggering photosensitive epilepsy
+    *   **Location:** Found in restrooms, breakrooms, and high-noise areas (like near large analyzers or centrifuges) where an audible horn might be missed
+*   **Voice Evacuation:** In large hospitals, a recorded or live voice message may replace the horn, giving specific instructions (e.g., "Code Red, Third Floor, Evacuate to the West Wing")
+
+## **Control Functions (Automated Safety Measures)** {-}
+
+The fire alarm does more than just make noise; it interfaces with building systems to control the environment
+
+*   **Door Holders:** Magnetic hold-open devices on fire doors (cross-corridor doors) will release, allowing the doors to slam shut. This "compartmentalizes" the building, trapping smoke in the zone of origin
+*   **Elevator Recall:** Elevators are summoned to the ground floor and locked out to prevent people from using them during a fire (preventing entrapment)
+*   **HVAC Shutdown:** Air handlers shut down to stop feeding oxygen to the fire and to stop spreading smoke
+*   **Access Control Release:** Security doors (like those requiring badge access to Blood Bank) may automatically unlock to ensure rapid evacuation
+
+## **Testing & Maintenance** {-}
+
+*   **Drills:** Fire drills test the *human* response to the alarm
+*   **System Testing:** Qualified laboratory scientists must test the system annually. This involves physically pulling stations, blowing smoke into detectors, and measuring the decibel level of horns to ensure they are audible over laboratory equipment noise

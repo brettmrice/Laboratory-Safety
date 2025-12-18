@@ -1,0 +1,76 @@
+# Response Protocols {-}
+
+In the hierarchy of laboratory emergencies, fire represents one of the most immediate and catastrophic threats. The clinical laboratory is a unique fire environment, combining high-voltage electronics, flammable chemical solvents (Class B), combustible paper/plastics (Class A), and potentially pressurized gases. Unlike a standard office fire, a laboratory fire can rapidly escalate into a hazardous materials incident. Therefore, response protocols are strictly regimented to prioritize human life over property preservation. All laboratory personnel must be drilled to respond reflexively using standard mnemonics
+
+## **The R.A.C.E. Protocol** {-}
+
+The universal response algorithm for healthcare fire safety is the acronym **R.A.C.E.** This sequence ensures that the most critical actions - saving lives and alerting the system - occur before any attempt is made to fight the fire. The steps must be performed in order
+
+### **R - Rescue (or Remove)** {-}
+
+*   **Primary Objective:** The absolute first priority is the immediate evacuation of anyone in direct danger
+*   **Action:** If a centrifuge catches fire, the laboratory scientist's first move is to assist any colleagues standing next to it to move away
+*   **Scope:** This does *not* mean entering a burning room to save someone; it means guiding those in the immediate vicinity to safety. In a hospital setting, this may involve moving patients horizontally to the next smoke compartment (behind fire doors) rather than vertically down stairs
+
+### **A - Alarm (or Alert)** {-}
+
+*   **Primary Objective:** Notify the facility and emergency services
+*   **Action:** Activate the nearest manual fire alarm pull station. These are typically located near exit doors
+*   **Secondary Action:** Call the facility's emergency number (e.g., "Code Red" to the switchboard or 911). Provide precise details: "Fire in the Main Chemistry Lab, Room 302, involving a chemical spill." Do not assume the smoke detectors have already alerted the fire department
+
+### **C - Contain (or Confine)** {-}
+
+*   **Primary Objective:** Slow the spread of smoke and flame to buy time for evacuation
+*   **Action:** Close all doors and windows. Laboratory doors are typically fire-rated (e.g., 1-hour fire resistance). Closing the door starves the fire of oxygen and prevents toxic smoke from filling the corridor (the escape route)
+*   **Lab-Specifics**
+    *   **Fume Hoods:** If the fire is inside a chemical fume hood, *close the sash immediately*. This contains the fire within a fire-resistant enclosure
+    *   **Gas Valves:** If safe to do so, hit the emergency shut-off valve for piped gases (natural gas or oxygen) to prevent an explosion
+
+### **E - Extinguish (or Evacuate)** {-}
+
+*   **Decision Point:** This is the only optional step. You should only attempt to extinguish the fire if:
+    *   The fire is small (no larger than a trash can)
+    *   You have the correct type of extinguisher
+    *   You have been trained to use it
+    *   **Crucially:** You have a clear exit path behind you. Never let the fire get between you and the door
+*   **Evacuate:** If the fire is too large, the smoke is too thick, or you are unsure, simply evacuate. Go to the designated assembly area and account for all staff
+
+## **The P.A.S.S. Technique (Extinguisher Usage)** {-}
+
+If the decision is made to fight the fire during the "E" phase of R.A.C.E., the operator must use the portable fire extinguisher correctly. The mnemonic is **P.A.S.S.**
+
+*   **P - Pull:** Pull the pin at the top of the extinguisher. This breaks the tamper seal and unlocks the operating lever
+*   **A - Aim:** Aim the nozzle or hose at the **base** of the fire, not at the flames. Spraying the top of the flames is useless; you must smother the fuel source
+*   **S - Squeeze:** Squeeze the handle firmly to release the extinguishing agent. Most portable extinguishers have only 15-30 seconds of discharge time
+*   **S - Sweep:** Sweep the nozzle from side to side, covering the base of the fire. Continue until the fire is out. Watch for re-ignition; if it flares up, repeat the process
+
+## **Classes of Fire & Extinguisher Selection** {-}
+
+Using the wrong extinguisher can be fatal. For example, using a water extinguisher on a grease or electrical fire will spread the fire or electrocute the user. Laboratory staff must recognize the icons/labels
+
+*   **Class A (Ash):** Ordinary combustibles (paper, wood, plastic). Extinguished by cooling (Water) or smothering (Dry Chemical)
+*   **Class B (Barrel/Boil):** Flammable liquids (xylene, alcohol, gasoline). *Never use water.* Requires CO2 or Dry Chemical (ABC)
+*   **Class C (Current):** Energized electrical equipment (analyzers, computers). *Never use water.* Requires non-conductive agents like CO2 or Halon. Once the power is cut, it becomes a Class A or B fire
+*   **Class D (Dynamite/Dense Metal):** Combustible metals (Magnesium, Sodium, Potassium). These are rare in clinical labs but possible. Requires special dry powder (Sand/Salt). *Standard extinguishers will cause an explosion*
+*   **Class K (Kitchen):** Cooking oils and fats. Found in the breakroom/cafeteria
+
+**The ABC Extinguisher:** Most clinical laboratories are equipped with "ABC" Dry Chemical extinguishers. These are multi-purpose and safe for the most common hazards (trash, solvents, and electronics), reducing the decision-making burden during a crisis
+
+## **Special Laboratory Fire Scenarios** {-}
+
+### **Centrifuge Fire** {-}
+
+If a centrifuge malfunctions and catches fire, **do not open the lid.** Opening the lid introduces a rush of oxygen (backdraft) that can cause a fireball. Unplug the unit if possible and wait for the fire department
+
+### **Person on Fire** {-}
+
+If a colleague's lab coat catches fire:
+
+*   **Stop, Drop, and Roll:** Instruct them immediately
+*   **Fire Blanket:** If available, wrap them in a fire blanket to smother the flames
+*   **Safety Shower:** If close by, get them under the emergency safety shower
+*   **Do Not Use CO2 Extinguishers:** Avoid using a CO2 extinguisher on a person if possible, as it causes frostbite and can suffocate them. Water or a dry chemical (if necessary to save life) is preferred, though dry chemicals can complicate wound treatment
+
+### **Compressed Gas Cylinders** {-}
+
+If a fire surrounds gas cylinders, evacuate immediately. As the cylinder heats, the pressure rises. If the relief valve fails, the cylinder can rupture and become a missile or explode (BLEVE - Boiling Liquid Expanding Vapor Explosion)

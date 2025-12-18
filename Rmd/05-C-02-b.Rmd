@@ -1,0 +1,57 @@
+# Sharps Waste {-}
+
+Sharps waste represents the single most dangerous category of Regulated Medical Waste (RMW) in terms of immediate occupational risk. A "sharp" is legally defined as any device capable of penetrating the skin, whether it is contaminated with biohazards or not. This includes needles, scalpels, lancets, broken glass, glass capillary tubes, and exposed ends of dental wires. The management of sharps is governed by the **OSHA Bloodborne Pathogens Standard** and the **Needlestick Safety and Prevention Act**
+
+## **The Hazard: Percutaneous Injury** {-}
+
+The primary risk of a sharp is **percutaneous inoculation** - puncturing the skin and delivering a pathogen directly into the bloodstream
+
+*   **Disease Transmission:** The greatest concerns are **Hepatitis B (HBV)**, **Hepatitis C (HCV)**, and **HIV**. The risk of seroconversion after a needlestick from a known positive source varies:
+    *   HBV: 6% - 30% (if unvaccinated)
+    *   HCV: ~1.8%
+    *   HIV: ~0.3%
+*   **Physical Trauma:** Beyond infection, sharps can cause tendon damage or serve as a delivery vehicle for toxic chemicals or radioactive isotopes
+
+## **Container Specifications** {-}
+
+Sharps cannot be discarded in red bags or cardboard boxes. They require specialized engineering controls. According to OSHA and FDA standards, sharps containers must meet four criteria:
+
+1.  **Closable:** Must have a lid that can be engaged for transport to prevent spillage
+2.  **Puncture Resistant:** The sides and bottom must be rigid enough that a needle cannot be pushed through them under normal force
+3.  **Leak Proof:** The bottom must hold residual fluids (blood remaining in a syringe) without dripping
+4.  **Labeled/Color-Coded:** Typically red (occasionally clear or translucent to see fill level) with the universal Biohazard symbol
+
+## **Operational Safety Protocols** {-}
+
+*   **Point of Use Disposal:** The sharps container must be located as close as feasible to the immediate area where sharps are used
+    *   *Scenario:* A phlebotomist should never walk across the room with a used needle to find a bin. The bin should be on the tray or within arm's reach
+*   **No Recapping:** The cardinal rule of sharps safety
+    *   *Prohibition:* Never recap a used needle using two hands
+    *   *Exception:* If recapping is medically necessary, use a mechanical device (forceps) or the **one-handed scoop technique**
+*   **Do Not Bend or Shear:** Never purposely bend or break a needle to fit it in a container. This creates aerosols and increases the risk of a "rebound" injury
+*   **The "Fill Line":** All containers have a manufacturer-designated "Max Fill" line (usually at the 3/4 mark)
+    *   **Danger:** Overfilling is the most common cause of downstream injury. Forcing a needle into a full bin can cause a contaminated needle already in the bin to protrude upward and puncture the user's hand
+    *   *Action:* When the line is reached, the container must be closed, locked, and replaced immediately
+
+## **Types of Sharps Containers** {-}
+
+*   **Standard (Phlebotomy):** Small, portable bins with a rotor lid or "tortuous path" lid that prevents hands from entering
+*   **Large Volume (Main Lab):** 8-18 gallon containers used in processing areas for large items (serological pipettes). These are often placed on the floor
+*   **Chemotherapy Sharps:** Usually **Yellow**. Used for needles contaminated with cytotoxic drugs. These must be incinerated
+*   **Radioactive Sharps:** Must be labeled with the radioactive isotope symbol and segregated from regular biohazard sharps. These are typically stored until the isotope decays (10 half-lives) before disposal
+
+## **Disposal & Treatment** {-}
+
+Unlike soft red bag waste which can be autoclaved and landfilled, sharps pose a persistent physical hazard even after sterilization. A sterile needle is still a weapon
+
+*   **Incineration:** The preferred method. High temperatures melt the metal and glass, destroying the physical "sharp" nature of the waste
+*   **Grinding/Microwaving:** Some facilities use on-site processors that shred the sharps into unrecognizable granules (destroying the physical hazard) and then treat them with steam or disinfectants (destroying the biological hazard). The resulting confetti is rendered safe for the regular trash
+
+## **Emergency Response to Injury** {-}
+
+If a sharps injury occurs:
+
+1.  **Wash:** Immediately wash the wound with soap and water. (Do not use bleach or harsh caustics; do not "milk" the wound excessively)
+2.  **Report:** Notify the supervisor immediately
+3.  **Evaluate:** Report to Employee Health or the ER for post-exposure evaluation. This involves assessing the "Source Patient" (if known) for HIV/HBV/HCV status and establishing a baseline for the injured worker
+4.  **Prophylaxis:** If warranted, Post-Exposure Prophylaxis (PEP) for HIV should be started as soon as possible (ideally within 2 hours)

@@ -1,0 +1,25 @@
+# Disposal & Waste Management {-}
+
+In the clinical laboratory, the analytical process is only half the job; the safe management of the resulting byproducts is equally critical. Waste management is governed by a complex web of federal regulations (EPA, OSHA, DOT) designed to protect public health and the environment. A failure in this system - whether it be mislabeling a bottle or putting a needle in the trash - can result in severe injury to support staff or massive regulatory fines
+
+##   **Proper Waste Disposal** {-}
+
+The foundation of waste safety is **Identification**
+
+*   **Labeling:** Every container must be clearly labeled in English with its full contents (no abbreviations) and hazard class. "Unknowns" are dangerous and costly
+*   **Transport:** Moving waste requires secondary containment (carts/bins) to prevent spills. Off-site shipping is strictly regulated by the DOT, requiring UN-certified packaging and trained personnel
+
+##   **Regulated Medical Waste** {-}
+
+This category includes infectious materials like blood, cultures, and sharps
+
+*   **Color Coding:** Use **Red Bags** for soft infectious waste and rigid **Sharps Containers** for needles and glass
+*   **Sharps Safety:** Never recap needles. Dispose of them immediately. Never overfill a sharps bin past the "Max Fill" line
+*   **Treatment:** Most biohazard waste is autoclaved (steam sterilized) or incinerated before landfilling
+
+##  **Hazardous/Chemical Waste** {-}
+
+Regulated by the EPA under the "Cradle-to-Grave" principle
+
+*   **Manifests:** The legal paper trail tracking waste from generation to destruction. The lab is liable until the disposal facility confirms receipt
+*   **Storage:** Waste is collected in "Satellite Areas" (at the bench) and moved to "Central Areas" for shipping. Incompatible chemicals (acids vs. bases) must be physically segregated to prevent dangerous reactions

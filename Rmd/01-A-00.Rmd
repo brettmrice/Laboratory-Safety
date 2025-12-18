@@ -1,0 +1,27 @@
+# (PART\*) Management {-}
+
+# Administrative {-}
+
+Administrative safety management is the backbone of the clinical laboratory's defense against occupational hazards. It shifts the focus from individual compliance (e.g., simply wearing gloves) to systemic governance. This high-level management involves three interconnected disciplines: **Risk Assessment** (prevention), **Medical Surveillance** (health monitoring), and **Emergency Management** (response and resilience). Together, these functions ensure regulatory compliance, protect personnel health, and guarantee the continuity of patient care during crises
+
+## **Risk Assessment & Management** {-}
+
+This is the proactive phase of safety administration, designed to identify and mitigate hazards before they result in injury. It relies on a blend of strategic planning and strict regulatory adherence
+
+*   **Planning & Governance:** The establishment of a **Safety Officer** and **Safety Committee** provides the leadership structure necessary to enforce policies. This includes the creation of **Standard Operating Procedures (SOPs)** that embed safety controls directly into technical workflows and the scheduling of **Inspections** to verify compliance
+*   **OSHA Frameworks:** Management utilizes the **Hierarchy of Controls** to prioritize risk mitigation, seeking to eliminate or engineer out hazards before relying on PPE. Compliance is governed by specific regulations (e.g., The Laboratory Standard) and broad mandates like the **General Duty Clause**, which requires employers to address recognized hazards like ergonomics and workplace violence even in the absence of specific statutes
+
+## **Medical Surveillance & Employee Evaluation** {-}
+
+Medical surveillance is the systematic monitoring of the workforce's health status. It serves as a check on the effectiveness of safety controls and ensures employees are physically capable of performing their duties
+
+*   **Pre-Placement & Routine:** Before handling specimens, employees undergo **Immunization Reviews** (Hepatitis B, MMR) and screenings for **Tuberculosis** and color blindness. Ongoing surveillance includes **Respirator Fit Testing** and monitoring for specific chemical exposures (e.g., Formaldehyde)
+*   **Post-Exposure Management:** The administrative protocol for managing incidents involving bloodborne pathogens or chemical splashes. This ensures immediate medical intervention (such as HIV prophylaxis), confidential counseling, and long-term record retention (employment + 30 years)
+
+## **Emergencies, Injuries, & Exposures** {-}
+
+When preventive measures fail, the administrative focus shifts to response, reporting, and recovery. This ensures that the laboratory can survive structural failures and that accidents are documented legally
+
+*   **Reporting:** A strict hierarchy of documentation tracks incidents. Internal **Incident Reports** trigger medical care, while **OSHA 300 Logs** track work-related injuries for federal review. Severe events (fatalities/amputations) require active reporting to OSHA within hours
+*   **Disaster Planning:** The **Continuity of Operations Plan (COOP)** prepares the lab for "All-Hazards" events - from natural disasters to cyber-attacks. It establishes protocols for utility failures (operating without power/water) and Mass Casualty Incidents (surging staff/restricting test menus)
+*   **Training:** The bridge between the written plan and reality. Administration must plan and document **Drills** (Fire, Downtime, Spills) to ensure staff possess the muscle memory to perform "Self-Rescue" and maintain operations under stress

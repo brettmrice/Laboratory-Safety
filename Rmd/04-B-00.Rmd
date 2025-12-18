@@ -1,0 +1,33 @@
+# Protocols {-}
+
+Protocols in biohazard control represent the operational translation of risk assessment into daily practice. While engineering controls (like Biosafety Cabinets) provide physical barriers, protocols dictate the human behaviors and standardized procedures necessary to maintain those barriers. Effective infection control relies on a seamless integration of hazard communication, containment hierarchies, and strict adherence to regulatory standards for handling, cleaning, and transporting infectious materials. The following sections outline the critical procedural frameworks that govern clinical laboratory safety
+
+##   **Signs & Labels** {-}
+
+The primary line of defense is hazard communication. Use of the Universal Biohazard Symbol on laboratory doors, waste containers, and equipment (like centrifuges and freezers) creates an immediate visual warning. Proper labeling ensures that support staff and emergency responders are aware of the specific biological risks present in a designated area
+
+##   **Biosafety Levels (BSL)** {-}
+
+Laboratories are classified into four levels based on the risk of the agents they handle. **BSL-2** is the standard for routine clinical work (bloodborne pathogens, moderate risk), requiring restricted access and BSCs for aerosol-generating procedures. **BSL-3** is required for airborne pathogens like Tuberculosis, necessitating negative pressure rooms and respiratory protection. **BSL-4** is reserved for high-consequence, exotic agents (e.g., Ebola)
+
+##   **Bioterrorism & the LRN** {-}
+
+The Laboratory Response Network (LRN) organizes labs into a pyramid of capabilities. Clinical "Sentinel" laboratories are responsible for recognizing potential biothreat agents (like Anthrax or Plague), ruling out common pathogens, and referring the isolate to public health labs. Sentinel labs must **never** attempt to confirm these agents, as they lack the safety infrastructure
+
+##   **Infectious Prions** {-}
+
+Prions (agents of CJD) require unique protocols because they are resistant to standard disinfection and sterilization. Decontamination of prion-infected tissues or instruments requires harsh chemical treatment (Sodium Hydroxide) or extended, high-temperature autoclaving, as standard alcohol and formalin are ineffective
+
+##   **Decontamination Methods** {-}
+
+Sterilization (killing all life, including spores) and disinfection (killing most pathogens) are distinct processes. The method chosen - whether heat (autoclave) or chemical (bleach, alcohol) - must match the resistance of the organism. Bacterial spores are highly resistant, while enveloped viruses (like HIV) are easily destroyed
+
+##   **Precautions Hierarchy** {-}
+
+*   **Universal Precautions:** The historical protocol focusing on bloodborne pathogens
+*   **Standard Precautions:** The current mandate treating *all* body fluids (except sweat) and non-intact skin as potentially infectious
+*   **Transmission-Based Precautions:** Additional protocols (Contact, Droplet, Airborne) implemented based on the specific mode of transmission of a known pathogen
+
+##   **Packing & Shipping** {-}
+
+Transporting infectious substances outside the laboratory is strictly regulated by DOT and IATA. Biological materials are classified as **Category A** (high-risk/lethal, UN 2814) or **Category B** (routine diagnostic, UN 3373). Both require a "Triple Packaging" system to ensure containment during transit

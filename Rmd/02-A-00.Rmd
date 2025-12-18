@@ -1,0 +1,33 @@
+# (PART\*) General Safety {-}
+
+# Ergonomics {-}
+
+Ergonomics in the clinical laboratory is the science of designing the workplace to fit the worker, rather than forcing the worker to adapt to the workplace. Unlike acute accidents, ergonomic hazards often result in chronic, cumulative trauma. By applying biomechanical principles to daily tasks - from lifting heavy reagent boxes to entering data into the LIS - laboratories can prevent musculoskeletal disorders (MSDs), reduce cognitive fatigue, and improve overall diagnostic accuracy
+
+## **Proper Lifting Technique** {-}
+
+Manual material handling is a leading cause of back injury. Safe lifting relies on the mechanics of the spine and the concept of the **Power Zone** (the area between mid-thigh and mid-chest)
+
+*   **Technique:** The lifter must get close to the object, maintain a wide base of support, and bend at the knees (squat) while keeping the back straight (maintaining lordosis)
+*   **Execution:** The lift is performed by powering up with the legs, not the back. The load must be hugged close to the body to minimize spinal leverage. **Twisting** while lifting is strictly prohibited, as it is the primary mechanism for disc herniation
+
+## **Repetitive Motion Injuries (RMI)** {-}
+
+Also known as Cumulative Trauma Disorders, RMIs are caused by the accretion of microscopic damage to tissues due to **repetition**, **force**, and **posture**
+
+*   **Common Disorders:** Carpal Tunnel Syndrome (nerve compression in the wrist from pipetting/typing), Lateral Epicondylitis ("Tennis Elbow" from decapping/twisting), and Tenosynovitis (thumb tendon inflammation)
+*   **Prevention:** Mitigation involves using ergonomic tools (electronic pipettes), varying tasks (job rotation), and taking micro-breaks to stretch and restore blood flow
+
+## **Computer Workstations** {-}
+
+With the digitization of the laboratory, "Office Syndrome" is a significant risk. The goal is to achieve a **Neutral Body Posture**
+
+*   **Visual Ergonomics:** The top of the monitor should be at or slightly below eye level to prevent neck strain. The screen should be an arm's length away to prevent visual fatigue
+*   **Input Devices:** The keyboard and mouse should be positioned at elbow height so that wrists "float" in a neutral, straight line, avoiding extension (bending up) or deviation (bending sideways). The chair must provide lumbar support and allow feet to rest flat on the floor
+
+## **Noise** {-}
+
+Noise is a physical hazard that affects both hearing health and cognitive performance. It is measured in decibels (dBA)
+
+*   **Regulatory Limits:** OSHA sets the Permissible Exposure Limit (PEL) at **90 dBA** (8-hour average), with an Action Level at **85 dBA** requiring a hearing conservation program
+*   **Impact:** In the lab, noise from centrifuges, analyzers, and BSC fans rarely causes deafness but frequently causes **communication errors** and stress. Controls include "Buying Quiet" equipment, performing maintenance (lubrication), and using sound-dampening materials

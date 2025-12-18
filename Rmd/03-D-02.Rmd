@@ -1,0 +1,56 @@
+# Safety Data Sheets {-}
+
+The Safety Data Sheet (SDS), formerly known as the Material Safety Data Sheet (MSDS), is the primary source of detailed information for every hazardous chemical in the laboratory. Under OSHA's Hazard Communication Standard (HCS) (29 CFR 1910.1200), employers are required to maintain a current SDS for every hazardous substance in their inventory. The transition from MSDS to SDS was driven by the adoption of the **Globally Harmonized System (GHS)** in 2012. While MSDS formats varied widely between manufacturers - making it difficult to find critical information during an emergency - the SDS utilizes a strictly enforced, standardized **16-section format**. This standardization ensures that a laboratory scientist can find the Flash Point or First Aid instructions in the exact same location on a document, whether the chemical comes from a domestic supplier or an international manufacturer
+
+## **Management & Accessibility Requirements** {-}
+
+For the SDS system to be effective, laboratory management must adhere to strict accessibility protocols. A binder sitting in a locked office is a violation of federal law
+
+*   **Immediate Access:** SDSs must be readily accessible to employees during **all** work shifts. If a laboratory operates 24/7, the night shift must have the same access as the day shift. Barriers to access (e.g., requiring an employee to ask a supervisor for permission, locked cabinets, or password-protected computers where the staff does not have the password) are prohibited
+*   **Format:** Laboratories may keep SDSs in physical binders or electronic databases. If an electronic system is used, there must be a backup system (such as a master file on a flash drive, a hard copy binder, or a dedicated 24/7 fax-back service) in the event of a power outage or network failure. Employees must be trained on how to access both the primary and backup systems
+*   **Inventory Reconciliation:** Management must ensure the SDS library matches the physical chemical inventory. When a new chemical is ordered, the SDS must be procured immediately. When a chemical is permanently removed from the lab's repertoire, the SDS should be archived
+*   **Retention:** While the active SDS is for current safety, archived SDSs are considered "Employee Exposure Records" under OSHA 29 CFR 1910.1020. They must be retained for at least **30 years** after the use of the substance has ceased, to assist in future medical investigations regarding chronic illnesses
+
+## **The 16-Section Standardized Format** {-}
+
+Laboratory scientists must be familiar with the order of the sections to navigate the document rapidly during a spill or exposure event. The sections are ordered by urgency, with emergency information placed at the beginning
+
+### **Sections 1–8: General Information & Emergency Response** {-}
+
+These sections contain the information most critical during the first few minutes of an incident
+
+*   **Section 1: Identification:** Product identifier (name), manufacturer contact info, and emergency phone numbers
+*   **Section 2: Hazard(s) Identification:** The most important summary section. It includes the GHS classification, Signal Word ("Danger" or "Warning"), Hazard Statements, and Pictograms
+*   **Section 3: Composition/Information on Ingredients:** Lists chemical ingredients and their concentrations. This is vital for toxicology. It also lists trade secret claims if exact percentages are withheld
+*   **Section 4: First-Aid Measures:** Describes initial care required by untrained responders. It categorizes aid by route of exposure (inhalation, skin, eye, ingestion). Crucially, it indicates if vomiting should be induced (usually "No" for corrosives) or if immediate medical attention is required
+*   **Section 5: Fire-Fighting Measures:** Lists suitable extinguishing media (e.g., "Do not use water jet") and specific hazards arising from the chemical (e.g., "emits toxic fumes under fire conditions")
+*   **Section 6: Accidental Release Measures:** Procedures for spills. It details containment methods, cleanup materials (e.g., "use non-sparking tools"), and emergency evacuation procedures
+*   **Section 7: Handling and Storage:** Precautions for safe handling (e.g., "use only in a fume hood") and conditions for safe storage, including specific incompatibilities
+*   **Section 8: Exposure Controls/Personal Protection:** Lists OSHA Permissible Exposure Limits (PELs) and ACGIH Threshold Limit Values (TLVs). It details the specific PPE required, such as the exact type of glove material (Nitrile vs. Latex vs. Butyl) and breakthrough times
+
+### **Sections 9–11: Technical & Scientific Properties** {-}
+
+These sections are used for preventing hazards and understanding the chemical's behavior
+
+*   **Section 9: Physical and Chemical Properties:** Flash point, pH, vapor pressure, density, and solubility. This section helps determine if a vapor will sink to the floor (vapor density > 1) or if a liquid is flammable
+*   **Section 10: Stability and Reactivity:** Describes the chemical's stability and the possibility of hazardous reactions. It explicitly lists **Conditions to Avoid** (static discharge, shock) and **Incompatible Materials** (e.g., "Reacts violently with oxidizers")
+*   **Section 11: Toxicological Information:** Detailed health effects. Lists LD50 (Lethal Dose 50%) values, routes of entry, symptoms of exposure, and whether the chemical is a known carcinogen (NTP, IARC, or OSHA listed)
+
+### **Sections 12–16: Non-OSHA Mandated Sections** {-}
+
+OSHA requires these sections to be present to remain GHS compliant, but OSHA does not enforce the content within them because they fall under the jurisdiction of other agencies (EPA, DOT)
+
+*   **Section 12: Ecological Information:** Environmental impact (aquatic toxicity, persistence, and degradability)
+*   **Section 13: Disposal Considerations:** Guidance on proper waste disposal methods (e.g., incineration vs. landfill)
+*   **Section 14: Transport Information:** DOT shipping names, hazard classes, and packing groups
+*   **Section 15: Regulatory Information:** Safety, health, and environmental regulations specific to the product (e.g., TSCA status, SARA Title III)
+*   **Section 16: Other Information:** Indicates when the SDS was prepared or the last known revision date. This is checked to ensure the information is current
+
+## **Practical Application for the Laboratory Scientist** {-}
+
+Reading an SDS "cover-to-cover" is rarely done in an emergency. Scientists must know which section answers which question:
+
+*   **Scenario: Fire.:** Do not look at Section 1 or 2. Go immediately to **Section 5** to see if your standard ABC extinguisher works or if the chemical reacts with water
+*   **Scenario: Chemical Splash.:** Go immediately to **Section 4** to determine flushing duration and specific antidotes
+*   **Scenario: New Test Validation.:** Before bringing a new chemical into the lab, review **Section 8** to ensure you have the correct gloves and ventilation, and **Section 10** to ensure you have a safe storage location away from incompatibles
+*   **Scenario: Pregnancy.:** A laboratory scientist who becomes pregnant should review **Section 11** of the chemicals they handle to identify potential teratogens or reproductive toxins and request a job duty modification if necessary

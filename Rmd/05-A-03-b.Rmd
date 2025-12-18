@@ -1,0 +1,56 @@
+# Showers & Eyewashes {-}
+
+Safety showers and eyewash stations constitute the primary "first aid" response to chemical and biological exposures in the laboratory. When engineering controls fail and a hazardous substance splashes onto the skin or into the eyes, the first 10 to 15 seconds are critical. Immediate and prolonged flushing can mean the difference between a temporary irritation and permanent blindness or chemical burns. The design, location, and maintenance of this equipment are strictly regulated by the **ANSI/ISEA Z358.1 Standard**
+
+## **Location & Accessibility** {-}
+
+The defining principle of emergency wash stations is "immediate access." A blinded victim cannot navigate a maze of hallways to find water
+
+*   **The "10-Second" Rule:** The equipment must be reachable within **10 seconds** of unobstructed travel. In practical terms, this is approximately **55 feet (17 meters)**
+*   **No Obstacles:** There must be no doors (unless they swing open in the direction of travel and are unlocked) and no physical obstacles (trash cans, boxes, carts) between the hazard and the shower. Walking up or down stairs to reach a shower is prohibited
+*   **Hazard Proximity:** For strong corrosives (acids/bases), the station should be immediately adjacent to the hazard
+*   **Signage:** The location must be identified with a highly visible sign (e.g., the universal green and white symbol) that is well-lit
+
+## **Emergency Showers** {-}
+
+Showers are designed to drench the entire body in the event of a large-volume spill or clothing fire
+
+*   **Activation:** The valve must activate in **1 second or less** and remain on without the use of the operator's hands ("Stay-Open Valve"). This allows the victim to use both hands to remove contaminated clothing. The pull rod is typically triangular and located no more than 69 inches from the floor
+*   **Flow Rate:** The shower must deliver a minimum of **20 gallons per minute (76 Liters/min)** at a safe velocity. The spray pattern must be roughly 20 inches in diameter at shoulder height to ensure full coverage
+*   **Temperature:** The water must be "Tepid" (between **60°F and 100°F** / 16°C - 38°C)
+    *   *Rationale:* If the water is too cold (<60°F), the victim may not tolerate the required 15-minute flush due to hypothermia or shock. If it is too hot (>100°F), it can accelerate the chemical reaction or cause thermal burns
+*   **Operational Protocol**
+    1.  Pull the lever
+    2.  Stand directly under the stream
+    3.  **Remove all contaminated clothing, shoes, and jewelry.:** (Modesty is secondary to life safety; chemicals trapped against the skin by fabric cause the deepest burns)
+    4.  Remain in the shower for **15 minutes**
+
+## **Emergency Eyewashes** {-}
+
+Eyewashes are designed to flush the ocular surface without damaging the delicate tissue
+
+*   **Activation:** Like the shower, it must activate in 1 second or less and utilize a "Stay-Open" valve (usually a paddle or foot pedal)
+*   **Flow Rate:** Must deliver a minimum of **0.4 gallons per minute (1.5 Liters/min)**
+*   **Velocity:** The stream must be soft and low-velocity. High-pressure jets can drive particles deeper into the eye or physically damage the cornea
+*   **Dual Stream:** The unit must be capable of flushing **both eyes simultaneously**
+*   **Operational Protocol**
+    1.  Activate the unit
+    2.  Hold eyelids open with thumb and forefinger (the natural reflex is to squeeze them shut)
+    3.  Roll eyeballs around to ensure irrigation behind the lids
+    4.  Flush for **15 minutes**
+    5.  Seek medical attention immediately
+
+## **Maintenance & Testing** {-}
+
+Safety equipment is prone to failure if neglected. Stagnant water in the pipes can accumulate rust, sediment, or even *Acanthamoeba* and *Legionella* bacteria
+
+*   **Weekly Activation (The "Bump Test"):** Eyewashes and showers must be activated **weekly** by laboratory staff
+    *   *Purpose:* To verify operation (ensure water flows) and to flush the line of sediment and stagnant water. A log of this test must be maintained near the unit
+*   **Annual Inspection:** A comprehensive inspection is required **annually** to ensure the unit meets all ANSI specifications (flow rate, spray pattern, temperature)
+*   **Caps:** Eyewash nozzles must have protective dust caps. These caps must pop off automatically when the water pressure is engaged. They prevent dust and chemical vapors from contaminating the nozzles
+
+## **Drench Hoses** {-}
+
+Many laboratories have handheld "drench hoses" at the sink
+
+*   **Clarification:** According to ANSI Z358.1, a handheld drench hose **does NOT** replace a dedicated eyewash or shower. It is considered "supplemental" equipment. While useful for spot-cleaning a small splash on an arm or rinsing a shoe, it does not meet the criteria for hands-free operation required for eye flushing

@@ -1,0 +1,38 @@
+# Content Areas {-}
+
+Source: <a href="https://www.ascp.org/boc/explore-credentials/view-all-credentials/QLS" target="_blank">ASCP BOC's</a> Qualification in Laboratory Safety, QLS(ASCP)
+
+Major content areas covered:
+
+## **Management** {-}
+
+*   [Administrative]()
+*   [Regulatory Agencies, Regulations, and Guidelines]()
+
+## **General Safety** {-}
+
+*   [Ergonomics]()
+*   [Fire Safety]()
+*   [Electrical Safety]()
+*   [Compressed Gases]()
+*   [Radiation]()
+*   [Standard Work Practices]()
+*   [Spills and Exposures]()
+
+## **Chemical Safety** {-}
+
+*   [Chemical Classifications]()
+*   [Incompatible Mixtures]()
+*   [Signs and Labels]()
+*   [Management]()
+
+## **Biohazard Control** {-}
+
+*   [Infection Control]()
+*   [Protocols]()
+
+## **Physical Environment** {-}
+
+*   [Equipment]()
+*   [Disinfection and Decontamination]()
+*   [Disposal and Waste Management]()

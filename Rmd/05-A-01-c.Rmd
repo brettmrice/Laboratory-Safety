@@ -1,0 +1,51 @@
+# Steam Sterilizer {-}
+
+The autoclave is the cornerstone of laboratory sterilization, utilizing saturated steam under high pressure to kill all forms of microbial life, including bacterial spores. In the clinical laboratory, it is primarily used for the decontamination of biological waste (making it safe for disposal) and the sterilization of media and glassware. Because the autoclave functions as a pressure vessel containing high thermal energy, it presents significant physical hazards (burns, explosion) in addition to the biological risks associated with the waste it processes
+
+## **Principle of Operation** {-}
+
+To ensure safety, one must understand the mechanism. Autoclaves work by replacing the air in a chamber with saturated steam
+
+*   **Pressure:** Pressure itself does not kill microorganisms; it raises the boiling point of water. At sea level, water boils at 100°C. By pressurizing the chamber to **15 psi (1 atmosphere gauge)**, the temperature of the steam can reach **121°C (250°F)**. This temperature is sufficient to coagulate proteins and destroy DNA rapidly
+*   **Air Removal:** Air is an insulator. If pockets of cool air remain in the chamber or inside the waste bags, the steam cannot contact the material, and sterilization will fail. Gravity displacement autoclaves rely on steam (which is lighter than air) pushing the air out through a drain valve
+
+## **Physical Hazards** {-}
+
+*   **Thermal Burns:** The most common injury. The chamber walls, racks, and the load itself retain intense heat long after the cycle ends. Steam escaping from the door can cause severe scalds
+*   **Explosion/Rupture:** The autoclave is a pressure vessel. While modern units have safety relief valves, sealing a bottle tightly before autoclaving creates a "bomb" inside the chamber. If the liquid inside expands but the cap does not vent, the bottle will shatter explosively
+*   **Musculoskeletal Injury:** Loading heavy bags of waste or large flasks requires proper lifting mechanics. Strain injuries are common
+
+## **Safe Loading Protocols** {-}
+
+Proper loading is critical for both safety and efficacy. Overloading is the primary cause of sterilization failure
+
+*   **Loosen Caps:** Never autoclave a sealed container of liquid. Screw caps must be loosened slightly (1/2 turn) to allow steam to enter and pressure to equalize. If the cap is tight, the bottle may explode upon removal
+*   **Bag Preparation:** Biohazard bags should be loosely taped or tied (not knotted tight) to allow steam penetration. Some protocols recommend adding a cup of water to the bag before closing to generate internal steam ("steam from within")
+*   **Don't Block the Drain:** In gravity displacement units, the drain at the bottom is where the cool air escapes. If a bag sits directly on the drain, air is trapped, and the temperature will never reach 121°C in that zone. Use a rack or tray to ensure the drain remains clear
+*   **Secondary Containment:** Always place bags and bottles in an autoclavable tray (polypropylene or stainless steel). This catches spills. If agar boils over and clogs the drain line, the autoclave can malfunction dangerously
+
+## **Operational Safety** {-}
+
+*   **The Cycle:** Standard sterilization is **121°C at 15 psi for 15 minutes**. However, this time applies to the *load* reaching temperature
+    *   **Large Loads:** Dense waste loads or large volumes of liquid (e.g., 2 Liters) require significantly longer times (30-60 minutes) for the heat to penetrate to the center
+*   **Unloading (The Danger Zone)**
+    *   **Wait for Zero:** Never attempt to open the door until the pressure gauge reads **zero** and the temperature has dropped below 100°C. Forcing the door open while under pressure can release a jet of steam
+    *   **Stand Back:** When opening the door, stand behind it (on the hinge side) and crack it open only an inch. Allow the residual steam to escape for minute before fully opening. This prevents a "puff back" of steam into the face
+    *   **PPE:** Wear heat-resistant gloves (Clavies) and a lab coat. Eye protection is mandatory in case a bottle bursts due to thermal shock (cool air hitting hot glass)
+    *   **Liquid Precautions:** Superheated liquids can boil over violently if agitated. Move trays slowly and smoothly. Allow liquids to cool to 80°C before handling extensively
+
+## **Monitoring & Quality Control** {-}
+
+An unsafe autoclave is one that fails to sterilize. Verification is a safety requirement
+
+*   **Mechanical Monitoring:** The user must check the printer tape or digital display after every run to verify that the target temperature and pressure were maintained for the correct duration
+*   **Chemical Indicators:** Heat-sensitive tape (autoclave tape) placed on the outside of packages changes color (usually white to black) when exposed to heat. *Safety Note:* This only indicates the item was *processed*, not that it is sterile. It distinguishes processed waste from unprocessed waste
+*   **Biological Indicators (The Gold Standard):** Vials of *Geobacillus stearothermophilus* spores are run periodically (e.g., weekly or with every load of biohazard waste). If the spores survive (turn the media yellow upon incubation), the autoclave is not functioning. Use must stop immediately until it is repaired
+
+## **Prohibited Items** {-}
+
+Not everything can go into an autoclave. Certain materials create toxic fumes or explosion hazards:
+
+*   **Volatile Chemicals:** Never autoclave bleach (chlorine gas), formalin (toxic fumes), or solvents (explosion)
+*   **Radioisotopes:** Autoclaving radioactive waste contaminates the steam lines and the entire chamber
+*   **Certain Plastics:** Some plastics (e.g., polystyrene/PET) melt into a puddle, damaging the trays and drain lines. Ensure plasticware is rated "Autoclavable" (typically Polypropylene - PP)

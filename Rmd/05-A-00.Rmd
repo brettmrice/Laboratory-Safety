@@ -1,0 +1,36 @@
+# (PART\*) Physical Environment {-}
+
+# Equipment {-}
+
+The physical environment of the clinical laboratory is a complex ecosystem of specialized equipment designed to contain hazards and protect the worker. Safety in this environment is not passive; it requires the active management of mechanical tools, ventilation systems, and emergency response infrastructure. Understanding the specific function and limitations of each piece of equipment - from the glass test tube to the room-sized ventilation system - is the first step in preventing occupational accidents
+
+##   **General** {-}
+
+This category covers the "tools of the trade."
+
+*   **Glassware/Sharps:** The most frequent source of injury. Safety relies on careful inspection of glass for cracks and the strict segregation of broken glass and needles into puncture-resistant containers
+*   **Centrifuges:** High-energy instruments that require symmetrical balancing to prevent catastrophic mechanical failure. They are also primary sources of biological aerosols
+*   **Autoclaves:** Pressure vessels using high-temperature steam to sterilize waste. Risks include thermal burns and the explosion of sealed vessels
+
+##   **Ventilation** {-}
+
+The invisible shield of the laboratory
+
+*   **Biological Safety Cabinets (BSCs):** Provide local containment for infectious work using HEPA filters
+*   **Air Exchanges:** Laboratories require high ventilation rates (6-12 ACH) with single-pass (non-recirculated) air to dilute contaminants
+*   **Isolation:** Negative pressure rooms prevent the escape of airborne pathogens like TB into the corridor
+
+##   **Safety Equipment** {-}
+
+The emergency response infrastructure
+
+*   **Communication:** Systems like fire pull stations and code calls allow for immediate alarm activation
+*   **Showers/Eyewashes:** The primary first aid for chemical exposure. They must provide 15 minutes of tepid, hands-free flushing and be located within 10 seconds of the hazard
+
+##   **Storage Cabinets** {-}
+
+Segregation is the key to chemical safety
+
+*   **Flammable Cabinets:** Double-walled steel units designed to thermally insulate solvents from external fires
+*   **Corrosive Cabinets:** Plastic or lined units designed to resist acid degradation
+*   **Protocol:** Incompatible chemicals (acids vs. bases, oxidizers vs. flammables) must never be stored together

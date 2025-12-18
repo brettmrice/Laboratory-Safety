@@ -1,0 +1,17 @@
+# Proper Waste Disposal {-}
+
+The responsibility of the laboratory scientist extends beyond the generation of test results to the safe management of the hazardous byproducts created during the analytical process. Proper waste disposal is a strict regulatory requirement governed by the **EPA (Resource Conservation and Recovery Act)** and the **DOT**. The laboratory maintains "cradle-to-grave" liability for its waste, meaning it remains legally responsible for the material from the moment it is generated until it is confirmed destroyed at a treatment facility
+
+##   **Labeling** {-}
+
+Labeling is the primary method of hazard communication for waste handlers. An unlabeled container is treated as an "unknown," representing the highest safety risk and disposal cost
+
+*   **Chemical Waste:** Labels must list the full English name of every constituent (no abbreviations like "HCl"), the approximate percentage of each, the specific hazard characteristics (Flammable, Corrosive), and the "Accumulation Start Date"
+*   **Biohazardous Waste:** Must be clearly identified with the universal Biohazard symbol and typically color-coded red (for infectious waste) or yellow (for chemotherapy/linen). Sharps containers must be labeled and sealed before the "Fill Line" is exceeded
+
+##   **Transport** {-}
+
+Moving waste presents a high risk for spills and accidents. Protocols differ based on whether the movement is internal or external
+
+*   **Internal Transport:** Liquid waste should never be carried by hand. It requires **secondary containment** (rubber pails or lipped carts) capable of holding the full volume of the vessel if it breaks. High-traffic public elevators should be avoided
+*   **External Transport (DOT):** Shipping waste off-site requires **UN-certified packaging** and strict documentation via a **Uniform Hazardous Waste Manifest**. Only personnel with current DOT Hazmat training are permitted to sign manifests or prepare waste for shipment

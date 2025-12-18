@@ -1,0 +1,27 @@
+# OSHA Terminology {-}
+
+Navigating the administrative landscape of laboratory safety requires a precise understanding of the terminology and legal structures established by the Occupational Safety and Health Administration (OSHA). Compliance is not merely a checklist activity; it is a dynamic management process governed by specific standards, broad mandates, and strategic hierarchies designed to minimize risk. Understanding these concepts enables the Laboratory Safety Officer to build a legally defensible and operationally safe environment
+
+## **Hierarchy of Controls** {-}
+
+The Hierarchy of Controls is a strategic framework used to select the most effective method for mitigating a hazard. It is visualized as an inverted pyramid, prioritizing controls that physically remove the danger over those that rely on worker behavior
+
+*   **Elimination & Substitution (Most Effective):** Physically removing the hazard or replacing it with a less toxic alternative (e.g., switching from xylene to a citrus-based clearing agent)
+*   **Engineering Controls:** Isolating the worker from the hazard using physical barriers or mechanics (e.g., Biosafety Cabinets, chemical fume hoods, retractable needles)
+*   **Administrative Controls:** Changing work practices or schedules (e.g., SOPs, training, job rotation)
+*   **Personal Protective Equipment (Least Effective):** Wearable barriers (e.g., gloves, respirators). PPE is the last line of defense because it relies entirely on user compliance and creates a single point of failure
+
+## **Regulatory Framework** {-}
+
+OSHA regulations (29 CFR Part 1910) govern general industry and clinical laboratories. Understanding the nuance between different types of guidance is critical for management:
+
+*   **Specification Standards:** Rigid regulations that dictate exactly *how* a hazard must be controlled (e.g., guardrail height requirements)
+*   **Performance Standards:** Flexible regulations that set a safety objective but allow the employer to decide the method of compliance. The **Laboratory Standard (29 CFR 1910.1450)** is a performance standard, requiring a Chemical Hygiene Plan that limits exposure without mandating specific equipment brands or workflows
+*   **Official Advisories:** When regulations are vague, OSHA issues **Letters of Interpretation**. These are not laws, but they establish enforcement precedents and clarify how standards apply to specific scenarios (e.g., clarifying rules on hydration in the lab)
+
+## **General Duty Clause** {-}
+
+Section 5(a)(1) of the OSH Act, known as the General Duty Clause, serves as the "catch-all" enforcement tool for hazards that lack a specific written standard
+
+*   **The Mandate** Employers must provide a workplace free from "recognized hazards" that are likely to cause death or serious harm
+*   **Application:** In the laboratory, this clause is frequently used to cite hazards regarding **Ergonomics** (repetitive strain injuries) and **Workplace Violence**, as there are no specific federal standards addressing these risks. To avoid citation, management must demonstrate they have recognized these industry hazards and implemented feasible abatement methods

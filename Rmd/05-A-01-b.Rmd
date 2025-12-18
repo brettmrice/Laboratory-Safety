@@ -1,0 +1,65 @@
+# Centrifuge {-}
+
+The centrifuge is a workhorse instrument in the clinical laboratory, used to separate components of varying densities (e.g., separating plasma from red blood cells or sedimenting urine). While seemingly benign, a centrifuge stores a tremendous amount of kinetic energy. A standard clinical centrifuge spinning a rotor at high speeds generates forces thousands of times greater than gravity. If this energy is released uncontrollably due to mechanical failure or operator error, the centrifuge can become a dangerous projectile, destroying the bench and injuring personnel. Furthermore, the centrifuge is the primary generator of infectious aerosols in the laboratory. Safety protocols must address both the physical hazard of the machine and the biological hazard of its contents
+
+## **Operational Hazards** {-}
+
+The risks associated with centrifugation fall into two primary categories: mechanical failure (leading to physical trauma) and containment failure (leading to biological exposure)
+
+*   **Mechanical Hazards**
+    *   **Imbalance:** If the load is not distributed symmetrically, the rotor will wobble. At high speeds, this vibration can cause the unit to "walk" off the bench or cause the rotor to detach from the drive shaft and crash through the casing
+    *   **Rotor Failure:** Metal rotors suffer from fatigue over time. Micro-cracks (often caused by corrosion) can propagate under stress, leading to the disintegration of the rotor ("exploding") inside the chamber
+    *   **Contact Injury:** Attempting to touch a spinning rotor or defeat the locking mechanism to open the lid early can result in severe friction burns, lacerations, or fractures
+*   **Biological Hazards**
+    *   **Aerosolization:** If a tube breaks or leaks during the run, the high-velocity air turbulence inside the chamber atomizes the liquid into a fine mist. This mist is invisible and can remain suspended in the laboratory air for extended periods once the lid is opened
+    *   **Tube Failure:** Using tubes not rated for the specific G-force (RCF) of the procedure can cause them to collapse or shatter
+
+## **Safe Loading & Balancing** {-}
+
+The cardinal rule of centrifuge safety is **balance**. The rotor must be loaded such that the mass is distributed evenly around the axis of rotation. Modern centrifuges have imbalance detectors that will shut down the run, but relying on this safety feature is poor practice; the damage may occur before the sensor triggers
+
+*   **Balancing by Mass, Not Volume:** A common error is balancing a tube of blood against a tube of water by visual volume. Blood is more dense than water. For strict safety, particularly in high-speed or ultracentrifuges, tubes should be balanced by weight using a balance
+*   **Symmetrical Placement**
+    *   Tubes must be placed directly opposite one another in the rotor
+    *   If there is an odd number of samples, a "balance tube" filled with water (or a liquid of similar density) must be created to complete the pair
+    *   For swinging bucket rotors, **all buckets:** must be in place, even if only two are being used. Running a rotor with missing buckets changes the aerodynamics and weight distribution, leading to catastrophic failure
+*   **Tube Selection**
+    *   Ensure the tube is chemically compatible with the sample and physically rated for the Relative Centrifugal Force (RCF) to be used. Glass tubes are generally not recommended for high-speed runs due to fragility
+    *   Inspect tubes for "star cracks" or stress lines before loading. A weakened tube will likely fail under pressure
+
+## **Operation Protocols** {-}
+
+*   **Lid Locking:** Ensure the lid is latched securely before starting. Modern units have a safety interlock that prevents the motor from engaging unless the lid is locked, and prevents the lid from opening until the rotor has stopped. **Never** tamper with or bypass this mechanism
+*   **Speed Settings (RPM vs. RCF)**
+    *   Safety protocols rely on the correct application of force. Protocols often specify **g-force:** (Relative Centrifugal Force - RCF), not RPM (Revolutions Per Minute). RCF depends on the radius of the rotor. Inputting 3000 as the g-force on a machine expecting RPM could result in a massive over-speed or under-speed error
+    *   *Equation:* $RCF = 1.118 \times 10^{-5} \times r \times (RPM)^2$ (where $r$ is the radius in cm)
+*   **During the Run:** Do not walk away immediately. Stay for the first minute to listen for unusual noises or excessive vibration. If the machine wobbles or sounds like it is grinding, hit the **Stop** button immediately (or the emergency off switch)
+
+## **Aerosol Containment (Infection Control)** {-}
+
+Because the centrifuge is a potent aerosol generator, strict infection control measures are required when handling biohazards
+
+*   **Safety Cups:** Use sealed buckets (safety cups) with screw-top lids and O-rings. The tubes go inside the cup, and the lid is sealed *before* placing the cup in the rotor. If a tube breaks, the spill and aerosols are contained inside the cup
+*   **Loading/Unloading:** For high-risk specimens (e.g., TB, fungal cultures, or bioterrorism suspects), the safety cups should be loaded and unloaded **inside a Biological Safety Cabinet (BSC)**. This ensures that if a breakage occurred during the spin, the release of aerosols happens within the safety of the hood, not in the open lab
+*   **The 30-Minute Rule:** If a breakage is suspected in a centrifuge without safety cups (e.g., a "bang" was heard, or liquid is seeping out), **turn off the machine and do not open the lid for at least 30 minutes**. This allows the aerosol cloud to settle and reduces the risk of inhalation exposure
+
+## **Maintenance & Rotor Care** {-}
+
+Proper maintenance prevents physical failure. The rotor is the most critical component
+
+*   **Cleaning**
+    *   Clean spills immediately. Salts from buffers or blood can cause corrosion
+    *   **Avoid Bleach on Metal:** Do not use full-strength bleach or harsh acids on aluminum rotors. Chlorine attacks aluminum, causing "pitting" corrosion. These microscopic pits act as stress concentrators where cracks begin. Use a mild detergent or a glutaraldehyde/phenolic based disinfectant, followed by a rinse with distilled water and drying
+    *   Do not use wire brushes or abrasives that can scratch the protective anodized coating of the rotor
+*   **Lubrication:** O-rings on safety caps must be lubricated with vacuum grease to ensure a tight seal and prevent dry-rot. The drive shaft and pivot points of swinging buckets should be lubricated according to manufacturer instructions
+*   **Inspection:** Periodically inspect the rotor for signs of corrosion, pitting, or deformation. Manufacturers typically give rotors a "life span" (e.g., 7 years or a specific number of cycles). Retired rotors should be destroyed to prevent accidental use
+
+## **Emergency Response (Breakage)** {-}
+
+If a breakage occurs:
+
+1.  **Stop:** Turn off the centrifuge immediately
+2.  **Wait:** Keep the lid closed for 30 minutes to allow aerosols to settle
+3.  **PPE:** Don gloves, a gown, and face protection (mask/shield). If the agent is high-risk (e.g., TB), wear an N95 respirator
+4.  **Removal:** Open the lid slowly. Use forceps - never hands - to remove broken glass and tubes. Place debris in a sharps container
+5.  **Disinfection:** Remove the rotor and buckets (if possible) and soak them in a non-corrosive disinfectant. Wipe down the interior bowl of the centrifuge. Ensure the tweezers and all tools used are also decontaminated

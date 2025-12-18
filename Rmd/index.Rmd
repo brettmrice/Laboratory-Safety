@@ -1,0 +1,20 @@
+---
+title: "QLS"
+author: "Brett M. Rice"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::bs4_book
+documentclass: book
+description: |
+  Information intended to assist preparation for Laboratory Safety content on ASCP BOC's Qualification in Laboratory Safety (QLS) certification exam
+---
+
+# About {-}
+
+Information intended to assist preparation for Laboratory Safety content on <a href="https://www.ascp.org/boc/explore-credentials/view-all-credentials/QLS" target="_blank">ASCP BOC's</a> Qualification in Laboratory Safety, QLS(ASCP), certification exam
+
+You are recommend to use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/boc/explore-credentials/view-all-credentials/QLS" target="_blank">ASCP BOC</a> for the QLS certification
+
+## Last Updated {-}
+
+Last edit pushed to this site was on `r Sys.Date()`

@@ -1,0 +1,53 @@
+# Extinguishing Methods {-}
+
+To effectively combat a fire in the laboratory, one must understand the "Fire Tetrahedron." For a fire to exist, four elements must be present: **Heat**, **Fuel**, **Oxygen**, and a **Chemical Chain Reaction**. Fire extinguishing methods work by removing one or more of these four elements. The choice of method depends entirely on the Class of Fire (A, B, C, D, or K). Using the wrong method can result in injury (electrocution), explosion, or the rapid spread of the fire
+
+## **Water (Pressurized Water / APW)** {-}
+
+*   **Target Class:** **Class A** only (Paper, Wood, Cloth, Trash)
+*   **Mechanism:** **Cooling**. Water absorbs the heat energy from the fire, lowering the temperature of the fuel below its ignition point
+*   **Contraindications**
+    *   **Class B (Liquids):** Water is denser than most flammable liquids (oil/gas). The burning liquid will float on top of the water, spreading the fire to a larger area
+    *   **Class C (Electrical):** Water is a conductor. The stream can carry high-voltage current back to the user, causing fatal electrocution
+*   **Appearance:** Silver canister with a gauge. No horn, just a hose
+
+## **Carbon Dioxide (CO2)** {-}
+
+*   **Target Class:** **Class B** (Flammable Liquids) and **Class C** (Electrical)
+*   **Mechanism:** **Smothering** and **Cooling**. The CO2 is stored as a liquid under high pressure. When released, it expands rapidly into a gas, displacing the oxygen around the fire (smothering). The rapid expansion also absorbs heat (cooling), often creating dry ice "snow."
+*   **Advantages:** It is a "clean" agent. It leaves no residue behind, making it the preferred choice for expensive laboratory analyzers or computers
+*   **Contraindications**
+    *   **Class A:** Not effective on deep-seated paper/wood fires, as the fire often re-ignites once the gas dissipates and oxygen returns
+    *   **Class D:** Can react violently with certain combustible metals
+*   **Appearance:** Red canister. Distinctive large, hard plastic **discharge horn** (to prevent freeze-burn on the user's hand). No pressure gauge (weight determines fullness)
+
+## **Dry Chemical (Multipurpose ABC)** {-}
+
+*   **Target Class:** **Class A, B, and C**. This is the standard "all-purpose" extinguisher found in most clinical laboratory corridors
+*   **Agent:** Monoammonium Phosphate (yellow powder)
+*   **Mechanism:** **Interruption of Chain Reaction** and **Smothering**. The fine powder coats the fuel, separating it from oxygen, and chemically inhibits the combustion reaction
+*   **Advantages:** Versatile. The user does not need to identify the fire type in a panic
+*   **Disadvantages:** It creates a massive mess. The powder is corrosive to electronics and difficult to clean up. If used on a chemistry analyzer, the analyzer is likely ruined, even if the fire damage was minimal
+*   **Appearance:** Red canister with a hose and a pressure gauge
+
+## **Halon & Halon-Substitutes (Clean Agents)** {-}
+
+*   **Target Class:** **Class B and C**
+*   **Agent:** Halon 1211 (older) or Halotron/FM-200 (newer, ozone-safe)
+*   **Mechanism:** **Interruption of Chain Reaction**. These gases chemically interfere with the combustion process at a molecular level without depleting oxygen significantly
+*   **Application:** Used in server rooms, computer labs, and areas with sensitive electronics (MRI suites) where water or dry chemical powder would cause irreparable damage
+*   **Advantages:** Non-conductive, non-corrosive, evaporates completely (no residue)
+
+## **Dry Powder (Specialized)** {-}
+
+*   **Target Class:** **Class D** only (Combustible Metals like Sodium, Magnesium)
+*   **Agent:** Graphite, Sodium Chloride, or Copper powder (e.g., Met-L-X)
+*   **Mechanism:** **Smothering (Heat Absorption/Crusting)**. The powder is designed to melt over the burning metal, forming a solid crust that excludes oxygen and absorbs the intense heat
+*   **Technique:** Unlike other extinguishers, these often require a low-velocity discharge (soft flow) to avoid blowing the burning metal shavings around the room
+
+## **Wet Chemical** {-}
+
+*   **Target Class:** **Class K** (Kitchen Oils/Fats)
+*   **Agent:** Potassium Acetate based solution
+*   **Mechanism:** **Saponification**. The chemical reacts with the burning fat to create a thick, soapy foam layer. This seals the surface (smothering) and cools the oil preventing re-ignition
+*   **Application:** Found in hospital cafeterias and breakrooms with fryers

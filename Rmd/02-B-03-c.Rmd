@@ -1,0 +1,46 @@
+# Fire Blankets {-}
+
+A **Fire Blanket** is a safety device designed to extinguish small incipient (starting) fires or to wrap around a person whose clothing has caught fire. It consists of a sheet of fire-retardant material, typically woven fiberglass or specialized wool, capable of withstanding temperatures up to 900°F (480°C). In the clinical laboratory, where flammable solvents (Class B) and Bunsen burners are common, the fire blanket serves as a critical bridge between "Stop, Drop, and Roll" and the use of a chemical extinguisher
+
+## **Principle of Operation** {-}
+
+The fire blanket operates primarily by **Smothering**. By covering the fire completely, the blanket creates a seal that cuts off the supply of oxygen - one of the four essential elements of the Fire Tetrahedron. Once the oxygen is depleted, the combustion reaction ceases. Unlike water, it does not cool the fire rapidly, nor does it chemically inhibit the reaction like Halon
+
+## **Deployment & Usage Protocol** {-}
+
+Fire blankets are typically stored in wall-mounted red containers or quick-release bags labeled "Fire Blanket." They are designed for rapid, one-motion deployment
+
+### **Step-by-Step Usage (Person on Fire)** {-}
+
+1.  **Remove:** Pull the black or white tabs hanging from the bottom of the container. This releases the blanket instantly
+2.  **Protect Hands:** Hold the blanket by the corners or handles, but *wrap the top edge over your hands*. This protects your hands from burns as you approach the fire
+3.  **Shield:** Hold the blanket up like a shield between you and the flames
+4.  **Wrap:** Instruct the victim to "Stop, Drop, and Roll." If they cannot, approach them and wrap the blanket around them tightly
+5.  **Smother:** Pat the blanket down over the body to seal out air. Do *not* slap, as this can fan the flames. Ensure the blanket is sealed around the neck to prevent flames from rising to the face/hair (the "chimney effect")
+6.  **Wait:** Keep the blanket in place until you are certain the fire is out and the material has cooled. Removing it too early can allow re-ignition if the clothing is still hot enough and oxygen returns
+
+### **Step-by-Step Usage (Small Lab Fire)** {-}
+
+1.  **Assess:** Only use on a fire smaller than the blanket (e.g., a beaker of ethanol or a small trash can)
+2.  **Place:** Gently place - do not throw - the blanket over the burning object. Throwing it can knock the beaker over, spreading burning liquid
+3.  **Seal:** Ensure the blanket covers the entire opening of the container to cut off airflow
+4.  **Leave:** Leave the blanket in place for at least 15-30 minutes to ensure the fuel cools down
+
+## **Strategic Placement in the Laboratory** {-}
+
+*   **Proximity:** Fire blankets should be located within 30 feet of high-risk areas, such as the Microbiology setup bench (Bunsen burners) or the Histology grossing station (flammable fixatives)
+*   **Accessibility:** They must be mounted at a height accessible to all staff and free from obstruction. They are often co-located with fire extinguishers and eye wash stations
+
+## **Maintenance & Inspection** {-}
+
+Fire blankets require minimal but critical maintenance
+
+*   **Single Use:** Most fire blankets are designed for single use. If deployed on a fire, the structural integrity of the fibers is compromised by the heat and soot. It must be discarded and replaced
+*   **Visual Inspection:** Check annually (or monthly during safety rounds) to ensure the container is not damaged, the pull tabs are visible, and pests haven't nested inside
+*   **Hygiene:** In a biological laboratory, if a blanket is used on a person, it is considered biohazardous waste if it comes into contact with blood or non-intact skin
+
+## **Advantages vs. Limitations** {-}
+
+*   **Advantage:** Effective on **Class B** (Liquid) and **Class A** (Solid) fires. It is the preferred method for a person on fire because it does not cause thermal shock or chemical irritation (unlike CO2 or Dry Chemical extinguishers) and does not ruin clothing/skin with residue
+*   **Limitation:** It is generally **ineffective** against large structural fires or widely spreading liquid spills (where the blanket isn't big enough)
+*   **Contraindication:** Caution with **Class C** (Electrical) fires. While fiberglass is non-conductive, if the blanket becomes wet or contaminated, it could conduct electricity. Power should be cut first

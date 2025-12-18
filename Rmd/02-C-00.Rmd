@@ -1,0 +1,30 @@
+# Electrical Safety {-}
+
+In the high-tech environment of the clinical laboratory, electrical safety is paramount. The dense concentration of analyzers, centrifuges, and computers - often operating near conductive liquids - creates a significant risk for fire and electrocution. Preventing these hazards requires strict adherence to power management protocols (Lockout/Tagout), discipline in wiring practices (avoiding extension cords/daisy chains), and a prepared response for accidents
+
+## **Lockout/Tagout, Extension Cords, & Daisy Chains** {-}
+
+**Lockout/Tagout (LOTO)**
+This is a critical safety procedure used during equipment maintenance to prevent accidental startup. It involves isolating the energy source (unplugging or flipping a breaker) and placing a physical **Lock** and a warning **Tag** on the switch
+
+*   **Purpose:** Ensures that a centrifuge or track system does not activate while a laboratory scientist's hands are inside the machinery
+*   **Rule:** The key to the lock is held *only* by the person performing the work
+
+**Extension Cords and Daisy Chains**
+Mismanagement of power cords is a leading cause of laboratory fires
+
+*   **Extension Cords:** Permitted only for **temporary** use (e.g., <90 days). They must not be used as permanent wiring for analyzers. Cords must be inspected for cracks and must retain their grounding prong (the third pin)
+*   **Daisy Chaining:** The practice of plugging one power strip into another is **strictly prohibited**. This increases electrical resistance and heat, creating a high risk of melting and fire
+*   **Protocol:** High-wattage equipment (refrigerators, centrifuges) must be plugged directly into wall outlets
+
+## **Accident Response** {-}
+
+Electrical accidents involving shock or electrocution require a specialized response to protect the rescuer
+
+*   **The Hazard:** A victim being shocked may be unable to let go of the source due to muscle tetany. A rescuer who touches them will also be electrocuted
+*   **The Response**
+    1.  **Do Not Touch:** Never touch the victim with bare hands while they are in contact with the source
+    2.  **De-energize:** Immediately unplug the device or flip the main circuit breaker
+    3.  **Disengage:** If power cannot be cut, use a **non-conductive object** (wooden broom, plastic bin) to push the victim away from the source
+    4.  **Treat:** Check for pulse/breathing immediately (CPR/AED) and treat for burns/shock
+*   **Medical Follow-up:** Any electrical shock, no matter how minor, requires mandatory medical evaluation due to the risk of delayed cardiac arrhythmia

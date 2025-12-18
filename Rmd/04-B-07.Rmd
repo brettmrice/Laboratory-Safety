@@ -1,0 +1,81 @@
+# Packing & Shipping Infectious Substances (Category A & B) {-}
+
+The transport of biological materials outside the laboratory is strictly regulated by international and domestic laws. Unlike moving a specimen from the receiving window to the bench (internal transport), placing a specimen into commerce (external transport via courier, FedEx, or mail) transfers the risk to the public and transportation workers (pilots, drivers) who lack medical training. The primary regulatory bodies governing this process are the **International Air Transport Association (IATA)** for air travel and the **Department of Transportation (DOT)** for ground travel in the US. Violation of these regulations carries significant civil and criminal penalties for the "Shipper" (the laboratory scientist signing the paperwork)
+
+## **Mandatory Training** {-}
+
+Before any laboratory employee can pack, label, or sign shipping documents for infectious substances, they must undergo specific, documented training
+
+*   **Certification:** Training must be certified and is employer-specific
+*   **Recurrence:** IATA requires retraining every **2 years**; US DOT requires retraining every **3 years**
+*   **Scope:** Training must cover general awareness, function-specific tasks (how to pack), and safety/security awareness
+
+## **Classification of Biological Materials** {-}
+
+The first step in the protocol is classifying the substance based on the risk it poses. This classification dictates the packaging strength and the labeling required
+
+### **Category A: Infectious Substances** {-}
+
+*   **Definition:** An infectious substance in a form that, when exposure to it occurs, is capable of causing permanent disability, life-threatening or fatal disease in otherwise healthy humans or animals
+*   **Identification**
+    *   **UN 2814:** Infectious substances affecting humans (e.g., Ebola, *Bacillus anthracis* cultures, *Francisella tularensis*)
+    *   **UN 2900:** Infectious substances affecting animals only (e.g., Foot and Mouth disease)
+*   **Key Indicator:** These are generally **cultures** of high-risk pathogens or patient specimens suspected of containing highly lethal agents (e.g., Hemorrhagic fevers)
+
+### **Category B: Biological Substances** {-}
+
+*   **Definition:** An infectious substance that does not meet the criteria for Category A. This includes the vast majority of diagnostic or investigational specimens (blood, urine, tissue) sent for routine testing
+*   **Identification**
+    *   **UN 3373:** Biological Substance, Category B
+*   **Scope:** This covers specimens known or reasonably expected to contain pathogens that are not lethal or are readily treatable (e.g., Hepatitis B, HIV, Salmonella, Lyme disease)
+
+### **Exempt Human Specimen** {-}
+
+*   **Definition:** A specimen with a minimal likelihood that pathogens are present (e.g., blood for cholesterol or hormone testing, urine for drug screening)
+*   **Protocol:** These are subject to minimal packaging requirements (leakproof) and do not require UN labeling, but they are technically distinct from Category A and B
+
+## **The Triple Packaging System** {-}
+
+Regardless of classification, all infectious substances must be packed using the **Triple Packaging System**. This system provides three layers of containment to ensure the specimen stays inside the package even if the box is crushed, dropped, or subjected to pressure changes in an aircraft cargo hold
+
+1.  **Primary Receptacle:** The tube, vial, or jar containing the specimen. It must be watertight and leakproof. If it contains liquid, the cap should be secured (e.g., with Parafilm or tape) to prevent loosening due to vibration
+2.  **Secondary Packaging:** A watertight, leakproof container (e.g., a sealed Ziploc biohazard bag or a screw-top canister) that encloses the primary receptacle
+    *   **Absorbent Material:** Sufficient absorbent material (cotton, cellulose, paper towels) must be placed *between* the primary and secondary packaging to absorb the **entire** liquid content of the primary receptacle in case of breakage. *This is a critical inspection point*
+3.  **Outer Packaging:** A rigid, durable outer container (usually a fiberboard box) of adequate strength for its capacity, mass, and intended use. At least one surface must be large enough (100mm x 100mm) to display required labels
+
+## **Packing & Labeling Protocols: Category A (UN 2814)** {-}
+
+Category A shipments are high-risk and undergo the strictest scrutiny. The packaging must be UN-certified (tested to withstand a 9-meter drop and a puncture test)
+
+*   **The Label:** A diamond-shaped label (diamond-on-point) featuring the "Infectious Substance" symbol (three crescents over a circle)
+*   **Text Requirements:** The Proper Shipping Name **"Infectious substance, affecting humans"** and the UN number **"UN 2814"** must be written on the outside of the box
+*   **Documentation:** A **Shipper's Declaration for Dangerous Goods** (a specific legal document with red-hatched borders) is required. It must detail the exact technical name of the pathogen (e.g., *"Bacillus anthracis"*), the quantity, and emergency contact info
+*   **Quantity Limits:** Passenger aircraft strictly limit the volume of Category A substances (50 mL or 50 g). Cargo aircraft allow larger volumes (up to 4 L or 4 kg)
+
+## **Packing & Labeling Protocols: Category B (UN 3373)** {-}
+
+This is the standard protocol for sending reference lab work
+
+*   **The Label:** A diamond-shaped label containing the text **"UN 3373"** in bold characters. Next to the diamond, the text **"Biological Substance, Category B"** must be printed. *Note: The standard orange Biohazard symbol is NOT used on the outside of the box for shipping; it is for internal lab safety only*
+*   **Packaging Strength:** The outer package must be rigid (a cardboard box). Shipping Category B specimens in a flexible plastic envelope (e.g., a standard FedEx Pak) without a rigid internal box is a violation of regulations
+*   **Documentation:** A Shipper's Declaration is generally **not** required. The air waybill is sufficient, provided the nature of the goods is clearly marked
+
+## **Shipping with Refrigerants (Dry Ice)** {-}
+
+Many specimens must be shipped frozen. Dry Ice (Carbon Dioxide, solid) is considered a Class 9 Dangerous Good because it displaces oxygen (asphyxiation hazard) and expands 800 times its volume as it sublimates (explosion hazard)
+
+*   **Venting:** The packaging must be designed to allow the release of carbon dioxide gas. **Never** tape a Styrofoam cooler completely shut; it will explode. Tape the outer cardboard box only
+*   **Placement:** Dry ice goes *outside* the secondary packaging (around the samples) but *inside* the outer box. The samples must be secure so they don't rattle around as the ice disappears
+*   **Labeling**
+    *   Class 9 "Miscellaneous Dangerous Goods" diamond label
+    *   UN Number: **UN 1845**
+    *   Proper Shipping Name: **"Carbon Dioxide, solid":** or **"Dry Ice"**
+    *   **Net Weight:** The weight of the dry ice (in kg) must be written on the box so the pilot can calculate the oxygen displacement in the hold
+
+## **Overpacks** {-}
+
+If a laboratory has multiple small boxes (e.g., five separate Category B boxes) and places them all into one large box for ease of handling, this large box is called an **Overpack**
+
+*   **Protocol:** All markings and labels that are on the inner boxes must be reproduced on the outside of the Overpack
+*   **Marking:** The word **"OVERPACK"** must be clearly printed on the exterior
+*   **Orientation:** "This Way Up" arrows are required on two opposite sides to ensure the inner tubes remain upright

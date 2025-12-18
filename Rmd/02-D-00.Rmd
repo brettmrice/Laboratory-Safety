@@ -1,0 +1,40 @@
+# Compressed Gas {-}
+
+Compressed gases and cryogenic liquids are essential utilities in the clinical laboratory, powering everything from anaerobic incubators (Nitrogen/CO2) to Atomic Absorption instruments (Acetylene). However, they introduce significant hazards: high pressure (projectile risk), chemical toxicity/flammability, and extreme cold. Safe management relies on strict protocols for identification, physical handling, and protection against thermal injury
+
+## **Labeling** {-}
+
+Positive identification of cylinder contents is the first line of defense
+
+*   **The Golden Rule:** "Read the label, not the cylinder."
+*   **Mandatory Labels:** The only legal identification is the manufacturer's **written text label or stencil** on the cylinder shoulder. This must include the product name, concentration, and hazard warnings
+*   **Color Codes:** Do **NOT** rely on tank color (e.g., assuming green is Oxygen). Color codes vary by industry and are not a substitute for the label
+*   **DOT Diamonds:** Visual pictograms indicate the hazard class:
+    *   **Green:** Non-Flammable (Nitrogen, CO2)
+    *   **Red:** Flammable (Hydrogen, Acetylene)
+    *   **Yellow:** Oxidizer (Oxygen) - *Must be stored 20 ft from flammables.*
+
+## **Transport & Storage** {-}
+
+Cylinders are high-pressure vessels that can become missiles if the valve is sheared off
+
+*   **Transport**
+    *   Always ensure the **valve protection cap:** is screwed on hand-tight before moving
+    *   Use a **cylinder hand truck:** with a safety chain. Never roll, drag, or slide cylinders
+    *   **Elevators:** Do not ride in an elevator with a cylinder (asphyxiation risk). Send it unaccompanied to a receiver
+*   **Storage**
+    *   **Restraints:** Cylinders must be secured to a wall or bench with a chain or strap (positioned 2/3 up the body) to prevent tipping
+    *   **Segregation:** Store "Full" and "Empty" cylinders separately. Keep Oxidizers at least 20 feet away from Flammables
+
+## **Cryogens** {-}
+
+Cryogens are liquefied gases stored at extremely low temperatures (LN2 at -196°C; Dry Ice at -78.5°C)
+
+*   **Hazards**
+    *   **Tissue Damage:** Instant frostbite/burns upon contact
+    *   **Expansion:** LN2 expands ~700x when boiling, creating an explosion risk in sealed containers and an asphyxiation risk (displacing oxygen) in small rooms
+*   **PPE**
+    *   **Gloves:** Loose-fitting cryogenic gloves (so they can be shaken off if liquid enters)
+    *   **Face:** Full face shield mandated for pouring
+    *   **Feet:** Closed-toe shoes; cuffless pants covering the shoe opening
+*   **Handling:** Store in vented Dewars (never sealed tight). Use tongs for dry ice. Never dispose of dry ice in a sink

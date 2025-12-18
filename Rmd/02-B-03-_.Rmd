@@ -1,0 +1,29 @@
+# Fire Safety Equipment {-}
+
+The clinical laboratory is equipped with a tiered system of fire safety devices designed to detect, contain, and suppress fires. This system ranges from automated building-wide alarms to handheld tools for immediate intervention. Understanding the specific function, operation, and limitations of each device is mandatory for all laboratory personnel, as misuse can escalate a contained incident into a catastrophe
+
+## **Fire Alarms** {-}
+
+The fire alarm system serves as the facility's central nervous system, detecting danger and coordinating the evacuation
+
+*   **Initiating Devices:** The system is triggered either manually by **Pull Stations** (located near exits) or automatically by **Smoke/Heat Detectors**. In laboratories, heat detectors are often used instead of smoke detectors to prevent false alarms from steam or chemical vapors
+*   **Notification:** Activation triggers audible horns (usually the Temporal Code 3 pattern) and visual strobes (flashing lights for the hearing impaired)
+*   **Automated Controls:** The alarm system interfaces with building operations to close fire doors (containment), recall elevators to the ground floor, and shut down HVAC systems to prevent smoke circulation
+
+## **Fire Extinguishers** {-}
+
+Portable extinguishers are active defense tools designed for small, incipient fires. Their effective use depends on the **P.A.S.S. Technique** (Pull, Aim, Squeeze, Sweep) and selecting the correct agent for the specific **Class of Fire**
+
+*   **Class A (Water):** Only for paper/wood. **Never** use on electrical or liquid fires (electrocution/spread risk)
+*   **Class B/C (Carbon Dioxide - CO2):** Uses cold gas to smother fires. Ideal for flammable liquids and sensitive electronics as it leaves no residue
+*   **Class A/B/C (Dry Chemical):** The standard "all-purpose" lab extinguisher. It uses a yellow powder to inhibit chemical combustion. While versatile, the powder is corrosive and can ruin electronic equipment
+*   **Class D (Dry Powder):** Specialized yellow extinguishers used exclusively for combustible metal fires (Sodium/Magnesium)
+*   **Class K (Wet Chemical):** Specialized for kitchen grease fires (saponification)
+
+## **Fire Blankets** {-}
+
+Fire blankets are sheets of fire-retardant fiberglass designed to extinguish fires by **Smothering** (cutting off oxygen)
+
+*   **Primary Use:** They are the preferred method for extinguishing a **person whose clothing is on fire**. Unlike chemical extinguishers, they do not cause frostbite, chemical burns, or eye irritation
+*   **Secondary Use:** Can be used to smother small containment fires, such as a burning beaker or trash can, by gently placing the blanket over the opening
+*   **Operation:** Deployed by pulling quick-release tabs. The user must wrap their hands in the top edge of the blanket for protection before shielding the victim

@@ -1,0 +1,76 @@
+# Transport & Storage {-}
+
+In the clinical laboratory, compressed gas cylinders act as potential kinetic energy bombs. A standard cylinder can be pressurized up to 2,200 psi. If the valve stem is sheared off due to a fall, the escaping gas can propel the cylinder through concrete walls at speeds comparable to a missile. Consequently, the transport and storage of these vessels are governed by rigid physical safety protocols designed to maintain the structural integrity of the container and the valve
+
+## **Transport Protocols** {-}
+
+Moving a cylinder from the loading dock to the laboratory (e.g., bringing a CO2 tank to a Microbiology incubator) is the period of highest risk. Hand-carrying or rolling cylinders along the floor is strictly prohibited
+
+### **The Valve Protection Cap** {-}
+
+The most critical safety device on a cylinder is the threaded metal cap
+
+*   **Mandatory Usage:** The cap must be screwed on hand-tight whenever the cylinder is not actively connected to a regulator. This applies even if the cylinder is "Empty."
+*   **Function:** The cap protects the brass valve stem. If a capped cylinder falls, the impact is absorbed by the cap. If an uncapped cylinder falls and strikes the valve, the valve can shear, releasing the pressurized contents instantly
+*   **Lifting Constraint:** Never lift a cylinder by the cap. The threads may be loose, causing the heavy cylinder to fall on the operator's feet
+
+### **The Cylinder Hand Truck** {-}
+
+*   **Appropriate Equipment:** Cylinders must be moved using a hand truck (dolly) specifically designed for gas cylinders. These carts feature a curved back and a securing chain
+*   **Technique**
+    1.  Ensure the valve cap is secure
+    2.  Slightly tilt the cylinder to slide the cart's base plate underneath
+    3.  **Secure the chain:** immediately. Never move the cart without the chain engaged
+    4.  Move at a walking pace
+*   **Prohibitions:** Never drag, slide, or roll a cylinder horizontally. Never use a standard flatbed cart where the cylinder could roll off
+
+### **Elevator Transport (Unaccompanied Transport)** {-}
+
+Transporting gases in elevators poses an asphyxiation risk. If the elevator stalls and the cylinder begins to leak, the confined space will quickly become oxygen-deficient or toxic
+
+*   **Protocol:** Place the secured cylinder in the elevator. Prevent public access. Send the elevator to the destination floor. A second person must be waiting at the destination floor to receive it. **No personnel should ride in the elevator with a compressed gas cylinder.**
+
+## **Storage Requirements** {-}
+
+Once in the laboratory, cylinders must be stored in a manner that prevents tipping and protects them from environmental extremes
+
+### **Securing & Restraints** {-}
+
+*   **The "Two-Point" or "2/3rds" Rule:** Cylinders must be secured to a wall, a permanent bench fixture, or a heavy cylinder stand using non-combustible chains or heavy-duty straps. The chain should be placed approximately 2/3 of the way up the cylinder body (above the center of gravity) to prevent tipping
+*   **Individual Restraint:** Ideally, each cylinder should have its own chain. "Gang chaining" (looping one long chain around a group of cylinders) is less secure, as removing one cylinder creates slack that endangers the others
+
+### **Environmental Conditions** {-}
+
+*   **Temperature:** Cylinders must be stored away from heat sources (radiators, drying ovens, autoclaves). According to the Ideal Gas Law (PV=nRT), increasing temperature increases pressure. If the internal pressure exceeds the cylinder's rating, the safety relief valve may rupture, venting the gas. Temperatures should not exceed 125°F (52°C)
+*   **Ventilation:** Storage areas must be dry and well-ventilated to prevent corrosion of the metal tank and to allow leaking gases to dissipate
+*   **Egress:** Cylinders must never be stored in hallways, stairwells, or directly in front of exit doors. They must not obstruct evacuation routes
+
+### **Inventory Management** {-}
+
+*   **Status Tagging:** Cylinders should be clearly tagged as "Full," "In Use," or "Empty."
+*   **Separation:** "Full" and "Empty" cylinders should be physically separated. This prevents a laboratory scientist from accidentally hooking up an empty tank to a critical life-support instrument or an automated analyzer during an emergency
+*   **Stock Rotation:** Use the "First-In, First-Out" (FIFO) method. Old cylinders can suffer from valve corrosion or seal degradation
+
+## **Segregation of Incompatibles (The 20-Foot Rule)** {-}
+
+Chemical hazards dictate how cylinders are arranged relative to one another. Mixing incompatible classes of gases can lead to catastrophic fires
+
+### **Oxidizers vs. Flammables** {-}
+
+*   **The Hazard:** Oxidizers (Oxygen, Nitrous Oxide) greatly accelerate combustion. Flammables (Hydrogen, Acetylene, Propane) provide the fuel. Storing them side-by-side creates a high risk of explosion if a leak occurs
+*   **The Regulation:** Oxygen cylinders must be separated from fuel-gas cylinders by a minimum distance of **20 feet (6.1 meters)**
+*   **The Exception:** If a 20-foot separation is not physically possible in a small lab, they must be separated by a non-combustible fire wall (fire barrier) at least **5 feet high** with a fire-resistance rating of at least **one-half hour**
+*   **In-Use Exception:** This separation rule applies to storage. It does not apply to cylinders that are currently connected to an instrument (e.g., an Atomic Absorption Spectrophotometer using Acetylene and Air/Oxygen) for active use
+
+## **Regulator Safety** {-}
+
+The regulator is the interface between the high-pressure cylinder and the low-pressure laboratory instrument
+
+*   **CGA Fittings:** The Compressed Gas Association (CGA) assigns unique connector geometries to different gases to prevent cross-connections
+    *   **Inert/Oxidizers:** Typically use right-hand threads (righty-tighty)
+    *   **Flammables:** Often use **left-hand threads** (lefty-tighty) and have a distinct "notch" cut into the nut
+*   **The "No Force" Rule:** If a regulator does not screw on easily by hand, it is the wrong regulator. Never force it with a wrench
+*   **Opening the Valve:** When opening a cylinder:
+    1.  Stand to the side of the regulator, never directly in front of the pressure gauge faces (in case the glass blows out)
+    2.  Open the valve **slowly**. Rapid opening can cause a sudden compression of gas in the regulator, generating heat that can ignite internal seals (Adiabatic Compression)
+

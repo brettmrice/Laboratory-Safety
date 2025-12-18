@@ -1,0 +1,75 @@
+# Hierarchy of Controls {-}
+
+The **Hierarchy of Controls** is the fundamental framework used by the Occupational Safety and Health Administration (OSHA), the National Institute for Occupational Safety and Health (NIOSH), and industrial hygienists to determine how to implement feasible and effective control solutions for occupational hazards. In the context of Laboratory Safety Management, this hierarchy serves as a strategic roadmap for the Safety Officer and the Safety Committee during the risk assessment planning phase
+
+The hierarchy is visualized as an inverted pyramid. The controls at the top of the pyramid are potentially more effective and protective than those at the bottom. The underlying principle is that safety management should always attempt to implement methods at the top of the hierarchy before resorting to methods lower down. The lower the level, the more the safety of the system relies on human behavior and compliance, which introduces variability and error
+
+## **Elimination (Most Effective)** {-}
+
+Elimination is the physically removal of the hazard from the workplace. It is the most effective control because if the hazard is no longer present, it cannot cause harm. In the hierarchy, this is the preferred solution, though it is often the most difficult to implement in a clinical laboratory setting because the "hazards" are often the patient specimens themselves, which are required for the work
+
+*   **Definition:** The complete removal of the dangerous pathogen, chemical, or process
+*   **Physiological/Operational Impact:** Elimination requires no behavioral change from the staff and offers 100% protection against the specific hazard removed
+*   **Laboratory Examples**
+    *   **Discontinuing a Test:** A laboratory decides to stop performing a manual extraction method that uses benzene (a carcinogen) and instead sends the test to a reference laboratory. The hazard of benzene exposure is eliminated from the local facility
+    *   **Automation:** Replacing a manual lifting task with a robotic track system eliminates the ergonomic hazard of heavy lifting
+
+## **Substitution** {-}
+
+When elimination is not feasible, substitution is the next best option. This involves replacing the hazard with something less hazardous. The risk is not removed entirely, but the severity of the potential injury or illness is significantly reduced
+
+*   **Definition:** Replacing a dangerous material, chemical, or equipment with a safer alternative
+*   **Physiological/Operational Impact:** The workflow often remains the same, but the agent used is safer. This reduces the *toxicity* or *danger level* of the exposure should one occur
+*   **Laboratory Examples**
+    *   **Chemical Substitution:** Replacing xylene (a neurotoxin and flammable liquid) with limonene-based (citrus) clearing agents in the Histology department. While limonene is a sensitizer, it is far less toxic than xylene
+    *   **Reagent Modification:** Switching from cyanide-based hemoglobin reagents to sodium lauryl sulfate (SLS) methods. This substitutes a deadly poison for a surfactant
+    *   **Material Change:** Replacing glass capillary tubes with plastic Mylar-wrapped tubes to prevent breakage and subsequent lacerations
+
+## **Engineering Controls** {-}
+
+If a hazard cannot be eliminated or substituted, the next strategy is to isolate people from the hazard. Engineering controls are physical changes to the work environment that prevent the hazard from reaching the worker. Under OSHA standards (such as the Bloodborne Pathogens Standard), engineering controls are the primary method for reducing exposure to blood and body fluids
+
+*   **Definition:** Physical barriers or mechanical devices that remove or isolate the hazard from the workplace. These controls work *at the source* of the hazard, independent of worker behavior
+*   **Physiological/Operational Impact:** These are highly effective because they function regardless of whether the worker is paying attention. However, they require initial capital investment and regular maintenance (e.g., airflow certification)
+*   **Laboratory Examples**
+    *   **Biosafety Cabinets (BSC):** The primary engineering control for Microbiology. The directional airflow keeps aerosols away from the laboratory scientist’s respiratory tract
+    *   **Chemical Fume Hoods:** Isolating volatile chemical vapors from the general laboratory air
+    *   **Sharps Safety Devices:** Retractable needles, self-blunting lancets, and shielded IV catheters are engineering controls because the safety mechanism is built into the device
+    *   **Closed-Tube Sampling:** Hematology and Chemistry analyzers that pierce the cap of the tube (cap-piercing) rather than requiring the laboratory scientist to manually remove the lid (which generates aerosols)
+
+## **Administrative Controls** {-}
+
+Administrative controls change the way people work. Unlike the top three levels, these controls do not remove the hazard; rather, they limit the worker's exposure to it. These are less effective because they rely entirely on human compliance, training, and supervision. If a worker violates the policy, the protection fails
+
+*   **Definition:** Policies, procedures, and scheduling changes that reduce the duration, frequency, or intensity of exposure to a hazard
+*   **Physiological/Operational Impact:** These controls address the "human factor." They are often low-cost to implement but have a high recurring cost in terms of training and enforcement
+*   **Laboratory Examples**
+    *   **Standard Operating Procedures (SOPs):** Written instructions that dictate safe work practices
+    *   **Hygiene Plans:** The Chemical Hygiene Plan (CHP) and Exposure Control Plan (ECP) are administrative documents mandated by OSHA
+    *   **Work Rules:** Prohibiting food, drink, and cosmetics in the laboratory; requiring frequent hand washing
+    *   **Signage:** Placing Biohazard or Radioactive warning labels on doors and equipment
+    *   **Job Rotation:** Rotating staff out of high-repetitive-motion tasks to prevent ergonomic injury (Carpal Tunnel Syndrome)
+
+## **Personal Protective Equipment (Least Effective)** {-}
+
+Personal Protective Equipment (PPE) is the last line of defense. It is placed at the bottom of the inverted pyramid because it is the least effective method of control. If PPE fails (e.g., a glove tears) or is not worn correctly (e.g., an N95 mask is not fit-tested), exposure is immediate. OSHA regulations usually stipulate that PPE should only be relied upon when engineering and administrative controls are not feasible or do not fully eliminate the risk
+
+*   **Definition:** Equipment worn by the individual to create a barrier between the worker and the hazard
+*   **Physiological/Operational Impact:** PPE protects only the wearer, not the environment. It is susceptible to damage, requires proper sizing, can be uncomfortable (leading to non-compliance), and creates waste
+*   **Laboratory Examples**
+    *   **Gloves:** Nitrile or vinyl gloves protect against skin contact with pathogens
+    *   **Lab Coats:** Fluid-resistant coats prevent contamination of street clothes and skin
+    *   **Face Protection:** Goggles, face shields, and splash guards
+    *   **Respiratory Protection:** N95 respirators or Powered Air Purifying Respirators (PAPR) for protection against airborne pathogens like Tuberculosis
+
+## **Application in Risk Management Planning** {-}
+
+When the Safety Officer performs a Job Hazard Analysis (JHA), they must apply the hierarchy in order. For example, if a new test involves a toxic spray:
+
+1.  **Can we stop doing it?:** (Elimination - No, the patient needs the result)
+2.  **Can we use a non-toxic spray?:** (Substitution - No, the reaction requires this chemical)
+3.  **Can we do it inside a hood?:** (Engineering Control - Yes, install a fume hood)
+4.  **How do we teach the staff?:** (Administrative - Write an SOP)
+5.  **What do they wear?:** (PPE - Gloves, coat, goggles)
+
+This systematic approach ensures that the laboratory does not default to the weakest control (PPE) without first considering stronger, more systemic safety measures

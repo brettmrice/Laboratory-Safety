@@ -1,0 +1,62 @@
+# Storage & Inventory {-}
+
+Effective chemical storage and inventory management is the logistical backbone of laboratory safety. It moves beyond simple housekeeping to become a critical risk mitigation strategy. Improper storage is a leading cause of laboratory fires and accidental exposures, while poor inventory control leads to the accumulation of unstable, expired chemicals and excessive disposal costs. Regulatory bodies, including OSHA, The Joint Commission (TJC), and the College of American Pathologists (CAP), mandate strict "cradle-to-grave" tracking of hazardous substances
+
+## **Inventory Control Systems** {-}
+
+A chemical inventory is not merely a list of supplies; it is a legal record of the hazards present in the facility. An accurate inventory is required for compliance with the Emergency Planning and Community Right-to-Know Act (EPCRA), allowing emergency responders to know the total fuel load and toxicity risks before entering a burning building
+
+*   **The Master List:** The laboratory must maintain a centralized, annually updated inventory of all hazardous chemicals. This database typically tracks the chemical name, CAS (Chemical Abstracts Service) registry number, manufacturer, quantity on hand, physical location (room/shelf), and associated hazard classification
+*   **First-In, First-Out (FIFO):** To prevent chemical aging and expiration, new stock should be placed behind older stock. This rotation ensures that the oldest chemicals are used first, reducing the volume of hazardous waste generated from expired reagents
+*   **Inventory Audits:** A physical reconciliation of the inventory against the database should be performed at least annually. This audit identifies "ghost" chemicals (listed in the system but missing) and "orphan" chemicals (bottles found on shelves that are not in the system)
+
+## **The "Received, Opened, Expired" Protocol** {-}
+
+One of the most frequent citations during laboratory inspections is the failure to date chemicals properly. Time-sensitive chemicals degrade into hazardous byproducts or lose their potency, affecting patient results
+
+*   **Mandatory Dating:** Every perishable chemical container must carry three distinct dates:
+    *   **Date Received:** When the package arrived at the facility
+    *   **Date Opened:** When the seal was broken. This is often the trigger for the expiration clock (e.g., "Stable for 6 months after opening")
+    *   **Expiration Date:** The final date the chemical can be safely used. If the manufacturer does not provide one, the laboratory must assign one based on stability data or policy (typically 1 year for stock solutions)
+*   **Peroxide Formers:** Specific attention is required for ether-based compounds (e.g., Diethyl Ether, Tetrahydrofuran) and Picric Acid. These chemicals form shock-sensitive explosive crystals over time. They must be dated upon opening and rigorously discarded or tested for peroxides by their expiration date, regardless of how much liquid remains in the bottle
+
+## **General Storage Principles** {-}
+
+The physical arrangement of chemicals must prioritize safety over convenience or aesthetics. The layout of shelves and cabinets determines how a spill or fire will propagate
+
+*   **Segregation (The Golden Rule):** Chemicals must **never** be stored strictly alphabetically. They must first be separated by hazard class (Corrosive, Flammable, Oxidizer, Reactive) and then by compatibility family. Only within these safe groups can they be alphabetized. For example, storing Acetic Acid next to Ammonium Nitrate just because they both start with "A" creates a potential bomb
+*   **Shelving Requirements**
+    *   Shelves must be stable, secured to the wall (seismic bracing), and made of chemically resistant material
+    *   Shelves must have raised lips or guards (fiddles) to prevent bottles from vibrating off the edge
+    *   **No Floor Storage:** Chemicals should never be stored directly on the floor where they present a tripping hazard and are vulnerable to breakage by cleaning equipment
+    *   **Eye-Level Limit:** Heavy containers and dangerous corrosives should be stored below eye level (typically below 5 feet) to prevent blinding injuries if a bottle is dropped while being retrieved
+*   **Ventilation:** Chemicals should not be stored in fume hoods. The fume hood is a workspace, not a storage cabinet. Cluttering the hood with bottles disrupts the laminar airflow, compromising containment and reducing user protection
+
+## **Specialized Storage Equipment** {-}
+
+Certain hazard classes require specific engineering controls and containment vessels to comply with fire codes and safety standards
+
+### **Flammable Liquid Storage** {-}
+
+Flammables (Flash point < 100°F) constitute the highest fire risk in the clinical lab. Their storage is strictly regulated by NFPA 30
+
+*   **Flammable Safety Cabinets:** These are typically yellow, double-walled metal cabinets with a 1.5-inch air gap to provide thermal insulation. They are designed to keep the internal temperature low enough to prevent the contents from exploding for at least 10 minutes during a general laboratory fire, giving personnel time to evacuate. The doors must be self-closing and self-latching
+*   **Quantity Limits:** OSHA and local fire codes limit the volume of flammable liquids that can be stored outside of a safety cabinet (often 10 gallons per control area). Excess stock must be kept in the safety cabinet or a dedicated bulk storage room
+*   **Refrigeration:** Flammable liquids (like ethanol-based reagents) that require cooling must **never** be stored in a standard household refrigerator. The thermostat, light switch, and compressor relays in a standard fridge generate sparks that can ignite flammable vapors accumulating inside the sealed chamber, causing a violent explosion
+    *   **Flammable Material Storage Refrigerators:** Have all electrical components located outside the chamber
+    *   **Explosion-Proof Refrigerators:** Are sealed against the entry of vapors and are designed for environments where the *exterior* air is also hazardous (rare in clinical labs)
+
+### **Corrosive Storage** {-}
+
+Acids and bases require storage that resists physical degradation
+
+*   **Corrosive Cabinets:** Typically blue, these are often lined with polyethylene or constructed entirely of non-corrosive wood/plastic composites. Metal cabinets will rust and structurally fail if used to store volatile acids (like Hydrochloric Acid) without proper ventilation or liners
+*   **Secondary Containment:** Corrosives should be stored in plastic trays or tubs (secondary containment) capable of holding 110% of the volume of the largest bottle. This prevents a leak from spreading to the shelf or mixing with incompatible chemicals nearby. This is particularly vital when acids and bases must share a cabinet (though they should be on separate shelves/trays)
+
+### **Compressed Gas Storage** {-}
+
+Cylinders represent high potential energy and must be managed to prevent them from becoming projectiles
+
+*   **Securing:** Cylinders must always be secured upright to a permanent structure (wall or bench) using a chain or heavy-duty strap located at 2/3 of the cylinder's height. They should never be left free-standing
+*   **Cap Management:** When the regulator is removed, the protective valve cap must be screwed on hand-tight. This protects the valve stem from shearing off if the cylinder tips over
+*   **Segregation:** Oxygen cylinders must be stored at least 20 feet away from fuel gas cylinders (like Hydrogen or Acetylene) or separated by a 5-foot high fire-rated wall

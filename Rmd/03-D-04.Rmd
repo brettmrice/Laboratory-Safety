@@ -1,0 +1,46 @@
+# Chemical Fume Hood {-}
+
+The chemical fume hood is the primary **engineering control** used in the clinical laboratory to protect personnel from inhalation hazards. Unlike Personal Protective Equipment (PPE), which is the last line of defense, the fume hood isolates the hazard at the source. It is designed to capture, contain, and exhaust toxic fumes, vapors, and dusts away from the user’s breathing zone. Effective management of these devices involves a combination of mechanical maintenance, annual certification, and strict adherence to user operational protocols. It is critical for the laboratory scientist to understand that a fume hood is not a magical vacuum cleaner; its protection is easily compromised by poor technique or physical clutter
+
+## **Fume Hood vs. Biological Safety Cabinet (BSC)** {-}
+
+A fundamental error in laboratory safety is confusing the chemical fume hood with the Biological Safety Cabinet (BSC). They serve opposite purposes and are generally not interchangeable
+
+*   **Chemical Fume Hood:** Designed to remove chemical vapors (e.g., Xylene, Formalin, Acids). It pulls air away from the user and exhausts it *out of the building*. It does not typically filter the air (unless it is a specific ductless model), and it does **not** ensure sterility of the product being worked on
+*   **Biological Safety Cabinet (BSC):** Designed to protect the user from infectious agents (bacteria, viruses) and protect the sample from contamination. It uses **HEPA filters** and recirculates air. **Crucial Warning** Most BSCs recirculate air back into the room. Do not use volatile toxic chemicals (like vaporizing solvents) in a standard Class II A2 BSC, as the vapors will pass through the HEPA filter and be blown back into the laboratory, poisoning the staff
+
+## **Operational Mechanics & Certification** {-}
+
+For a hood to function, it must maintain a specific "Face Velocity" - the speed at which air is pulled into the sash opening. This velocity creates a barrier that prevents vapors from escaping back into the room
+
+*   **Face Velocity Standards:** OSHA and ASHRAE (American Society of Heating, Refrigerating and Air-Conditioning Engineers) generally recommend a face velocity between **60 and 100 feet per minute (fpm)**
+    *   **Too Low (< 60 fpm):** The air movement is too weak to overcome normal room air currents (like a person walking by), allowing vapors to drift out
+    *   **Too High (> 100-120 fpm):** Excessive speed creates turbulence (eddies) at the edge of the sash and around the user's body. This turbulence can actually pull vapors *out* of the hood and into the user's face
+*   **Flow Monitors:** Modern hoods are equipped with continuous flow monitors and alarms. If the alarm sounds, it indicates the exhaust system has failed or the sash is raised too high. **Never mute a fume hood alarm** and continue working. The work must stop, the sash must be closed, and Facilities must be contacted
+*   **Annual Certification:** Every fume hood must be tested and certified at least annually. A sticker is placed on the sash indicating the date of the test and the maximum safe sash height (often marked with an arrow). If the certification is expired, the hood should be taken out of service
+
+## **User Best Practices (SOPs)** {-}
+
+The protection factor of a fume hood is heavily dependent on the behavior of the operator. Even a perfectly functioning hood can leak if used improperly
+
+*   **The "Six-Inch Rule":** All work must be conducted at least **6 inches (15 cm)** inside the hood. The air at the very front of the hood is subject to turbulence from the room. Placing a beaker right at the edge allows vapors to escape. Many hoods have a recessed airfoil or a line of tape to indicate this safety zone
+*   **Sash Management**
+    *   **The Sash is a Shield:** The sliding glass pane (sash) is not just a window; it is a blast shield. It protects the user from splashes, fires, and minor explosions. Keep the sash as low as possible while working to maximize this physical protection
+    *   **The "Chin" Rule:** Never place your head inside the fume hood while contaminants are being generated. The plane of the sash is the boundary between safety and exposure
+    *   **When Not in Use:** Close the sash completely. This saves energy (in Variable Air Volume systems) and provides containment if a bottle spills or a reaction goes out of control while the hood is unattended
+*   **Airflow Obstruction**
+    *   **Do Not Block Baffles:** The slots at the back of the hood (baffles) control the exhaust path. Placing large equipment or stacking boxes directly against the back wall blocks the airflow, causing dead zones where vapors accumulate and eventually roll out of the front
+    *   **Elevate Equipment:** Large equipment (like a bulky water bath) should be placed on legs or blocks to allow air to flow *underneath* it to the rear baffles
+
+## **Common Misuses to Avoid** {-}
+
+*   **Storage:** The fume hood is **not** a storage cabinet. Storing dozens of bottles of chemicals in the hood disrupts the laminar airflow, creates turbulence, and increases the fuel load in the event of a fire. Only the chemicals needed for the immediate procedure should be in the hood. Use a dedicated Flammable or Corrosive cabinet for storage
+*   **Waste Evaporation:** It is a violation of EPA regulations to use a fume hood to "evaporate" hazardous waste (e.g., leaving a beaker of uncapped solvent open to dry it out). This is considered "treatment without a permit"
+*   **Traffic:** Rapid movement in front of the hood (people walking fast) creates a "wake" or drag that can pull vapors out of the hood. Ideally, hoods should be located in low-traffic areas of the laboratory
+
+## **Specialized Fume Hoods** {-}
+
+Not all hoods can handle all hazards. The Chemical Hygiene Plan must specify if specialized hoods are required
+
+*   **Perchloric Acid Hoods:** If the lab performs acid digestion using heated Perchloric Acid, a specialized hood is mandatory. These hoods are made of stainless steel (no organic materials for the acid to soak into) and feature a built-in **Water Wash-Down System**. This system rinses the exhaust ductwork after every use to prevent the formation of shock-sensitive, explosive perchlorate crystals in the ventilation system
+*   **Radioisotope Hoods:** These require specific filtration and often reinforced flooring to support lead shielding bricks used to block radiation

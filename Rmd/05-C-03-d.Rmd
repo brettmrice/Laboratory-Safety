@@ -1,0 +1,61 @@
+# Waste Storage Locations {-}
+
+The physical storage of hazardous waste is not merely a housekeeping issue; it is a critical component of fire safety and environmental protection. Improperly stored waste is a ticking time bomb - vapors can accumulate to explosive levels, incompatible chemicals can mix and generate toxic gas, and leaks can contaminate the facility's drainage system. The EPA (RCRA) and OSHA regulate *where* and *how* waste can be stored before it leaves the building
+
+## **Satellite Accumulation Areas (SAA)** {-}
+
+The SAA is the "first mile" of waste storage. It is the designated spot *inside the laboratory* where waste is initially collected
+
+*   **Definition:** An area at or near the point of generation where waste initially accumulates, which is under the control of the operator of the process generating the waste
+*   **Proximity:** The key phrase is "at or near." A waste container cannot be located in a separate room or down the hall from where the chemical is used. The laboratory scientist must be able to control the container while working
+*   **Volume Limits**
+    *   **Maximum:** Up to **55 gallons** of non-acute hazardous waste or **1 quart** of acute (P-listed) hazardous waste
+    *   **Exceedance:** If these limits are exceeded, the excess must be dated and moved to the Central Accumulation Area within **3 consecutive calendar days**
+*   **Container Management**
+    *   **Closed:** Containers must remain closed at all times except when adding or removing waste. A funnel sitting in an open bottle is a violation. Vapor-tight lids are required
+    *   **Labeled:** Must be marked "Hazardous Waste" and list the contents
+    *   **Secondary Containment:** While not strictly mandated by federal RCRA for SAAs (unlike CAAs), best practice and many state/local codes require bins or trays under liquid waste bottles to catch spills
+
+## **Central Accumulation Areas (CAA)** {-}
+
+The CAA (often called the "Main Waste Room" or "90-Day Storage Room") is the marshaling yard where waste from various SAAs is consolidated before being picked up by the external waste hauler. The regulations here are significantly stricter
+
+*   **Time Limits**
+    *   **Large Quantity Generators (LQG):** Max **90 days**
+    *   **Small Quantity Generators (SQG):** Max **180 days** (or 270 if shipping >200 miles)
+    *   **Start Date:** The clock starts the moment the first drop of waste is placed in the container in the CAA, or the moment a full container arrives from an SAA
+*   **Weekly Inspections**
+    *   The CAA must be inspected **weekly:** (every 7 days)
+    *   **Documentation:** This inspection must be logged. The inspector looks for:
+        *   Leaking containers
+        *   Signs of corrosion
+        *   Proper labeling (dates and contents)
+        *   Closed lids
+        *   Adequate aisle space (for firefighters to enter)
+*   **Emergency Preparedness**
+    *   **Communication:** Must have an internal alarm system (fire pull/intercom) and a device to summon external emergency assistance (telephone)
+    *   **Equipment:** Must have portable fire extinguishers, spill control equipment (absorbents), and decontamination supplies (eyewash/shower)
+    *   **Testing:** This equipment must be tested and maintained periodically
+
+## **Physical Storage Requirements** {-}
+
+Whether in an SAA or CAA, the physical setup must prevent accidents
+
+*   **Segregation of Incompatibles:** This is the most critical safety rule. Waste streams must be separated by hazard class
+    *   **Acids vs. Bases:** Stored in separate cabinets or secondary containment bins. Mixing them causes violent exothermic neutralization
+    *   **Oxidizers vs. Flammables:** Nitric Acid waste cannot be stored next to Xylene waste. Contact results in fire or explosion
+    *   **Cyanides/Sulfides vs. Acids:** Must be strictly isolated. Acidifying cyanide waste generates lethal Hydrogen Cyanide gas
+*   **Aisle Space**
+    *   There must be sufficient aisle space to allow the unobstructed movement of personnel, fire protection equipment, spill control equipment, and decontamination equipment to any area of facility operation in an emergency. (Typically a minimum of **24-36 inches**)
+*   **Container Condition**
+    *   Waste must be stored in containers that are in good condition (no rust, dents, or structural defects)
+    *   **Compatibility:** The container material must be compatible with the waste (e.g., do not put Hydrofluoric Acid in glass; do not put solvents in certain plastics that they dissolve)
+*   **Grounding**
+    *   If transferring Class I flammable liquids (flash point < 100°F) from a large drum (e.g., pouring waste into a 55-gallon consolidation drum), the source and receiving containers must be grounded and bonded to prevent static discharge ignition
+
+## **Drain Disposal (The "No Storage" Option)** {-}
+
+Historically, many labs disposed of waste down the sink. Today, this is strictly limited
+
+*   **Prohibition:** Generally, hazardous chemical waste (flammables, heavy metals, strong acids/bases) **cannot** be poured down the drain. This is considered "Unpermitted Disposal"
+*   **Permissible Items:** Only dilute, non-hazardous aqueous solutions (e.g., saline, simple buffers) typically within a pH range of **5.5 to 11.0** (depending on local ordinances) can be sewered. The laboratory must consult its local Publicly Owned Treatment Works (POTW) permit before sewering any chemical

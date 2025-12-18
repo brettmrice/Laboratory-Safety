@@ -1,0 +1,24 @@
+# General {-}
+
+The physical environment of the clinical laboratory is populated with equipment that, while essential for diagnosis, poses significant mechanical, thermal, and physical hazards. Ensuring the safety of laboratory personnel requires a thorough understanding of the operational risks associated with common tools like glassware, centrifuges, and autoclaves. Accidents involving these items often result not only in physical trauma (cuts, burns) but also in the dangerous release of biological agents
+
+##   **Glassware & Sharps** {-}
+
+Handling sharps - needles, scalpels, and broken glass - is a primary source of occupational injury and bloodborne pathogen exposure
+
+*   **Prevention:** Use safety-engineered devices and never recap needles. Inspect glassware for stress cracks before use
+*   **Disposal:** All sharps must be discarded in rigid, puncture-resistant containers. Broken glass must be handled mechanically (brush and dustpan), never by hand, and segregated into specific waste boxes
+
+##   **Centrifuges** {-}
+
+These instruments store massive amounts of kinetic energy. A failure can lead to the machine "walking" off the bench or the rotor disintegrating
+
+*   **Balance:** The cardinal rule is symmetrical loading by mass. An imbalanced rotor causes dangerous vibration
+*   **Aerosols:** The primary biological risk is aerosol generation. Use sealed safety cups for hazardous samples and wait 30 minutes after a breakage to allow the mist to settle
+
+##   **Steam Sterilizers (Autoclaves)** {-}
+
+Autoclaves use high-pressure steam (121°C at 15 psi) to sterilize waste and equipment
+
+*   **Hazards:** Thermal burns from steam and explosion risks from sealed containers are the main concerns
+*   **Operation:** Never autoclave sealed vessels (loosen caps). Verify sterility using biological indicators (*Geobacillus stearothermophilus*) to ensure the equipment is effectively neutralizing biohazards

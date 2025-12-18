@@ -1,0 +1,28 @@
+# Classes of Fire {-}
+
+Effective fire safety in the clinical laboratory relies on the immediate and accurate identification of the fuel source. The National Fire Protection Association (NFPA) categorizes fires into five specific classes based on what is burning. This classification dictates the "Fire Tetrahedron" element - Heat, Fuel, Oxygen, or Chemical Chain Reaction - that must be removed to suppress the fire. Using the wrong extinguishing agent (e.g., water on an electrical fire) can result in electrocution, explosion, or the rapid spread of flames
+
+## **NFPA Graphic Symbols** {-}
+
+To ensure rapid identification during a crisis, fire extinguishers are labeled with standardized pictograms and geometric shapes representing the specific hazard they are designed to combat:
+
+*   **Class A (Ordinary Combustibles):** Wood, paper, plastic, and trash
+    *   *Symbol:* A **Green Triangle:** containing the letter "A" or a pictogram of a **burning trash can and wood pile**
+*   **Class B (Flammable Liquids):** Gasoline, xylene, alcohol, and oil
+    *   *Symbol:* A **Red Square:** containing the letter "B" or a pictogram of a **gas can** spilling burning liquid
+*   **Class C (Energized Electrical):** Analyzers, computers, and centrifuges plugged into a power source
+    *   *Symbol:* A **Blue Circle:** containing the letter "C" or a pictogram of an **electrical plug and socket** with flames
+*   **Class D (Combustible Metals):** Magnesium, sodium, and lithium
+    *   *Symbol:* A **Yellow Star:** containing the letter "D". These rarely have a specific pictogram but are identified by the star shape and yellow color
+*   **Class K (Kitchen Media):** Cooking oils and animal fats
+    *   *Symbol:* A **Black Hexagon:** containing the letter "K" or a pictogram of a **frying pan on fire**
+
+## **Extinguishing Methods** {-}
+
+The extinguishing agent must be matched to the class of fire to successfully break the Fire Tetrahedron:
+
+*   **Water (APW):** Works by **Cooling** (removing heat). It is strictly for Class A fires. It is dangerous for Class B (spreads the liquid) and Class C (conducts electricity)
+*   **Carbon Dioxide (CO2):** Works by **Smothering** (displacing oxygen) and Cooling. It is ideal for Class B and C fires because it leaves no residue on sensitive equipment
+*   **Dry Chemical (ABC):** Works by **Inhibiting the Chemical Chain Reaction** and coating the fuel. This is the standard multi-purpose laboratory extinguisher, though the powder is corrosive to electronics
+*   **Dry Powder:** Distinct from dry chemical, this is used only for Class D metal fires. It works by **Smothering** (forming a crust) to absorb heat and exclude oxygen
+*   **Wet Chemical:** Used for Class K fires, it works via **Saponification**, reacting with hot grease to form a soapy foam layer that seals in vapors and cools the oil

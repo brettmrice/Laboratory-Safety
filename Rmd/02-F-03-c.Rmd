@@ -1,0 +1,62 @@
+# Footwear & Shoe Covers {-}
+
+Footwear in the clinical laboratory acts as a dual-purpose shield: it protects the feet from physical trauma (dropped sharps, heavy equipment) and prevents chemical or biological absorption through the skin. The laboratory floor is a high-risk surface where glass shards, chemical residues, and infectious droplets accumulate. Consequently, footwear policies are among the most rigidly enforced standard work practices in laboratory safety
+
+## **Anatomy of Safe Laboratory Footwear** {-}
+
+OSHA and the Clinical and Laboratory Standards Institute (CLSI) dictate specific requirements for shoe construction. "Comfort" or "fashion" must never supersede safety
+
+### **Coverage (The Enclosed Foot)** {-}
+
+*   **The Rule:** The shoe must cover the entire foot, from the toe to the heel
+*   **The Hazard:** If a scalpel falls, it will slice through an exposed foot. If a beaker of acid shatters on the floor, the splash will hit the top of the foot
+*   **Prohibitions**
+    *   **Sandals/Flip-Flops:** Completely forbidden
+    *   **Open-Toed Shoes:** "Peep-toe" heels or pumps are not permitted
+    *   **Open-Healed Shoes:** Mules or clogs without a back strap are dangerous because the foot can slip out during an emergency evacuation or when carrying heavy loads
+    *   **Crocs (with holes):** Even if the Croc has a strap, the perforated holes on the top allow fluids and needles to penetrate directly to the skin. These are strictly prohibited in technical areas
+
+### **Material Integrity** {-}
+
+*   **Impermeable:** The upper material of the shoe must be fluid-resistant
+    *   **Approved:** Leather, synthetic leather (vinyl/polyurethane), or rubber. These materials allow liquids to run off and provide a momentary barrier against needle punctures
+    *   **Prohibited:** Canvas (e.g., Converse, Vans), mesh (running shoes), suede, or woven fabrics
+*   **The "Sponge Effect":** Canvas and mesh shoes absorb liquids instantly. If a hazardous chemical or infectious blood sample spills on a canvas shoe, the material holds the contaminant directly against the skin, maximizing the exposure time and severity of the burn or infection
+
+### **Sole Construction** {-}
+
+*   **Non-Slip:** Laboratory floors are typically polished linoleum or seamless vinyl, which become ice-rink slippery when wet. Shoes must have high-traction, non-slip rubber soles
+*   **Heel Height:** Shoes should be flat or have a very low, wide heel (e.g., < 1 inch). High heels or stilettos are unstable and increase the risk of tripping, ankle sprains, or falling while carrying hazardous specimens
+
+## **Shoe Covers (The "Bootie")** {-}
+
+Shoe covers are disposable PPE designed to protect the shoe from massive contamination or to protect the environment from the shoe
+
+### **When to Use** {-}
+
+*   **Massive Spills:** During the cleanup of a large biohazard spill (e.g., a shattered gallon jug of reagent or a dropped unit of blood), shoe covers prevent the responder's shoes from becoming contaminated
+*   **Isolation Rooms:** When entering a "Clean Room" (e.g., PCR preparation area) or a strict isolation ward, shoe covers prevent the tracking of outside dust and bacteria into the sterile environment
+*   **Autopsy/Grossing:** In Anatomic Pathology, where fluids often end up on the floor, shoe covers are standard daily PPE
+
+### **Proper Donning & Doffing** {-}
+
+*   **The "Clean to Dirty" Boundary:** Shoe covers should be put on immediately before entering the hazard zone
+*   **Removal**
+    *   Shoe covers must be removed **before:** stepping out of the contaminated area
+    *   **Technique:** When removing, grasp the cover from the inside (clean side) or use a "step-off" technique to avoid touching the contaminated sole with bare hands
+    *   **Disposal:** They are single-use items. Discard them immediately into the appropriate waste bin (biohazard if soiled with blood, regular trash if used for dust control). Never reuse disposable shoe covers, as the bottom material degrades and tears easily
+
+## **Maintenance & Hygiene** {-}
+
+*   **Inspection:** Employees should inspect their shoes regularly. If the leather is cracked, the sole is separating, or the tread is worn smooth, the shoes must be replaced
+*   **Cleaning:** If shoes become visibly soiled with blood or body fluids:
+    1.  **Decontaminate:** Wipe the surface with a disinfectant (e.g., 10% bleach or alcohol wipes) to kill pathogens
+    2.  **Clean:** Remove visible soil with soap and water
+    3.  **Evaluate:** If the blood has soaked *into* the material (e.g., into the stitching or lining), the shoes cannot be effectively decontaminated and must be discarded as biohazardous waste
+
+## **Ergonomics vs. Safety** {-}
+
+The clinical laboratory often requires standing for 8-10 hours a day (e.g., at a Chemistry analyzer or Histology microtome)
+
+*   **The Conflict:** Highly cushioned running shoes (mesh) are ergonomic but unsafe. Leather nursing clogs are safe but can be heavy
+*   **The Solution:** The ideal compromise is a leather or solid synthetic walking shoe with good arch support. Additionally, laboratories should provide **anti-fatigue mats** at standing workstations to reduce the physical toll on the employee, reducing the temptation to wear unsafe "comfort" shoes

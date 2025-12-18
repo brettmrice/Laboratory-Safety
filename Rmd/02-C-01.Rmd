@@ -1,0 +1,57 @@
+# Lockout/Tagout, Extension Cords, & Daisy Chains {-}
+
+While fire extinguishers and alarms are reactive measures, electrical safety protocols are preventative measures designed to stop Class C fires and electrocution incidents before they occur. In the clinical laboratory, where equipment density is high and instruments run 24/7, the management of electrical power is strictly regulated. The three primary areas of concern for laboratory staff regarding fire prevention and personal safety are the Lockout/Tagout (LOTO) procedures, the management of extension cords, and the prohibition of "daisy chaining."
+
+## **Lockout/Tagout (LOTO)** {-}
+
+**Lockout/Tagout:** is a safety procedure used to ensure that dangerous machines are properly shut off and not able to be started up again prior to the completion of maintenance or repair work. In the United States, this is governed by OSHA standard 1910.147 (The Control of Hazardous Energy). In a laboratory setting, this applies when a laboratory scientist or a Field Service Engineer performs maintenance on large automated analyzers, centrifuges, or track systems where unexpected startup or the release of stored energy could cause injury or death
+
+### **The Two Components** {-}
+
+*   **Lockout:** The placement of a physical device (such as a padlock) on an energy-isolating device (like a circuit breaker or plug enclosure) that ensures the equipment cannot be operated until the lock is removed. The lock must have a unique key held *only* by the person performing the work
+*   **Tagout:** The placement of a prominent warning tag, such as a "Danger - Do Not Operate" sign, on the energy-isolating device. The tag must include the name of the person who placed it, the date, and the reason for the lockout. It provides information but offers no physical restraint
+
+### **The Six Steps of LOTO** {-}
+
+1.  **Preparation and Notification:** Notify all affected employees that the equipment will be shut down and locked out. Identify all energy sources (electrical, mechanical, pneumatic, hydraulic)
+2.  **Shutdown:** Turn off the equipment using its normal stopping procedure (e.g., the instrument's power switch)
+3.  **Isolation:** Isolate the equipment from its energy source. This usually involves unplugging the unit or flipping the breaker switch. *Simply turning off the power button is not isolation.*
+4.  **Application of Lock/Tag:** Apply the lock and tag to the isolation point. If a plug is pulled, a specialized plastic case covers the plug so it cannot be inserted into an outlet
+5.  **Control of Stored Energy:** This is critical in labs. Even after unplugging, hazards may remain
+    *   **Capacitors:** High-voltage electronics must be discharged
+    *   **Kinetic Energy:** Centrifuge rotors must come to a complete stop
+    *   **Pneumatics:** Compressed air lines driving track systems must be bled
+    *   **Thermal Energy:** Heating blocks or incubators must cool down
+6.  **Verification:** Attempt to restart the equipment to ensure the isolation was successful. Return the switch to the "off" position after testing. Only then is it safe to begin work
+
+## **Extension Cords** {-}
+
+Extension cords are one of the most cited fire safety violations in clinical laboratories during inspections by the Joint Commission (TJC) or the College of American Pathologists (CAP). They are intended exclusively for **temporary** use and are not a substitute for permanent wiring. Prolonged use of extension cords can lead to insulation degradation, overheating, and short circuits
+
+### **Usage Protocols** {-}
+
+*   **Duration:** Extension cords are generally permitted for temporary tasks (e.g., using a vacuum cleaner for a spill or powering a temporary drill for maintenance) usually limited to 90 days or less. They cannot be used to permanently power an analyzer or refrigerator
+*   **Inspection:** Before use, the cord must be inspected for cracked insulation, exposed wires, or a missing grounding prong (the third round pin). A cord with a missing ground pin renders the safety features of the equipment useless and poses a shock hazard
+*   **Rating:** The gauge (thickness) of the wire must match the amperage draw of the device. Using a thin, household extension cord for a high-draw instrument (like a heating block or centrifuge) causes the wire to heat up, melting the insulation and causing a fire
+*   **Placement**
+    *   Never run cords through walls, ceilings, or doorways (pinching damages insulation)
+    *   Never run cords under rugs or mats (traps heat and prevents visual inspection)
+    *   Never run cords across walkways (trip hazard)
+
+## **Daisy Chaining** {-}
+
+**Daisy chaining:** refers to the practice of plugging one power strip (Relocatable Power Tap or RPT) into another power strip, or plugging an extension cord into a power strip. This practice is strictly prohibited by OSHA and the National Fire Protection Association (NFPA) codes
+
+### **The Physics of the Hazard** {-}
+
+*   **Resistance and Heat:** Every connection point adds electrical resistance. Connecting multiple strips in a series increases the total resistance in the circuit. As electricity flows through this resistance, it generates heat. This heat can build up to the point of melting the plastic casing and igniting a fire
+*   **Overload:** Wall outlets are rated for a specific amperage (usually 15 or 20 amps). A single power strip acts as an extension of that outlet. When users daisy chain strips, they tend to plug in more devices than the single wall outlet can handle. This creates an overload situation that can trip the breaker or, if the breaker fails, cause the internal wiring of the wall to overheat
+
+### **Correct Laboratory Protocol** {-}
+
+*   **Direct Connection:** High-wattage laboratory equipment - specifically refrigerators, freezers, centrifuges, incubators, and large chemistry analyzers - must be plugged **directly into a wall receptacle**
+*   **Approved Surge Protectors:** Power strips (RPTs) should only be used for low-wattage electronics like computers, monitors, and barcode scanners
+    *   The power strip must be UL (Underwriters Laboratories) approved
+    *   It must have an internal circuit breaker (a switch that trips if overloaded)
+    *   It must be plugged **directly:** into the wall outlet
+

@@ -1,0 +1,26 @@
+# Planning {-}
+
+Effective laboratory safety management relies heavily on the administrative phase of **Planning**. This proactive stage transforms regulatory requirements and theoretical risk assessments into actionable frameworks that protect personnel and ensures operational continuity. Planning shifts the laboratory's focus from reactive damage control to preventive strategy, utilizing a combination of leadership governance, standardized documentation, and continuous verification methods to maintain a safe working environment
+
+## **Safety Officer & Committee** {-}
+
+The foundation of safety planning is the establishment of a robust governance structure. This ensures that safety is not an isolated concern but an integrated part of the laboratory's administration
+
+*   **The Safety Officer:** Acts as the executive planner, responsible for interpreting regulations (OSHA, CAP, TJC), maintaining safety manuals (Chemical Hygiene Plan, Exposure Control Plan), and allocating resources for safety equipment and health services
+*   **The Safety Committee:** Functions as the deliberative body, representing various laboratory sections. They plan safety goals, review accident reports to perform Root Cause Analysis, and ensure that safety policies are practical and uniform across all departments
+
+## **Standard Operating Procedures (SOPs)** {-}
+
+SOPs represent the translation of risk assessment into daily practice. Planning effective SOPs involves embedding safety controls directly into technical instructions rather than treating them as an afterthought
+
+*   **Standardization:** SOPs minimize procedural variability, which is a common cause of accidents. They define the "one best way" to perform a task safely
+*   **Hazard Integration:** A well-planned SOP includes specific mandates for Personal Protective Equipment (PPE), engineering controls (e.g., Biosafety Cabinet use), and waste disposal within the step-by-step instructions
+*   **Legal Defense:** These documents serve as proof of administrative planning and due diligence during regulatory audits or liability investigations
+
+## **Training, Inspections, & Outside Contractors** {-}
+
+The final pillar of planning focuses on human reliability and the verification of safety systems. This ensures that the physical environment remains safe and that personnel - both internal and external - are competent to work within it
+
+*   **Training:** Administration must plan a curriculum that covers initial onboarding, annual regulatory retraining, and competency assessment. This ensures staff possess the knowledge to identify and mitigate hazards
+*   **Inspections:** Internal and external audit schedules are planned to verify compliance with SOPs and identify new physical hazards. This includes "mock inspections" to prepare for accreditation surveys
+*   **Contractor Management:** Protocols must be established to manage risks introduced by non-laboratory personnel (maintenance, housekeeping, vendors). This includes planning for equipment decontamination before service and establishing permit systems for hazardous work (e.g., Lockout/Tagout)

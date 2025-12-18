@@ -1,0 +1,33 @@
+# Fire Safety {-}
+
+Fire safety in the clinical laboratory requires a disciplined approach combining rapid reflex protocols, technical knowledge of combustion, and the mastery of suppression equipment. Because laboratories house a unique mix of flammable solvents, high-voltage electronics, and compressed gases, the potential for rapid fire escalation is high. Safety management relies on three pillars: **Response**, **Classification**, and **Equipment**
+
+## **Response Protocols** {-}
+
+The universal response to a fire is governed by the acronym **R.A.C.E.**, which prioritizes life safety over property protection
+
+*   **R (Rescue):** Immediately assist anyone in direct danger to evacuate the area
+*   **A (Alarm):** Activate the manual pull station and call the emergency number (e.g., Code Red)
+*   **C (Contain):** Close all doors and windows to starve the fire of oxygen and prevent smoke spread. Close fume hood sashes
+*   **E (Extinguish/Evacuate):** Only attempt to extinguish if the fire is small and you have a clear exit path. Otherwise, evacuate to the assembly area
+
+## **Classes of Fire** {-}
+
+Fires are categorized by their fuel source. Identifying the class is critical because using the wrong extinguishing agent can be fatal (e.g., water on an electrical fire)
+
+*   **Class A (Ash):** Ordinary combustibles like paper, wood, and plastic
+*   **Class B (Barrel):** Flammable liquids like xylene, ethanol, and gasoline
+*   **Class C (Current):** Energized electrical equipment like analyzers and centrifuges
+*   **Class D (Dynamite):** Combustible metals like magnesium or sodium
+*   **Class K (Kitchen):** Cooking oils and grease
+
+## **Fire Safety Equipment** {-}
+
+The laboratory is equipped with specific tools to detect and suppress fires based on these classes
+
+*   **Fire Alarms:** The system uses heat/smoke detectors to trigger audible horns and visual strobes. It automatically shuts down HVAC and releases magnetic fire doors to compartmentalize the building
+*   **Fire Extinguishers:** Portable devices operated using the **P.A.S.S.** technique (**P**ull the pin, **A**im at the base, **S**queeze the handle, **S**weep side-to-side)
+    *   *Water (APW):* For Class A only
+    *   *Carbon Dioxide (CO2):* For Class B/C. Leaves no residue; safe for electronics
+    *   *Dry Chemical (ABC):* Multi-purpose powder. Effective but messy and corrosive
+*   **Fire Blankets:** Fiberglass sheets used primarily to smother fires on **people** (Stop, Drop, and Roll) or small container fires. They work by cutting off oxygen without using damaging chemicals

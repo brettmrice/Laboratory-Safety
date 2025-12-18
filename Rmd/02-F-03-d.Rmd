@@ -1,0 +1,84 @@
+# Gloves {-}
+
+Gloves are the most frequently used item of Personal Protective Equipment in the clinical laboratory. They serve as the primary interface between the laboratory scientist and the hazardous materials they manipulate. Under OSHA's Bloodborne Pathogens Standard (29 CFR 1910.1030), gloves are mandatory whenever there is a reasonable anticipation of hand contact with blood, other potentially infectious materials (OPIM), mucous membranes, or non-intact skin. However, "wearing gloves" is not a universal solution; the laboratory scientist must select the correct glove material for the specific hazard (biological vs. chemical) and adhere to strict usage protocols to prevent cross-contamination
+
+## **Glove Materials & Selection** {-}
+
+No single glove material provides protection against all hazards. The selection process must involve a risk assessment of the chemical or biological agent being handled
+
+### **Nitrile (Acrylonitrile-Butadiene)** {-}
+
+*   **The Industry Standard:** Nitrile has largely replaced latex as the standard glove in clinical laboratories. It is a synthetic rubber copolymer
+*   **Advantages**
+    *   **Chemical Resistance:** Superior to latex for a wider range of laboratory chemicals, particularly organic solvents, oils, and greases
+    *   **Puncture Detection:** Nitrile tends to tear visibly when punctured, alerting the user to the breach, whereas latex can hide pinholes
+    *   **Hypoallergenic:** It eliminates the risk of latex protein allergies
+*   **Usage:** Ideal for Hematology, Chemistry, Blood Bank, and General Microbiology
+
+### **Latex (Natural Rubber)** {-}
+
+*   **Historical Standard:** Made from the sap of the rubber tree (*Hevea brasiliensis*)
+*   **Advantages:** Offers the highest degree of tactile sensitivity, fit, and comfort. It creates an excellent barrier against viral and bacterial pathogens
+*   **Disadvantages**
+    *   **Allergy Risk:** Contains proteins that can cause sensitization, leading to reactions ranging from contact dermatitis to anaphylactic shock
+    *   **Chemical Permeation:** It offers poor protection against many organic solvents
+*   **Status:** Many institutions have banned latex to protect sensitized employees and patients. If used, they must be "Powder-Free" to reduce the aerosolization of allergenic proteins
+
+### **Vinyl (Polyvinyl Chloride - PVC)** {-}
+
+*   **The Economy Option:** A synthetic plastic polymer
+*   **Limitations:** Vinyl provides a looser fit and has lower elasticity than nitrile or latex. It is susceptible to micro-tears during rigorous use
+*   **Chemical Resistance:** Poor resistance to many chemicals; alcohols can leach plasticizers from the glove, compromising its integrity
+*   **Usage:** Generally restricted to low-risk tasks not involving blood or hazardous chemicals, or for short-term tasks in non-technical support areas
+
+### **Utility & Chemical-Resistant Gloves** {-}
+
+*   **Materials:** Neoprene, Butyl Rubber, or Viton
+*   **Usage:** These are heavy-duty, reusable gloves used for handling high-volume corrosives (e.g., acid washing glassware), cleaning up large chemical spills, or working with highly toxic fixatives (like concentrated formalin) where thin disposable gloves would degrade instantly
+*   **Protocol:** Because these are reusable, they must be inspected for cracks and discoloration before every use. They should be rinsed on the outside before removal to prevent contaminating the hands during doffing
+
+### **Puncture-Resistant Gloves** {-}
+
+*   **Materials:** Kevlar, Dyneema, or stainless steel mesh
+*   **Usage:** Strictly for mechanical protection. They are used when changing microtome blades in Histology, handling broken glassware, or cleaning animal cages. They are usually worn *over* a nitrile glove to provide fluid protection, as the mesh itself is porous
+
+## **Chemical Compatibility Principles** {-}
+
+When handling hazardous chemicals, relying on a standard thin exam glove can be dangerous. The laboratory scientist must understand three key concepts regarding glove failure:
+
+*   **Degradation:** A physical change in the glove material (swelling, shrinking, stiffening, or cracking) caused by chemical contact. If a glove changes shape or texture, it has failed
+*   **Permeation:** The process by which a chemical dissolves into the glove material and moves through it at the molecular level. This can occur without any visible change to the glove
+*   **Breakthrough Time:** The time elapsed between initial contact of the chemical on the outside surface and its detection on the inside. For example, a standard latex glove may have a breakthrough time of only 1 minute for Xylene, while a Nitrile glove may last 45 minutes. Always consult the manufacturer's chemical compatibility chart
+
+## **Standard Work Practices for Glove Use** {-}
+
+### **Donning & Doffing** {-}
+
+*   **Inspection:** Before donning, visually inspect gloves for tears or discoloration
+*   **Clean Hands:** Wash hands before putting gloves on. Donning gloves with dirty hands creates a warm, moist incubator for bacteria inside the glove
+*   **Removal Technique:** Remove gloves using the "Beak Method" or "Glove-in-Glove" technique to ensure the contaminated exterior never touches the skin. Peel the glove off inside-out
+*   **Immediate Wash:** Hands must be washed immediately after glove removal. Gloves are not 100% impermeable; humidity and microscopic defects can allow pathogen transmission
+
+### **The "One Glove" Rule & Touch Contamination** {-}
+
+*   **Cross-Contamination:** The most common safety violation is "touch contamination" - using a gloved hand to touch a "clean" surface
+*   **Prohibited Items:** Never touch door handles, elevator buttons, telephones, light switches, or personal mobile phones while wearing gloves
+*   **The One Glove Rule:** If a laboratory scientist needs to transport a biohazardous sample through a hallway:
+    *   Wear a glove on one hand (to hold the sample)
+    *   Leave the other hand bare (to open doors and push elevator buttons)
+
+### **Double Gloving** {-}
+
+*   **Indication:** Recommended for high-risk procedures, such as working with known HIV/Hepatitis cultures, processing bone marrow specimens (where bone shards are sharp), or during spill cleanup
+*   **Mechanism:** The inner glove reduces the risk of skin contact if the outer glove is punctured. Studies show that inner glove perforation occurs significantly less often when double gloving is employed
+*   **Color Coding:** Using a colored inner glove (e.g., orange) and a standard outer glove (e.g., blue) provides a visual indicator if the outer glove is breached
+
+### **Maintenance & Reuse** {-}
+
+*   **Single Use:** Disposable exam gloves (latex, nitrile, vinyl) are designed for single use only. They must never be washed or decontaminated for reuse. Detergents and disinfectants degrade the polymer, causing the barrier to fail
+*   **Change Frequency:** Gloves should be changed:
+    *   Immediately if torn or punctured
+    *   Between patients (for phlebotomy)
+    *   Every 30–60 minutes during continuous use, as heat and sweat weaken the material
+    *   Immediately after a splash with a chemical known to degrade the material
+

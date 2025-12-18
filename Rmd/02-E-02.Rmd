@@ -1,0 +1,85 @@
+# Handling, Decontamination, & Disposal {-}
+
+Radiation safety in the clinical laboratory differs fundamentally from other safety disciplines. Unlike chemical hazards, which can often be detected by smell or sight, ionizing radiation is imperceptible to human senses. Furthermore, radioactive contamination (the physical presence of radioactive material on surfaces or skin) poses a continuous exposure risk until it is physically removed or decays. Therefore, handling protocols are designed around the principles of containment and shielding, while decontamination focuses on the methodical removal of isotopes to background levels
+
+## **Safe Handling Principles: Time, Distance, Shielding** {-}
+
+All handling procedures are built upon the three cardinal rules of radiation protection, intended to minimize the dose received by the operator
+
+### **Time** {-}
+
+*   **Concept:** Dose is directly proportional to the duration of exposure
+*   **Protocol:** Plan experiments thoroughly before removing the isotope from storage. Perform "dry runs" of new procedures using non-radioactive water to refine technique and speed before handling the actual source
+
+### **Distance** {-}
+
+*   **Concept:** Dose follows the **Inverse Square Law** ($I = 1/d^2$). Doubling your distance from a source reduces your exposure to one-quarter (25%) of the original dose
+*   **Protocol**
+    *   Never pick up a source vial with fingers. Always use forceps or tongs to handle unshielded vials
+    *   Work at arm's length whenever possible
+    *   Store waste containers at the far end of the bench, not right next to the seating area
+
+### **Shielding** {-}
+
+*   **Concept:** Placing an absorbing material between the source and the worker attenuates the radiation. The material must match the type of radiation
+*   **Gamma/X-ray (e.g., I-125, Co-57):** Requires high-density material like **Lead**. Vials are kept in lead "pigs," and work is done behind leaded acrylic or lead-brick walls
+*   **Beta Emitters (e.g., P-32, H-3):** Requires low-atomic number (low-Z) materials like **Plexiglass (Acrylic)** or plastic
+    *   *Warning:* Using lead to shield high-energy Beta emitters (like P-32) is dangerous. The beta particles hit the lead atoms and produce X-rays (Bremsstrahlung radiation), creating a secondary hazard. Always use plastic first, then lead if necessary
+
+## **Handling Techniques & Personal Protective Equipment (PPE)** {-}
+
+*   **PPE**
+    *   **Gloves:** Mandatory. Double-gloving is recommended for high-activity work. If the outer glove becomes contaminated, it can be peeled off immediately, leaving the inner glove to protect the skin
+    *   **Lab Coat:** Must be buttoned fully. Wrist cuffs should be tucked into gloves to prevent skin exposure
+    *   **Badges:** The dosimeter (body badge) must be worn on the torso (collar or chest). If handling high-activity sources, a ring badge (TLD) should be worn on the dominant hand under the glove
+*   **Work Area**
+    *   **Absorbent Paper:** Bench tops must be covered with plastic-backed absorbent paper (absorbent side up). This traps spills and prevents them from soaking into the countertop
+    *   **Trays:** All radioactive work should be conducted inside a plastic spill tray. If a beaker tips over, the contamination is contained within the tray rather than spreading to the floor
+    *   **Pipetting:** Never mouth pipette (a universal lab rule, but lethal with isotopes). Use dedicated pipettes for radioactive work to prevent cross-contamination
+
+## **Decontamination Protocols** {-}
+
+Contamination usually results from spills, aerosols, or glove transfer. The goal is to reduce radioactivity to "Background Levels."
+
+### **Spill Response** {-}
+
+1.  **Notify:** Alert others in the immediate area
+2.  **Contain:** Place absorbent pads over the liquid to stop it from spreading. Do not wipe yet, as this spreads the area of contamination
+3.  **PPE Check:** Check your gloves and shoes. If contaminated, remove them before walking away to get cleaning supplies, or you will track radiation down the hall
+4.  **Clean**
+    *   Use a specific decontamination detergent (e.g., Radiacwash, Count-Off) containing chelating agents that bind metal ions
+    *   Clean from the **outside in:** (periphery to center) to avoid spreading the spill
+    *   Place used paper towels directly into the Radioactive Waste bin
+5.  **Survey:** Use a Geiger-Mueller (GM) counter or wipe tests to verify the area is clean. The standard for "clean" is usually indistinguishable from background radiation (or <200 dpm/100 cm² depending on the license)
+
+### **Personnel Decontamination** {-}
+
+*   **Skin:** Wash with mild soap and tepid water. Do not scrub harshly; abrasion damages the skin barrier and can allow isotopes to enter the bloodstream
+*   **Eyes:** Flush at the eyewash station for 15 minutes
+*   **Ingestion/Injection:** This is a medical emergency requiring immediate notification of the Radiation Safety Officer (RSO) and transport to the ER
+
+## **Disposal of Radioactive Waste** {-}
+
+Radioactive waste is categorized by physical form (solid, liquid, sharp, scintillation fluid) and half-life. Segregation at the bench is the most critical step
+
+### **Segregation** {-}
+
+*   **Solids:** Gloves, paper towels, plastic tubes
+*   **Liquids:** Aqueous buffers, wash solutions. (Liquid waste should never contain hazardous chemicals like bleach unless authorized, as mixed waste is extremely difficult to dispose of)
+*   **Scintillation Vials:** These often contain organic solvents (toluene/xylene). They must be separated from solid waste because the fluid is both radioactive and chemically hazardous (Mixed Waste)
+
+### **The "Decay-in-Storage" Method** {-}
+
+For short-lived medical isotopes (Half-life < 120 days, e.g., I-125, Tc-99m), laboratories typically use the Decay-in-Storage method rather than shipping it to a burial site
+
+1.  **Hold:** Waste is sealed in labeled drums in a locked, shielded room
+2.  **Wait:** The waste is held for a minimum of **10 Half-Lives**. (Example: I-125 half-life is 60 days. Hold time = 600 days). At 10 half-lives, less than 0.1% of the radioactivity remains
+3.  **Survey:** After the waiting period, the waste is monitored with a sensitive meter in a low-background area. It must show **no detectable radiation** above background
+4.  **Deface:** All radiation symbols and labels must be removed or obliterated
+5.  **Discard:** The waste can then be disposed of as regular trash (or biohazard trash if it contains blood)
+
+### **Sewer Disposal (Liquids)** {-}
+
+*   Some licenses allow small amounts of soluble radioisotopes to be flushed down a designated "Hot Sink" into the sanitary sewer
+*   This is strictly regulated by daily and monthly discharge limits
+*   The sink must be flushed thoroughly with water after disposal to prevent pipes from becoming radioactive traps

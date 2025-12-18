@@ -1,0 +1,107 @@
+# Spills & Exposures {-}
+
+In the clinical laboratory, spills and accidental exposures are not a matter of "if," but "when." Whether dealing with a shattered vacutainer of HIV-positive blood, a tipped bottle of concentrated hydrochloric acid, or a needle-stick injury, the outcome depends entirely on the preparedness and immediate reaction of the personnel involved. The response is governed by OSHA’s Bloodborne Pathogens Standard (29 CFR 1910.1030) and the Occupational Exposure to Hazardous Chemicals in Laboratories standard (29 CFR 1910.1450). A calm, methodical, and technically correct response protects the worker, their colleagues, and the environment
+
+## **The Universal Spill Response Protocol** {-}
+
+Before touching a spill, the laboratory scientist must perform a rapid risk assessment to determine if the spill is "Incidental" (can be cleaned up by local staff) or an "Emergency" (requires evacuation and HazMat teams)
+
+### **Immediate Actions (S.W.I.M.S.)** {-}
+
+*   **S - Stop:** Stop working immediately. Do not panic
+*   **W - Warn:** Alert nearby personnel. If the spill is volatile or toxic, evacuate the immediate area. Place "Wet Floor" or "Do Not Enter" signage if necessary
+*   **I - Isolate:** Contain the spill area. Close doors to the lab to prevent the spread of fumes
+*   **M - Minimize:** Put on appropriate PPE (Personal Protective Equipment) before approaching the spill. Never attempt to clean a spill without maximizing barrier protection
+*   **S - Stay:** Stay out of the way if you cannot safely clean it, or stay to clean it if you are trained and equipped
+
+## **Biological Spills (Biohazards)** {-}
+
+Biological spills pose two distinct risks: direct contact transmission (through broken skin) and aerosolization (inhalation of airborne pathogens). The cleanup procedure prioritizes the suppression of aerosols
+
+### **The Aerosol Hazard** {-}
+
+*   **No Spraying:** Never spray disinfectant directly onto a pool of blood or urine. The force of the spray can aerosolize the infectious material, launching microscopic droplets containing viruses or bacteria into the air where they can be inhaled
+*   **The "Pour" Technique:** Disinfectant should be gently poured around the perimeter of the spill first, then spiraled inward, or poured gently over paper towels covering the spill
+
+### **Cleanup Procedure** {-}
+
+1.  **PPE:** Don heavy-duty utility gloves (over nitrile gloves), a fluid-resistant lab coat, face protection (goggles/mask or face shield), and shoe covers if the spill is large
+2.  **Absorb:** Cover the spill with absorbent material (paper towels or granular absorbent). This limits the spread and reduces the splash risk
+3.  **Disinfect:** Pour an intermediate-level disinfectant (typically a **1:10 dilution of household bleach** / 0.5% Sodium Hypochlorite) over the absorbent material
+4.  **Contact Time:** This is the most critical step. Allow the bleach to sit for **20 minutes**. Bleach does not kill pathogens instantly; it requires "wet contact time."
+5.  **Remove:** Scoop up the soaked material using mechanical means (dustpan and brush or forceps) if there is broken glass. If no glass, wipe up the material
+6.  **Discard:** Place all waste into a red Biohazard bag
+7.  **Final Clean:** Wipe the surface again with disinfectant to remove residual residue
+
+### **Broken Glass in Biohazards** {-}
+
+*   **Mechanical Removal Only:** Never pick up broken glass with hands, even if wearing heavy gloves
+*   **Tools:** Use tongs, forceps, or a brush and dustpan
+*   **Disposal:** The debris goes into a hard-sided Sharps Container, not a soft biohazard bag (which it would puncture)
+
+## **Chemical Spills** {-}
+
+Chemical spill response requires knowledge of the chemical's properties (pH, flammability, volatility). The Safety Data Sheet (SDS) is the primary resource for determining the correct cleanup method
+
+### **Acid Spills** {-}
+
+*   **The Hazard:** Corrosive damage to skin/lungs and reaction with other materials
+*   **Neutralization:** Strong acids should generally be neutralized before cleanup to make handling safer and disposal compliant
+    *   **Neutralizer:** Use a base like **Sodium Bicarbonate (Baking Soda)** or a commercial acid spill kit containing calcium carbonate
+    *   **Reaction:** The neutralization process will generate carbon dioxide gas (bubbling) and heat. Wait for the bubbling to stop before wiping up
+*   **Exception:** Hydrofluoric Acid (HF) requires a specialized Calcium Gluconate response and immediate medical attention; standard kits are insufficient
+
+### **Base (Caustic) Spills** {-}
+
+*   **The Hazard:** Caustics (e.g., Sodium Hydroxide) cause deep, saponifying burns that damage tissue worse than acids
+*   **Neutralization:** Use a weak acid like **Citric Acid** to neutralize the pH
+*   **Indicator:** Many commercial spill kits contain a color indicator that changes color when the pH is neutral, signaling it is safe to remove
+
+### **Solvent/Flammable Spills** {-}
+
+*   **The Hazard:** Fire and inhalation of toxic fumes (e.g., Xylene, Formalin, Alcohols)
+*   **Immediate Action:** Turn off all ignition sources (Bunsen burners, hot plates)
+*   **Suppression:** Do not use paper towels alone, as this creates a "wick" that increases surface area and vaporization. Use **Activated Charcoal** pads or pillows found in solvent spill kits. The charcoal adsorbs the vapors and raises the flashpoint
+*   **Ventilation:** If the fumes are strong (e.g., a 1-gallon jug of Formalin breaks), evacuate the room and call for HazMat/Environmental Health & Safety. Do not attempt to clean it without respiratory protection (which requires fit testing)
+
+## **Personnel Exposures** {-}
+
+When prevention fails, the immediate response to a personal exposure incident can mitigate the severity of the injury or infection
+
+### **Percutaneous Injury (Needlestick/Sharps)** {-}
+
+*   **Immediate Care**
+    1.  **Wash:** Immediately wash the wound with soap and water for several minutes
+    2.  **No Squeezing:** Do not aggressively squeeze or "milk" the wound, as this may damage local tissue and increase blood flow to the area, potentially promoting viral uptake
+    3.  **No Caustics:** Do not pour bleach or alcohol directly into the open wound. This damages skin integrity and is not recommended by the CDC
+    4.  **Report:** Notify the supervisor immediately
+
+### **Mucous Membrane Exposure (Splash to Eyes/Mouth)** {-}
+
+*   **Eyes:** Proceed immediately to the eyewash station. Hold eyelids open with fingers to overcome the blepharospasm (involuntary closing) and roll the eyeballs. Flush with tepid water for **15 minutes**
+*   **Mouth:** Rinse the mouth thoroughly with water and spit. Do not swallow
+
+### **Dermal Exposure (Chemical Splash on Skin)** {-}
+
+*   **Small Area:** Flush under a sink faucet for 15 minutes. Remove jewelry/rings that may trap the chemical
+*   **Large Area:** Proceed to the Safety Shower
+    *   **Strip:** While under the water stream, remove all contaminated clothing, shoes, and socks. Modesty must be sacrificed for safety; chemicals held against the skin by clothing cause severe full-thickness burns
+    *   **Flush:** Remain under the shower for 15 minutes
+
+## **Post-Exposure Management & Reporting** {-}
+
+After the immediate medical needs are met, the administrative and long-term medical follow-up begins
+
+### **Incident Reporting** {-}
+
+*   **Mandatory:** An Incident Report (or Occurrence Report) must be filed for every spill or exposure, no matter how minor. This document is crucial for Workers' Compensation claims and internal safety audits
+*   **Details:** The report must include the date/time, the specific chemical/biological agent involved, the volume, the root cause (e.g., "technician tripped"), and the corrective actions taken
+
+### **Medical Evaluation (The "Source" & The "Exposed")** {-}
+
+*   **The Source Patient:** If the exposure involved a biological specimen (e.g., a needlestick from a blood draw), the "Source Patient" must be identified and tested for HIV, Hepatitis B, and Hepatitis C, subject to consent laws
+*   **The Employee:** The exposed employee is tested to establish a baseline serostatus
+*   **Post-Exposure Prophylaxis (PEP)**
+    *   **Time Sensitive:** If the source is positive (or unknown/high risk), PEP medications (e.g., antiretrovirals for HIV) should be started as soon as possible, ideally within **2 hours** of exposure
+    *   **Follow-up:** The employee will undergo follow-up testing at intervals (e.g., 6 weeks, 3 months, 6 months) to monitor for seroconversion
+

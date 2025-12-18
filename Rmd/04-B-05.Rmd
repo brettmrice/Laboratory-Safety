@@ -1,0 +1,118 @@
+# Biohazard Decontamination Methods {-}
+
+Decontamination is the process of removing or neutralizing contaminants that have accumulated on personnel and equipment. In the clinical laboratory, "decontamination" is a broad term that encompasses three distinct levels of microbial control: **Sterilization**, **Disinfection**, and **Antisepsis**. The selection of the appropriate method depends on the nature of the biological agent (e.g., spore-forming bacteria vs. lipid virus), the type of item to be treated (e.g., surgical steel vs. plastic), and the intended use of the item. Understanding the resistance of microorganisms to these methods is prerequisite knowledge for any laboratory scientist
+
+## **Hierarchy of Microbial Resistance** {-}
+
+Not all pathogens are killed equally. When selecting a decontamination method, one must consider the "pecking order" of resistance. A method that kills the most resistant organisms will generally kill the least resistant, but the reverse is not true. The hierarchy from **most resistant to least resistant** is:
+
+1.  **Prions:** (e.g., CJD agents) – Require extreme chemical/physical measures (NaOH + Autoclave)
+2.  **Bacterial Spores:** (e.g., *Bacillus anthracis*, *Clostridium difficile*) – Resistant to standard disinfectants and moderate heat
+3.  **Mycobacteria:** (e.g., *M. tuberculosis*) – The waxy cell wall makes them resistant to water-based disinfectants
+4.  **Non-Enveloped (Hydrophilic) Viruses:** (e.g., Poliovirus, Norovirus, Rhinovirus) – Harder to kill because they lack a lipid membrane target
+5.  **Fungi:** (e.g., *Candida*, *Aspergillus*)
+6.  **Vegetative Bacteria:** (e.g., *E. coli*, *Staphylococcus*) – Easily killed
+7.  **Enveloped (Lipophilic) Viruses:** (e.g., HIV, Hepatitis B, Influenza) – These are the **easiest** to kill because the lipid envelope is easily destroyed by detergents and alcohol, rendering the virus non-infectious
+
+## **Sterilization** {-}
+
+Sterilization is an absolute term; an item is either sterile or it is not. It defines the complete destruction or removal of *all* forms of microbial life, including high numbers of bacterial spores. This is primarily used for waste disposal and preparing reusable surgical/microbiological equipment
+
+### **Steam Under Pressure (Autoclaving)** {-}
+
+This is the gold standard for laboratory sterilization. Moist heat coagulates and denatures proteins more efficiently than dry heat
+
+*   **Standard Conditions:** **121°C at 15 psi for 15 minutes**
+    *   *Note:* This time applies to the *load* reaching temperature, not just the chamber. Heavy loads or large volumes of liquid require longer cycle times
+*   **Mechanism:** Saturated steam releases latent heat upon condensation, rapidly destroying cellular structures
+*   **Quality Control**
+    *   **Biological Indicator (BI):** Vials containing spores of *Geobacillus stearothermophilus* (a thermophile) are run with the load. If the spores fail to grow after incubation, sterilization was successful. This is the only way to prove biological lethality
+    *   **Chemical Indicators:** Heat-sensitive tape turns black to indicate the item has passed through the heat cycle (does not prove sterility, only exposure)
+
+### **Dry Heat** {-}
+
+Used for items that might be damaged by moisture or cannot be penetrated by steam (e.g., oils, powders, glassware)
+
+*   **Standard Conditions:** **160°C to 170°C for 2 to 4 hours**
+*   **Mechanism:** Oxidizes cellular components (slow burning)
+
+### **Gas Sterilization** {-}
+
+Used for heat-sensitive equipment (e.g., plastic catheters, complex electronics)
+
+*   **Ethylene Oxide (EtO):** A colorless, flammable gas that acts as a potent alkylating agent. It requires strict ventilation due to toxicity to humans
+*   **Vaporized Hydrogen Peroxide (VHP):** Often used to decontaminate Biosafety Cabinets or entire rooms
+
+### **Filtration** {-}
+
+Used for liquids that are heat-labile (e.g., antibiotic solutions, vaccines, serum)
+
+*   **Mechanism:** Physical removal rather than killing. A membrane filter with a pore size of **0.22 micrometers** effectively removes bacteria and fungi, but not viruses
+
+## **Disinfection** {-}
+
+Disinfection describes the elimination of most pathogenic microorganisms (excluding bacterial spores) on inanimate objects. It is categorized by three levels of potency
+
+### **High-Level Disinfection** {-}
+
+*   **Goal:** Kills all microorganisms except high numbers of bacterial spores. (Approaches sterilization)
+*   **Agents:** Glutaraldehyde (Cidex), Hydrogen Peroxide (high concentration), Peracetic Acid
+*   **Use:** Semi-critical items that touch mucous membranes but do not penetrate sterile tissue (e.g., endoscopes, respiratory therapy equipment)
+
+### **Intermediate-Level Disinfection** {-}
+
+*   **Goal:** Kills vegetative bacteria, most fungi, and importantly, **Mycobacteria** (Tuberculocidal)
+*   **Agents:** 70-90% Alcohol (Ethanol/Isopropanol), Phenolic compounds, Iodophors (with sufficient contact time), and **10% Household Bleach (Sodium Hypochlorite)**
+*   **Use:** Laboratory bench surfaces, centrifuges, and non-critical surfaces with visible blood contamination
+
+### **Low-Level Disinfection** {-}
+
+*   **Goal:** Kills most vegetative bacteria and some fungi/viruses, but is NOT tuberculocidal and does not kill spores
+*   **Agents:** Quaternary Ammonium Compounds ("Quats")
+*   **Use:** General housekeeping (floors, walls) and non-critical items without visible blood
+
+## **Antisepsis** {-}
+
+Antisepsis is the application of a chemical agent to **living tissue** (skin) to inhibit or destroy microorganisms. These agents must be less toxic than disinfectants to prevent tissue damage
+
+*   **Alcohols (70%):** Denature proteins. Used for phlebotomy site preparation
+*   **Iodophors (Betadine/Povidone-Iodine):** Oxidizing agents used for blood culture site preparation (requires contact time)
+*   **Chlorhexidine Gluconate:** Disrupts cell membranes. Often preferred for blood culture prep due to residual activity on the skin
+
+## **Chemical Disinfectants: Key Considerations** {-}
+
+When choosing a disinfectant for a spill or routine cleaning, the laboratory scientist must evaluate several factors:
+
+### **Sodium Hypochlorite (Household Bleach)** {-}
+
+*   **The Clinical Standard:** A **1:10 dilution** (0.5% or 5,000 ppm) of household bleach is the universal disinfectant for bloodborne pathogens (HIV, HBV) in the lab
+*   **Preparation:** Must be made **fresh daily**. Bleach degrades rapidly in light and when diluted
+*   **Contact Time:** Generally requires **10-20 minutes** of wet contact time to be effective
+*   **Limitations**
+    *   Corrosive to stainless steel (must be rinsed with water or alcohol after use)
+    *   Inactivated by organic load: If a large blood spill occurs, the organic matter (proteins) will neutralize the bleach. **Protocol:** Absorb the bulk spill first, *then* apply bleach to the residue
+
+### **Alcohols (Ethanol/Isopropanol)** {-}
+
+*   **Concentration:** **70% is superior to 100%**. Water is required for the alcohol to penetrate the bacterial cell wall and denature proteins. 100% alcohol merely coagulates the surface, trapping the organism inside
+*   **Utility:** Excellent for stainless steel (non-corrosive) and routine bench wiping
+*   **Limitation:** It evaporates quickly (short contact time) and does not kill spores
+
+### **Quaternary Ammonium Compounds ("Quats")** {-}
+
+*   **Utility:** Good for general cleaning and lipid viruses
+*   **Limitation:** Generally **ineffective** against *Pseudomonas aeruginosa*, *Mycobacterium tuberculosis*, and non-enveloped viruses. They are easily neutralized by cotton mops or hard water
+
+### **Phenolics** {-}
+
+*   **Utility:** Effective against Mycobacteria (tuberculocidal) and maintain activity in the presence of organic material (blood/soil)
+*   **Limitation:** Toxic to skin (depigmentation) and strict disposal regulations exist in some municipalities
+
+## **Factors Influencing Decontamination Efficacy** {-}
+
+Simply spraying a chemical does not guarantee safety. The following variables dictate success:
+
+*   **Organic Load (The "Bio-Burden"):** Blood, pus, and mucus protect microorganisms from disinfectants. Thorough cleaning (physical removal of dirt/blood) is essential *before* disinfection can occur
+*   **Contact Time:** Disinfectants are not instantaneous. They require "wet time" to work. Alcohol that dries in 10 seconds has likely not sterilized the surface
+*   **Concentration:** "More is not always better." As seen with alcohol, 70% is more effective than 100%. Conversely, diluting bleach too much renders it useless
+*   **Temperature:** Most disinfectants work best at room temperature (20-22°C). Cold temperatures slow down the chemical reaction, requiring longer contact times

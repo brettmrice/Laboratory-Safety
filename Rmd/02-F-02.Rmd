@@ -1,0 +1,74 @@
+# Dress Code {-}
+
+The laboratory dress code is not a matter of style or professional appearance, but a critical component of personal safety. It serves as the final barrier of defense between the laboratory scientist (MLS) and the chemical, biological, and physical hazards inherent in the workplace. OSHA regulations and best practices dictate strict adherence to attire that maximizes skin coverage and minimizes the risk of entanglement or fire
+
+## **Head & Face** {-}
+
+### **Hair** {-}
+
+*   **The Hazard:** Loose hair acts as a wick for chemicals and biological fluids. It can easily dip into petri dishes, specimen tubes, or be drawn into the intake vents of instruments. It is also highly flammable and poses a severe risk near Bunsen burners
+*   **The Rule**
+    *   Hair that is shoulder-length or longer must be tied back and secured behind the head
+    *   Ideally, hair should be bunched so it does not swing forward when the laboratory scientist leans over the bench
+    *   Facial hair (long beards) must also be restrained if it poses a risk of contact with the work area
+
+### **Cosmetics & Jewelry** {-}
+
+*   **Cosmetics:** The application of makeup, lip balm, or lotion is prohibited in the technical area to prevent hand-to-face transfer of contaminants
+*   **Jewelry**
+    *   **Dangling Jewelry:** Long necklaces, large hoop earrings, and dangling bracelets are prohibited. They can catch on centrifuge rotors, get snagged on equipment handles, or drag through waste
+    *   **Rings:** Rings should be minimal. Large stones or high-profile settings can tear latex/nitrile gloves, compromising the protective barrier. They can also trap corrosive chemicals against the skin, leading to severe burns ("chemical ring effect")
+
+## **Torso & Legs** {-}
+
+### **Clothing Fit & Fabric** {-}
+
+*   **Fit:** Clothing should be comfortable but not excessively loose or baggy. Loose sleeves or shirts can knock over glassware or catch fire. Conversely, clothing that is too tight restricts movement and may prevent rapid removal during an emergency (like a chemical spill)
+*   **Fabric:** Synthetic fabrics (polyester, rayon) can melt when exposed to fire or certain solvents, fusing to the skin and causing catastrophic burns. Natural fibers (cotton or wool) are preferred for laboratory wear underneath the lab coat as they are more fire-resistant
+
+### **Skin Coverage (The "No Skin Below the Waist" Rule)** {-}
+
+*   **The Hazard:** If a beaker of acid or a tray of blood falls, gravity dictates it will land on the lower body
+*   **The Rule**
+    *   **Pants:** Long pants are mandatory. They must cover the legs completely down to the shoe
+    *   **Prohibited Items:** Shorts, skirts, kilts, and capri pants are strictly forbidden in the technical area. Even if wearing a long lab coat, these items are not permitted because lab coats do not fully close at the bottom and swing open when walking
+    *   **Hosiery:** Nylons or pantyhose are not considered protective clothing. They can melt into the skin in a fire and offer no barrier to chemicals
+
+## **Footwear** {-}
+
+The feet are the most vulnerable target for dropped sharps (scalpels, needles) and heavy equipment (cylinders, centrifuge rotors)
+
+### **Material & Construction** {-}
+
+*   **Enclosed:** The entire foot must be covered. Open-toed shoes, sandals, flip-flops, and "Peep-toe" shoes are strictly prohibited
+*   **Impermeable:** The upper material must be fluid-resistant
+    *   **Preferred:** Leather, synthetic leather, or rubber
+    *   **Prohibited:** Canvas (e.g., Converse), mesh (e.g., running shoes), or woven fabrics. These materials absorb liquids immediately, holding hazardous chemicals or blood against the skin (the "sponge effect")
+*   **Construction**
+    *   **Crocs:** While popular for comfort, Crocs with holes/perforations are forbidden. Even solid Crocs are often discouraged unless they have a secure heel strap, as loose shoes are a tripping hazard
+    *   **Heels:** High heels are generally prohibited due to the risk of tripping and instability when carrying hazardous materials. Shoes should have a flat or low heel
+
+### **Soles** {-}
+
+*   **Non-Slip:** Floors in labs are often polished linoleum and can be slippery, especially if there are undetected spills. Shoes must have non-slip treads
+
+## **The Lab Coat (The Primary Barrier)** {-}
+
+The lab coat is the defining piece of Personal Protective Equipment (PPE) for body coverage
+
+### **Design & Wear** {-}
+
+*   **Sleeves:** Must be long and fitted. Short-sleeved lab coats are generally not permitted for handling biohazards. Cuffs should be knit (cuffed) to fit wrists tightly; open cuffs can drag across dirty surfaces
+*   **Length:** Should extend to the knees to provide lap protection when sitting
+*   **Closure:** The coat must be worn **completely buttoned or snapped**. An open lab coat is a safety violation; it provides no protection to the front of the body and the flapping sides can knock over equipment
+
+### **Material** {-}
+
+*   **Fluid Resistant:** For clinical labs (Hematology/Chemistry), fluid-resistant synthetic blends are common to repel blood splashes
+*   **Flame Resistant:** For Microbiology (using burners) or Histology (using flammables), flame-resistant cotton or treated cotton is safer than synthetics
+
+### **Maintenance & Storage** {-}
+
+*   **Removal:** Lab coats must be removed immediately upon leaving the technical work area. They are never worn in break rooms, clean offices, cafeterias, or restrooms
+*   **Laundering:** Lab coats must be laundered by the employer or a professional service. Taking a contaminated lab coat home to wash mixes hazardous pathogens with family laundry
+*   **Replacement:** Coats that are frayed, have holes, or are permanently stained with hazardous chemicals must be discarded

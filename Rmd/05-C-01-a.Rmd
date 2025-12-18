@@ -1,0 +1,69 @@
+# Labeling {-}
+
+The safe and compliant management of laboratory waste relies fundamentally on one concept: **identification**. Once a chemical or biological byproduct is placed in a container for disposal, it ceases to be a reagent and becomes "waste." If that container is not accurately, legibly, and completely labeled, it transforms into an "unknown" - the most dangerous and expensive category of waste a facility can possess. Proper labeling is the primary communication tool for waste handlers, transporters, and disposal facilities, ensuring they can treat the material without risking explosion, toxic release, or regulatory fines from agencies like the **EPA (Resource Conservation and Recovery Act - RCRA)** and the **DOT (Department of Transportation)**
+
+## **The Golden Rule of Identification** {-}
+
+*   **No Abbreviations:** Chemical formulas ($H_2SO_4$) and structural diagrams are **not** acceptable on waste labels. The label must read "Sulfuric Acid." Abbreviations common in the lab (e.g., "PBS" for Phosphate Buffered Saline or "EtBr" for Ethidium Bromide) are meaningless to an external waste contractor or a firefighter responding to a storage room fire
+*   **English Language:** All labels must be in English
+*   **Legibility:** If the handwriting is illegible, the hazard is unidentified. Labels must be printed or written clearly with permanent, water-resistant markers
+
+## **Chemical Waste Labeling (EPA/RCRA)** {-}
+
+Under the Resource Conservation and Recovery Act (RCRA), a waste container must be labeled the moment the first drop of waste enters it. This is the "Satellite Accumulation Area" phase
+
+### **Required Elements on the Tag** {-}
+
+1.  **The Words "Hazardous Waste":** This specific phrase is mandatory. It alerts personnel that the contents are regulated and dangerous
+2.  **Chemical Constituents:** Every chemical in the bottle must be listed with its approximate percentage (e.g., "Methanol 80%, Acetic Acid 10%, Water 10%")
+    *   *Note:* The total must equal 100%. Vague terms like "Organic Solvents" or "Trace Chemicals" are prohibited
+    *   *Heavy Metals:* Even trace amounts (ppm) of heavy metals (Mercury, Lead, Silver from stains) must be listed, as they trigger specific toxicity characteristics
+3.  **Hazard Characteristics:** The label must clearly indicate the specific risk. Most institutions use check boxes for:
+    *   **Ignitable (Flammable):** Flash point < 140°F (e.g., Xylene, Ethanol)
+    *   **Corrosive:** pH $\le$ 2 or $\ge$ 12.5 (e.g., Acids, Bases)
+    *   **Reactive:** Unstable or water-reactive (e.g., Sodium Azide, Picric Acid)
+    *   **Toxic:** Injurious to health (e.g., Formalin, Methanol)
+4.  **Date**
+    *   **Start Date:** Optional but recommended for tracking accumulation
+    *   **Full Date:** **Mandatory.** This is the date the container becomes full or is moved to the Central Accumulation Area. From this date, the clock starts ticking (typically 90 or 180 days) for the facility to ship the waste off-site
+5.  **Generator Information:** The name of the lab section (e.g., "Chemistry Dept"), the room number, and the contact person. This provides accountability if the container leaks or reacts
+
+## **Biological Waste Labeling ** {-}
+
+Biohazardous waste (regulated medical waste) has a distinct labeling system designed to protect custodians and landfill operators from infectious agents
+
+*   **The Symbol:** The universal **Biohazard Symbol** (three interlocking circles) must be prominent
+*   **Color Coding**
+    *   **Red Bags/Containers:** Strictly for infectious waste (blood-soaked items, cultures, tubes). The color red acts as a "Stop" sign to custodial staff, indicating "Do not put in regular trash"
+    *   **Orange:** Sometimes used for autoclaved waste, though Red is the standard for untreated infectious waste
+    *   **Yellow:** Often designates Chemotherapy waste (trace) or Linen, depending on state regulations, but less common for general biohazard
+*   **Sharps Containers:** Must be rigid, red, and labeled "Biohazard."
+*   **Secondary Labeling:** Once the red bag is sealed and placed in a cardboard transport box (for off-site incineration), the *outer box* must be labeled with:
+    *   The Generator's Name and Address
+    *   The Transporter's Name
+    *   The Date of Shipment
+    *   The symbol "Regulated Medical Waste" or "Infectious Substance"
+
+## **Radioactive Waste Labeling** {-}
+
+Radioactive waste (from Radioimmunoassay - RIA) requires the most stringent labeling due to the long-term persistence of the hazard
+
+*   **Isotope Identification:** The label must specify the specific isotope (e.g., $^{125}\text{I}$, $^{14}\text{C}$, $^{3}\text{H}$)
+*   **Activity:** The amount of radioactivity present (in microcuries - $\mu\text{Ci}$ or Becquerels - Bq) must be estimated and recorded
+*   **Date:** The date is crucial because it determines decay. Radioactive waste is often "decayed in storage" (held for 10 half-lives until non-radioactive). An accurate date allows the Radiation Safety Officer to calculate when the waste is safe to discard as regular trash
+*   **Dry vs. Liquid:** Solid waste (gloves, paper) and liquid waste (buffers) must be labeled and segregated, as their disposal pathways differ
+
+## **Universal Waste Labeling** {-}
+
+"Universal Waste" is a specific EPA category for widely generated hazardous waste that is lower risk if handled correctly. This facilitates recycling
+
+*   **Categories:** Batteries, Pesticides, Mercury-containing equipment (thermostats), and **Lamps** (fluorescent bulbs)
+*   **Label Requirements**
+    *   Must be labeled clearly (e.g., "Universal Waste - Batteries" or "Used Lamps")
+    *   Must have an **Accumulation Start Date:** (can be stored for 1 year)
+
+## **Common Labeling Violations (What to Avoid)** {-}
+
+*   **Defacing Labels:** Never use a marker to cross out the original label of a chemical bottle and write "Waste" over it. Remove or completely obscure the old label to prevent confusion (e.g., putting waste acid in an old bleach bottle without removing the "Bleach" label creates a safety hazard)
+*   **"Drain Disposal":** Labeling a container "For Drain" is generally prohibited unless the specific chemical has been cleared by the facility's wastewater permit. Most chemicals cannot be poured down the sink
+*   **Open Containers:** A label is useless if the container is open. Regulations require waste containers to be **closed** (caps screwed on tight) at all times except when adding waste. A funnel left in the neck of a bottle is considered an "open container" violation

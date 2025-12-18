@@ -1,0 +1,53 @@
+# Lab Coats & Aprons {-}
+
+The laboratory coat is the most iconic and fundamental piece of Personal Protective Equipment (PPE) for the laboratory scientist. However, it is often the most misused. Under OSHA’s Bloodborne Pathogens Standard (29 CFR 1910.1030) and the Personal Protective Equipment Standard (29 CFR 1910.132), the lab coat serves a specific function: it acts as a removable barrier to prevent clothing contamination and skin exposure to blood, body fluids, and hazardous chemicals. It is designed to be the first line of defense, taking the brunt of a spill so the worker’s skin does not
+
+## **Lab Coat Selection & Material** {-}
+
+Not all lab coats offer the same protection. The selection of the coat material must be based on a risk assessment of the specific laboratory section (e.g., Microbiology vs. Hematology)
+
+*   **Fluid-Resistant Coats:** These are the standard for Clinical Chemistry, Hematology, and Blood Bank. They are typically made of treated synthetic blends (polyester/cotton) or non-woven polypropylene (disposable). Their surface tension properties cause blood and aqueous fluids to bead up and roll off rather than soaking through to the wearer's scrub top
+*   **Flame-Resistant (FR) Coats:** In Microbiology (where Bunsen burners are used) or Histology (where flammable solvents like xylene are present), the material is critical
+    *   **Cotton:** Heavy cotton is preferred because it is naturally somewhat fire-resistant and, if it ignites, it turns to ash
+    *   **The Synthetic Hazard:** High-polyester or nylon coats must be avoided near open flames. If these fabrics ignite, they melt and fuse to the skin, causing horrific, localized burns that are difficult to treat
+*   **Disposable vs. Reusable**
+    *   **Reusable:** Durable and cost-effective but requires a professional laundry management plan
+    *   **Disposable:** Tyvek or polypropylene coats are often used in Molecular Biology (to prevent PCR amplicon contamination) or for high-risk isolation work. They must be discarded into biohazard waste immediately after use
+
+## **Critical Design Features** {-}
+
+A "safety" lab coat differs from a standard white physician's coat in several key design elements intended to maximize protection
+
+*   **Wrist Cuffs:** This is the most important safety feature. Laboratory coats must have **knit (elastic) cuffs**
+    *   **Protection:** The cuff creates a seal against the wrist. When gloves are donned, the cuff of the glove should go *over* the knit cuff of the coat. This prevents skin exposure between the glove and the sleeve
+    *   **Hazard Prevention:** Open, loose sleeves (common on doctor's coats) are a major hazard. They can drag across contaminated benchtops, dip into beaker solutions, or knock over glassware
+*   **Closures (Snaps vs. Buttons)**
+    *   **Snaps:** Pressure snaps are the preferred closure method. In the event of a chemical spill or fire, the coat can be ripped off the body instantly ("breakaway")
+    *   **Buttons:** Buttons require manual dexterity and time to undo, which delays removal during an emergency
+*   **Length and Fit:** The coat should extend to the knees to provide coverage for the lap and upper legs, especially when the laboratory scientist is sitting at a microscope or biosafety cabinet. The collar should be high enough to protect the user's chest and neck from splashes
+
+## **Aprons: Secondary Protection** {-}
+
+A lab coat is not impervious. For tasks involving large volumes of fluid or highly corrosive chemicals, a lab coat must be supplemented with an apron
+
+*   **Chemical Aprons:** When handling concentrated acids (e.g., Hydrochloric acid for slide preparation) or bulk reagents, a rubber or heavy vinyl apron is required. Standard lab coats are porous; an acid spill will soak through to the skin in seconds. The apron provides a non-porous shield
+*   **Fluid-Proof Aprons:** Used during gross dissection in Pathology or during the wash-down of analyzers where massive splashes are likely
+*   **Donning Protocol:** The apron is always worn **over** the lab coat
+
+## **Proper Use & Etiquette** {-}
+
+The efficacy of the lab coat relies entirely on the user's adherence to standard work practices
+
+*   **The "Closed" Rule:** The coat must be completely buttoned or snapped at all times. Wearing a lab coat open "cape style" offers zero protection to the front of the body and creates loose flaps that can knock over equipment
+*   **Sleeves:** Sleeves must never be rolled up. Rolling up sleeves exposes the forearms to infectious agents and defeats the purpose of the garment
+*   **The "Clean to Dirty" Boundary**
+    *   **Entry:** Coats are donned immediately upon entering the technical work area
+    *   **Exit:** Coats must be removed **before** leaving the laboratory. They cannot be worn in hallways, elevators, break rooms, administrative offices, or restrooms. Wearing a dirty coat into a clean area spreads pathogens to "public" surfaces like doorknobs and coffee pots
+
+## **Maintenance & Laundering** {-}
+
+OSHA regulations regarding the cleaning of PPE are strict and non-negotiable
+
+*   **Home Laundering Prohibition:** Employees are **strictly prohibited** from taking soiled lab coats home to wash in their personal laundry machines. This practice risks transferring bloodborne pathogens to the employee's family and contaminating their home appliances
+*   **Employer Responsibility:** The employer is legally required to provide, clean, repair, and replace PPE at no cost to the employee. This is typically handled via an industrial laundry service or on-site washer/dryer facilities dedicated solely to lab wear
+*   **Inspection:** Coats should be inspected regularly. If a coat becomes thin/threadbare, develops holes, or is stained with a chemical that compromises the fabric's integrity, it must be retired and replaced

@@ -1,0 +1,26 @@
+# Signs & Labels Overview {-}
+
+Effective hazard communication is the backbone of chemical safety in the clinical laboratory. It ensures that every laboratory scientist, regardless of language or background, can instantly identify the risks associated with a substance before handling it. This communication is achieved through a standardized system of labels, safety data sheets, and facility signage regulated by OSHA's Hazard Communication Standard (HCS). While the federally mandated Globally Harmonized System (GHS) is the primary standard for manufacturers, laboratories frequently encounter legacy systems like NFPA and HMIS on secondary containers and facility doors
+
+## **Globally Harmonized System (GHS)** {-}
+
+Adopted to align the United States with international standards, GHS shifts the focus from a "Right to Know" to a "Right to Understand." It mandates that all chemical manufacturers provide labels with six standardized elements to ensure consistency
+
+*   **The 6 Label Elements:** Every primary container must feature the **Product Identifier**, **Signal Word** (Danger or Warning), **Hazard Statements** (e.g., "Causes severe skin burns"), **Precautionary Statements** (e.g., "Wear protective gloves"), **Supplier Identification**, and **Pictograms**
+*   **Pictograms:** These are distinct symbols inside a red diamond that visually convey the hazard type (e.g., a "Flame" for flammables, a "Skull and Crossbones" for acute toxicity, or "Corrosion" for tissue damage)
+*   **Safety Data Sheets (SDS):** GHS replaces the old MSDS with a standardized **16-section** SDS. This document provides comprehensive details, including Section 4 (First Aid) and Section 8 (PPE), which are critical for emergency response
+
+## **NFPA 704 & HMIS (Legacy & Secondary Systems)** {-}
+
+While GHS is used for shipping and primary bottles, laboratories often use older systems for facility signage (doors) and secondary containers (working solutions)
+
+*   **NFPA 704 (The Fire Diamond):** Designed for **emergency responders** (firefighters). It uses a diamond shape divided into four color-coded quadrants: Blue (Health), Red (Flammability), Yellow (Instability), and White (Special Hazards like Oxidizers). It focuses on acute, immediate hazards during a fire
+*   **HMIS (Hazardous Materials Identification System):** Designed for the **daily workforce**. It uses stacked colored bars. Unlike NFPA, HMIS includes a specific field for **Chronic Health Hazards** (marked by an asterisk *) and uses letter codes to designate required PPE (e.g., "C" = Safety Glasses + Gloves + Apron)
+
+## **The Critical Numbering Conflict** {-}
+
+The most significant safety risk regarding labeling is the contradictory numbering scales between the new GHS standard and the traditional NFPA/HMIS systems. A misunderstanding here can lead to fatal errors
+
+*   **GHS Scale:** **Category 1 = Most Severe Hazard**. (Think of "1st Place" or a "Category 5" storm inverted; 1 is the highest danger)
+*   **NFPA/HMIS Scale:** **Rating 4 = Most Severe Hazard**. (Think of a test score; 4 out of 4 is the highest)
+*   **The Danger:** A laboratory scientist seeing a "1" on a GHS label must recognize it as a lethal threat, whereas a "1" on an NFPA door sign indicates a minor nuisance

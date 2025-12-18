@@ -1,0 +1,63 @@
+# Glassware & Sharps {-}
+
+In the physical environment of the clinical laboratory, the mishandling of glassware and sharps constitutes one of the most frequent causes of occupational injury. While a cut or puncture is a physical trauma, its significance in the laboratory is compounded by the potential for percutaneous inoculation of bloodborne pathogens (HIV, Hepatitis B/C) or toxic chemicals. Therefore, the management of these materials is not merely a matter of general housekeeping but a critical component of Infection Control and Biohazard containment. Safe practices regarding these items are mandated by the Occupational Safety and Health Administration (OSHA) under the Bloodborne Pathogens Standard and the Needlestick Safety and Prevention Act
+
+## **Glassware Safety** {-}
+
+Despite the trend toward plastic disposables, glass remains essential for specific volumetric measurements, slide preparations, and staining procedures. Glass is inherently fragile, and its breakage creates an immediate "sharp" that must be managed with specific protocols to prevent lacerations
+
+### **Inspection & Selection** {-}
+
+*   **Pre-Use Inspection:** Before any procedure, glassware must be visually inspected. Laboratory scientists should look for "star cracks," chips, or deep scratches. Stress fractures are often invisible until the vessel is subjected to thermal or centrifugal force
+    *   **Centrifuge Tubes:** Glass tubes used in centrifugation are under immense G-force. A minor scratch can cause the tube to shatter, destroying the sample and creating a hazardous aerosol cleanup situation. Only heavy-walled, specifically rated glass should be used in centrifuges
+*   **Glass Types:** Not all glass is created equal. The laboratory standard is **Borosilicate Glass** (e.g., Pyrex or Kimax), which has a low coefficient of expansion and high resistance to thermal shock and chemical corrosion. **Soda-lime (Flint) Glass** (often used for disposable pipettes or slides) is less durable and should never be heated, as it is prone to shattering under thermal stress
+
+### **Handling Techniques** {-}
+
+*   **Insertion into Tubing:** A classic laboratory injury occurs when forcing a glass tube or pipette into a rubber stopper or tubing. If the glass breaks, it shears directly into the palm or wrist
+    *   **Protocol:** Always lubricate the glass (with water or glycerin) and the bore of the stopper. Protect hands with heavy gloves or a towel. Use a twisting motion rather than pushing straight in. Never force the connection
+*   **Frozen Glass:** Removing glass vials (such as cryovials) from ultra-low temperature storage (liquid nitrogen) carries an explosion risk. If liquid nitrogen seeps into an imperfectly sealed vial, it expands rapidly upon warming, turning the glass vial into a shrapnel grenade. Face shields are mandatory when thawing these specimens
+
+### **Broken Glass Management** {-}
+
+*   **The "No Hands" Rule:** Under **NO** circumstances should broken glass be picked up with gloved or bare hands. Even heavy utility gloves can be penetrated by fine shards
+*   **Mechanical Removal:** Use a brush and dustpan, tongs, or forceps to collect pieces. If the glass is small or powdered, use damp paper towels (held with forceps) or adhesive tape to lift the fragments
+*   **Disposal:** Broken glass must never be discarded in the regular trash. It must be placed in a designated **rigid, puncture-resistant box** (often lined with a heavy plastic bag) labeled "Broken Glass." If the glass is contaminated with biohazards, it must go into a rigid **Red Biohazard Sharps Container**, not the clean broken glass box
+
+## **Sharps Safety** {-}
+
+In the context of the laboratory, a "sharp" is defined as any object capable of penetrating the skin. This category includes needles, scalpels, lancets, broken glass, and fragile glass items like Pasteur pipettes and microscope slides. The management of sharps is strictly regulated to minimize the risk of needlestick injuries
+
+### **The Needlestick Safety & Prevention Act** {-}
+
+Signed into law in 2000, this act updated the OSHA Bloodborne Pathogens Standard. It mandates that employers must:
+
+*   Identify and use effective and safer medical devices (Safety-Engineered Sharps)
+*   Incorporate changes in technology that eliminate or reduce exposure to bloodborne pathogens
+*   Solicit input from non-managerial employees responsible for direct patient care in the identification and selection of effective engineering and work practice controls
+*   Maintain a sharps injury log
+
+### **Safe Work Practices** {-}
+
+*   **Prohibition of Recapping:** The most common cause of needlestick injury is the attempt to recap a used needle. **Recapping is strictly prohibited.**
+    *   *Exception:* If recapping is absolutely necessary for a specific medical procedure (rare in the routine lab), it must be done using a mechanical device or the **"One-Handed Scoop" technique**. The user must never move the hand towards the needle
+*   **Needle Removal:** Needles should not be removed from syringes or vacuum tube holders (vacutainer hubs) by hand. The entire assembly should be discarded as one unit. If removal is required (e.g., for a blood gas syringe), a mechanical removal device or the safety lid of the sharps container must be used
+*   **Passing Sharps:** Avoid hand-to-hand passing of sharp instruments. Use a "neutral zone" or tray where one person places the sharp and the other retrieves it
+
+### **High-Risk Items in the Lab** {-}
+
+*   **Microtome Blades:** In the Histology laboratory, the microtome blade is exceptionally sharp. The most common injury occurs when a laboratory scientist reaches across the blade to retrieve a ribbon or clean the block. **Protocol** Always engage the safety lock or guard when the handwheel is stopped. Remove the blade immediately after the session is finished. Never leave a blade in an unattended microtome
+*   **Capillary Tubes:** Glass capillary tubes (used for hematocrit or rapid blood collection) are fragile. If one breaks while being pressed into sealing clay or removed from a rotor, it can puncture the thumb. Mylar-wrapped (plastic-coated) capillary tubes are the safer alternative
+*   **Pasteur Pipettes:** These long-necked glass pipettes are often overlooked as sharps. They break easily and can puncture waste bags. They must be disposed of in a rigid sharps container, not the glass box
+
+### **Sharps Disposal Containers** {-}
+
+Proper disposal is the final step in the safety chain. Sharps containers must meet four specific criteria:
+
+1.  **Closable:** They must have a lid that can be secured for transport
+2.  **Puncture Resistant:** The sides and bottom must be unable to be penetrated by needles
+3.  **Leak Proof:** To prevent fluids from seeping out the bottom
+4.  **Labeled/Color Coded:** Typically red with the universal biohazard symbol
+
+*   **The "Fill Line":** Sharps containers have a designated "Max Fill" line (usually at the 3/4 mark). **Never overfill a sharps container.** Injuries frequently occur when a laboratory scientist attempts to force a needle into a full container, causing a used sharp to protrude or the mechanism to rebound
+*   **Placement:** Containers must be easily accessible and located as close as feasible to the immediate area where sharps are used (e.g., on the phlebotomy tray or directly on the workbench)

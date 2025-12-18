@@ -1,0 +1,21 @@
+# Author {-}
+
+Author: <a href="https://www.brettmrice.com" target="_blank">Brett M. Rice, MLS(ASCP)SH,SCYM</a>
+
+He is a graduate from Augusta University's Clinical Laboratory Science program. He worked on the Clinical Hematology bench in Wellstar MCG Health's Core Laboratory full time between 2013-18. In 2016, he earned a Specialist in Hematology (ASCP). During this time, he gained experience on the Bone Marrow and Flow Cytometry bench and was successful on the Specialist in Cytometry (ASCP) in 2018
+
+Since September of 2018, he has been teaching full time in Augusta University's Clinical Laboratory Science (<a href="https://www.augusta.edu/programs/clinical-laboratory-science-bs.php" target="_blank">BS-CLS</a> | <a href="https://www.augusta.edu/programs/clinical-laboratory-science-mhs.php" target="_blank">MHS-CLS</a>) program with a primary teaching focus in Clinical Hematology. He still practices in the same Clinical Hematology, Bone Marrow, and Flow Cytometry Laboratory one day each week
+
+## Disclaimer {-}
+
+AI was used in the creation of this site. AI makes mistakes, so double-check the information
+
+If you see any mistakes or omissions, then please let me know where edits need to be made by using the "Edit this page" feature displayed in the right column (desktop view). I am hoping through time you and me can build this project into a reliable resource for all. Along that line, I am considering this project to be in a perpetual state of "in-progress"
+
+## License {-}
+
+This work is licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">CC BY-NC-SA 4.0</a>
+
+## Contribute {-}
+
+The author appreciates any help to maintain this reference material. As you use this resource, please consider using the "Edit this page" feature on the right side of this page (while in desktop view) to suggest changes to the content. Another way you can contribute is to <a href="https://buymeacoffee.com/bloodcellid" target="_blank">keep the author caffeinated</a>!

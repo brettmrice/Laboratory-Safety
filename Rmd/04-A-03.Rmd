@@ -1,0 +1,62 @@
+# Biosafety Cabinets {-}
+
+The Biological Safety Cabinet (BSC) is the primary engineering control used to protect the laboratory scientist, the environment, and the specimen from infectious biohazards. It functions by using high-velocity air barriers and High Efficiency Particulate Air (HEPA) filters to trap biological agents. It is critical to distinguish the BSC from a "Laminar Flow Hood" (which only protects the product, blowing air *at* the user) and a "Chemical Fume Hood" (which protects the user from chemicals but offers no sterility for the product). Understanding the selection, operation, and maintenance of the BSC is vital for preventing Laboratory Acquired Infections (LAIs)
+
+## **Classification & Selection** {-}
+
+BSCs are classified into three classes (I, II, and III) based on their construction, airflow velocities, and exhaust systems. The selection depends on the risk group of the agent and whether volatile chemicals are also being used
+
+### **Class I BSC** {-}
+
+*   **Protection:** Protects the **User** and the **Environment**. **Does NOT protect the Product**
+*   **Mechanism:** Unfiltered room air is pulled in through the front opening (protecting the user), passes over the work surface, and is exhausted through a HEPA filter
+*   **Use Case:** Rarely used in modern clinical labs. Suitable for housing equipment like centrifuges or cage dumping in animal labs where sterility of the sample is not required
+
+### **Class II BSC (The Clinical Standard)** {-}
+
+*   **Protection:** Protects the **User**, the **Environment**, and the **Product** (sterility)
+*   **Mechanism:** It uses a "curtain" of air at the front opening to protect the user. Inside, HEPA-filtered air flows downward (laminar flow) onto the work surface to protect the product. The exhaust is also HEPA filtered
+*   **Sub-Types**
+    *   **Class II, Type A2:** The most common cabinet in microbiology labs. It recirculates ~70% of the air back into the cabinet and exhausts ~30% back into the room (or via a thimble connection to a duct)
+        *   *Limitation:* Because it recirculates air and often exhausts into the room, it **cannot:** be used with volatile toxic chemicals or radionuclides, as vapors pass through HEPA filters and will concentrate in the cabinet or be blown back at the user
+    *   **Class II, Type B2 ("Total Exhaust"):** This cabinet exhausts **100%** of the air to the outside through a hard-ducted system. No air is recirculated
+        *   *Use Case:* Required when working with biological agents *plus* volatile toxic chemicals or radionuclides (e.g., toxicology or specialized research)
+
+### **Class III BSC (Glove Box)** {-}
+
+*   **Protection:** Maximum containment
+*   **Mechanism:** A gas-tight, completely sealed enclosure. The user manipulates specimens through heavy-duty rubber gloves attached to ports. Both supply and exhaust air are HEPA filtered (often double-HEPA exhaust)
+*   **Use Case:** BSL-4 laboratories (e.g., Ebola, Marburg) or handling extremely high-risk aerosol agents
+
+## **Operational Best Practices (The "10 Commandments")** {-}
+
+Even a perfectly functioning BSC offers zero protection if the user disrupts the airflow. The air barrier at the front sash is fragile and easily broken
+
+1.  **Purge Before/After:** Turn the blower on at least 5-10 minutes before starting work to purge particulates. Wipe down the interior surfaces (walls, then work surface) with disinfectant
+2.  **Sash Height:** Ensure the sash is at the certified working height (usually 8 or 10 inches). If the sash is too high, the inflow velocity drops, and protection is lost. If an alarm sounds, stop working immediately
+3.  **The "Clean to Dirty" Workflow:** Segregate the work surface. Place clean supplies (pipettes, media) on the left, the active work area in the center, and waste containers (biohazard bags, sharps) on the right. Never move dirty items back over clean items
+4.  **Movement:** Move arms straight in and out slowly. Rapid sweeping movements create turbulence ("wake effect") that can pull contaminated air out of the cabinet or room air into the sterile zone. Do not walk rapidly behind a person working in a BSC
+5.  **Placement:** Work at least **4 inches** inside the front grille. Do not block the front or rear grilles with equipment, pipette tip boxes, or notebooks. Blocking the front grille disrupts the air curtain (user safety). Blocking the rear grille disrupts the laminar downflow (product sterility)
+6.  **No Open Flames:** Bunsen burners should **never** be used in a BSC. The heat creates an updraft (turbulence) that disrupts the laminar flow protection. It can also damage the HEPA filter directly above. Use pre-sterilized loops or electric incinerators
+7.  **Spill Management:** If a spill occurs, keep the cabinet **running** to contain aerosols. Cover with absorbent, apply disinfectant, and wait. Do not turn off the BSC until the cleanup is complete
+8.  **Vacuum Lines:** If a vacuum suction system is used, the collection flask must be inside the cabinet. The line must have a hydrophobic filter (HEPA) between the flask and the vacuum source to prevent pathogen aspiration into the building's plumbing
+9.  **Decontamination:** Disinfect items *before* removing them from the cabinet. Wipe down the work surface with an appropriate disinfectant (e.g., 10% bleach followed by 70% ethanol to prevent corrosion) at the end of the session
+10. **UV Lamps:** While common, UV lamps are considered secondary and unreliable. They have limited penetration (dust blocks UV), lose intensity over time, and pose a retinal burn hazard. They do not replace chemical disinfection
+
+## **Maintenance & Certification** {-}
+
+The BSC is a safety device that requires rigorous upkeep to ensure it meets the NSF/ANSI 49 Standard
+
+*   **Annual Certification:** BSCs must be certified **annually** by a qualified laboratory scientist. This certification tests:
+    *   **Inflow Velocity:** Ensuring air is pulled in fast enough to protect the user
+    *   **Downflow Velocity:** Ensuring air flows down smoothly to protect the product
+    *   **HEPA Filter Integrity:** A "smoke test" or challenge is used to ensure there are no leaks in the filter media
+    *   **Smoke Pattern Test:** Visualizing airflow to ensure no turbulence or backflow
+*   **Filter Change:** HEPA filters load with particulate over time. They are typically changed based on the certifier's recommendation (often every 5-10 years) or if the cabinet motor can no longer maintain adequate airflow. Filters must be decontaminated (usually with formaldehyde or vaporized hydrogen peroxide gas) *before* removal
+*   **Relocation:** If a BSC is moved to a new room (or even just across the lab), it must be re-certified. Moving the unit can shake the HEPA filter loose from its seal or damage the delicate filter paper
+
+## **The HEPA Filter** {-}
+
+*   **Mechanism:** HEPA (High Efficiency Particulate Air) filters are not sieves; they trap particles using interception, impaction, and diffusion. They are rated to remove **99.97%** of particles **0.3 micrometers** in diameter
+*   **Why 0.3?:** This is the "Most Penetrating Particle Size" (MPPS). Particles larger than 0.3 are easily trapped by impaction. Particles smaller than 0.3 are trapped by diffusion (Brownian motion). Therefore, the filter is *more* efficient at trapping viruses (0.1 microns) and bacteria (1.0 microns) than it is at the 0.3 benchmark. It is highly effective against all biological agents
+*   **Limitation:** HEPA filters do **NOT** filter gases or vapors. Chemical fumes pass straight through

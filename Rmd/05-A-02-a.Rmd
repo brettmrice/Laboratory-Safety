@@ -1,0 +1,81 @@
+# Biological Safety Cabinet {-}
+
+The Biological Safety Cabinet (BSC) is the primary engineering control used in the clinical laboratory to minimize exposure to infectious aerosols. Unlike a chemical fume hood, which relies on exhausting air to remove toxic vapors, a BSC relies on High Efficiency Particulate Air (HEPA) filtration and directional airflow to create a sterile work environment and contain biological agents. It is the defining equipment for Biosafety Level 2 (BSL-2) and BSL-3 laboratories. Understanding the distinction between the various classes of cabinets and adhering to strict operational protocols is essential for preventing Laboratory Acquired Infections (LAIs)
+
+## **The Principle of Operation: HEPA Filtration** {-}
+
+The heart of the BSC is the HEPA filter. Understanding its capabilities and limitations is the first step in safety
+
+*   **Efficiency:** A HEPA filter is rated to trap **99.97%** of particles that are **0.3 micrometers** in diameter
+    *   **The 0.3 Micron Standard:** This size is chosen because it is the "Most Penetrating Particle Size" (MPPS). Particles larger than 0.3 microns are trapped by impaction. Particles smaller than 0.3 microns (including viruses) are trapped by diffusion (Brownian motion). Therefore, the filter is *more* efficient at trapping bacteria and viruses than it is at the 0.3-micron benchmark
+*   **Limitation:** HEPA filters remove *particulates* only. They are porous to gases and vapors. Consequently, a standard BSC offers **zero protection** against volatile toxic chemicals or radioactive gases, which will pass through the filter and be recirculated into the room or the cabinet
+
+## **Classification of Biological Safety Cabinets** {-}
+
+BSCs are categorized into three classes based on their airflow velocity, exhaust systems, and construction. In the clinical laboratory, the Class II cabinet is the standard
+
+### **Class I BSC** {-}
+
+*   **Configuration:** Similar to a chemical fume hood but with a HEPA filter in the exhaust system
+*   **Protection:** Protects the **person** and the **environment**, but does **NOT** protect the **product**. Unfiltered room air is drawn across the work surface, potentially contaminating the specimen
+*   **Use Case:** Rarely used in modern clinical diagnostics; occasionally found in animal research facilities or for housing equipment (like centrifuges) where sterility is not required
+
+### **Class II BSC (The Clinical Standard)** {-}
+
+*   **Configuration:** Provides protection for the **person**, the **environment**, and the **product** (sterility). It utilizes a "laminar flow" of HEPA-filtered air moving downward onto the work surface to keep the sample sterile, while an air curtain at the sash protects the user
+*   **Type A2 (Most Common)**
+    *   **Airflow:** Recirculates approximately 70% of the air within the cabinet and exhausts 30% back into the laboratory (through a HEPA filter)
+    *   **Restriction:** Because it exhausts into the room, it cannot be used with volatile toxic chemicals or radionuclides
+*   **Type B2 (Total Exhaust)**
+    *   **Airflow:** Hard-ducted to the building's exhaust system. It exhausts **100%** of the air to the outside; **0%** is recirculated
+    *   **Use Case:** Required when microbiological work is combined with significant amounts of volatile toxic chemicals or radionuclides
+
+### **Class III BSC (Glove Box)** {-}
+
+*   **Configuration:** A gas-tight, hermetically sealed enclosure
+*   **Protection:** Maximum containment. The user manipulates the specimen through heavy-duty rubber gloves attached to ports. Supply air is HEPA filtered, and exhaust air passes through two HEPA filters or incineration
+*   **Use Case:** Biosafety Level 4 (BSL-4) laboratories handling high-consequence pathogens (e.g., Ebola, Smallpox)
+
+## **Operational Best Practices** {-}
+
+The BSC provides a "curtain" of air at the front opening (the sash) that serves as the barrier between the user and the pathogen. This barrier is fragile and easily disrupted by poor technique
+
+*   **The "Wake Effect":** Rapid arm movements create turbulence that can pull contaminated air out of the cabinet or push room air into the sterile zone
+    *   **Protocol:** Move arms in and out of the cabinet slowly and perpendicular to the face opening. Do not sweep arms sideways
+*   **Sash Height:** The sash must be maintained at the certified working height (usually 8 or 10 inches). Raising it higher reduces the inflow velocity, compromising user protection. Lowering it too far changes the aerodynamics. If the sash alarm sounds, work must stop immediately
+*   **The Grilles**
+    *   **Front Grille:** This is the "suction" intake that creates the air barrier. **Never** cover the front grille with notebooks, absorbent pads, or arms. Blocking this allows contaminated air to escape into the user's face
+    *   **Rear Grille:** This creates the laminar downflow. Blocking it with equipment disrupts the airflow and compromises product sterility
+*   **Segregation of Materials:** Establish a workflow from **Clean to Dirty**
+    *   **Left:** Clean supplies (pipettes, media)
+    *   **Center:** Active work area (specimen manipulation)
+    *   **Right:** Waste disposal (biohazard bags, sharps containers)
+    *   *Rationale:* This prevents dirty items (like a used pipette) from passing over clean items (like an open agar plate)
+
+## **Prohibited Items & Practices** {-}
+
+*   **Bunsen Burners:** Open flames are generally **prohibited** in a BSC. The heat creates an updraft (turbulence) that disrupts the laminar flow protection. Extreme heat can also damage the HEPA filter located directly above. Electric incinerators or disposable loops should be used
+*   **Overcrowding:** Storing excessive equipment inside the hood blocks airflow. Only the materials needed for the immediate procedure should be inside
+
+## **Maintenance & Certification** {-}
+
+A BSC is a safety device that requires validation to ensure it is performing according to the NSF/ANSI 49 Standard
+
+*   **Annual Certification:** Cabinets must be certified **annually** by a qualified laboratory scientist. This involves:
+    *   **Inflow Velocity Test:** Measuring the speed of air entering the front grille to ensure user protection
+    *   **Downflow Velocity Test:** Measuring the air moving down onto the product
+    *   **HEPA Filter Leak Test:** A "smoke" challenge to ensure the filter media is intact and the seal is tight
+    *   **Smoke Pattern Test:** Visualizing the airflow to ensure no turbulence or backflow
+*   **Ultraviolet (UV) Lamps:** While common, UV lamps are considered a secondary, often unreliable decontamination method
+    *   **Limitations:** UV light has poor penetrating power; dust or organic matter blocks it. The bulb intensity degrades over time even if the blue light remains visible
+    *   **Hazards:** Accidental exposure causes corneal burns and skin erythema. The sash must be fully closed during operation
+
+## **Spill Management** {-}
+
+If a biohazard spill occurs inside the BSC:
+
+1.  **Do NOT Turn Off the Fan:** Keep the cabinet running to contain the aerosols
+2.  **Contain:** Cover the spill with absorbent towels to prevent spreading
+3.  **Disinfect:** Pour disinfectant (e.g., 10% bleach) onto the towels, working from the outside in. Avoid spraying, which can splatter the agent
+4.  **Wait:** Allow adequate contact time (e.g., 20 minutes)
+5.  **Clean:** Wipe up the debris. If the spill has flowed through the front or rear grilles into the catch pan beneath the work surface, the work surface must be removed to disinfect the pan

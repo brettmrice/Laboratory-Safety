@@ -1,0 +1,73 @@
+# Medical Surveillance & Employee Evaluation {-}
+
+Medical surveillance is the systematic collection and analysis of health data within the workforce. In the clinical laboratory, this administrative function serves a dual purpose: it detects potential workplace hazards that may be slipping through engineering controls, and it monitors the health status of individual employees to prevent the progression of occupational illness. Unlike a general wellness program, medical surveillance is strictly targeted toward the specific biological, chemical, and physical risks identified in the laboratory's exposure control plan. This process is mandated by various OSHA standards, including the Bloodborne Pathogens Standard (29 CFR 1910.1030) and the Occupational Exposure to Hazardous Chemicals in Laboratories (29 CFR 1910.1450)
+
+## **Pre-Placement Medical Evaluation** {-}
+
+Before an employee begins work in a clinical laboratory, a baseline medical evaluation is essential. This establishes the employee's pre-existing health status, which is critical for comparison should an occupational exposure occur later. This phase ensures that the employee is physically capable of performing the essential functions of the job without posing a direct threat to themselves or others
+
+### **Immunization Review & infectious Disease Screening** {-}
+
+*   **Hepatitis B Virus (HBV):** OSHA mandates that the Hepatitis B vaccination be made available to all employees with occupational exposure to blood or other potentially infectious materials (OPIM) within 10 days of initial assignment. If the employee declines, they must sign a specific declination form. If they accept, they typically undergo a titer check 1-2 months after the series to confirm seroconversion (immunity)
+*   **Tuberculosis (TB) Screening:** Baseline screening is critical, especially for Microbiology staff or those in hospitals with high TB prevalence. This is usually accomplished via a two-step Tuberculin Skin Test (TST) or an Interferon-Gamma Release Assay (IGRA/QuantiFERON). This distinguishes a new infection acquired in the lab from a latent infection acquired previously
+*   **Other Vaccinations:** Documentation of immunity to Measles, Mumps, Rubella (MMR), Varicella (Chickenpox), Tdap (Tetanus, Diphtheria, Pertussis), and annual Influenza vaccination is standard practice to prevent transmission to immunocompromised patients
+
+### **Functional Capacity & Vision** {-}
+
+*   **Color Vision Screening:** laboratory scientists rely heavily on color discrimination (e.g., Gram stains, colorimetric chemical reactions). Screening for color blindness is a standard pre-placement evaluation to determine if accommodations are needed or if specific tasks cannot be performed
+*   **Respirator Clearance:** If the employee is required to wear a respirator (e.g., N95 for TB isolation or PAPR for autopsy), they must undergo a medical evaluation to ensure they are physiologically capable of breathing through the device without cardiac or respiratory distress
+
+## **Routine & Periodic Surveillance** {-}
+
+Once employed, the surveillance program shifts to monitoring. This aims to detect early signs of exposure or to verify the continued efficacy of safety controls. The frequency and type of surveillance are dictated by the specific hazards of the department (e.g., Histology vs. Hematology)
+
+### **Chemical Exposure Monitoring** {-}
+
+While routine monitoring of all chemicals is not required, surveillance is triggered if exposure levels exceed the "Action Level" (usually half of the Permissible Exposure Limit)
+
+*   **Formaldehyde/Xylene:** In Anatomic Pathology, employees may be subject to periodic health questionnaires asking about symptoms of irritation (eyes, nose, throat) or sensitization. If badge monitoring shows elevated levels, medical examinations are mandatory
+*   **Symptom-Based Surveillance:** Under the Laboratory Standard, if an employee develops signs associated with a chemical used in the lab (e.g., headache, rash, nausea), the employer must provide a medical consultation to determine if it is work-related
+
+### **Respiratory Fit Testing** {-}
+
+For staff required to wear respirators, fit testing must be repeated annually. This ensures that changes in the employee's facial structure (weight gain/loss, dental work, scarring) have not compromised the seal of the mask. This is an administrative evaluation of safety equipment compatibility with the user
+
+## **Post-Exposure Management** {-}
+
+This is the most critical reactive component of the medical surveillance system. When an accident occurs - specifically a percutaneous injury (needlestick/cut) or a mucous membrane splash - administrative protocols must immediately trigger a medical evaluation. This process must be confidential, immediate, and at no cost to the employee
+
+### **The Exposure Incident Protocol** {-}
+
+*   **Immediate Care:** The first step is always first aid (washing the site). The second step is reporting the incident to a supervisor immediately
+*   **Source Individual Evaluation:** The laboratory administration must attempt to identify the source patient. With consent (or per statutory regulation), the source patient's blood is tested for HIV, Hepatitis B (HBsAg), and Hepatitis C (HCV). The results are communicated to the medical provider managing the exposed employee
+*   **Exposed Employee Evaluation:** The employee is tested to establish a baseline. If the source is positive or unknown, the employee may be offered Post-Exposure Prophylaxis (PEP)
+    *   **HIV PEP:** Antiretrovirals should be started as soon as possible (ideally within hours)
+    *   **Hepatitis B:** Depending on the employee's vaccination status and titer, they may receive Hepatitis B Immune Globulin (HBIG) and/or a vaccine booster
+*   **Counseling:** The surveillance process includes counseling regarding the risk of infection and instructions on preventing secondary transmission (e.g., abstaining from blood donation or unprotected sex) during the window period
+
+## **Employee Competency & Safety Evaluation** {-}
+
+Employee evaluation extends beyond physical health to behavioral competence. Regulatory agencies (CLIA, CAP, TJC) require that laboratory safety be an integral part of the ongoing competency assessment of technical staff. Safety is not a separate check-box; it is a component of correct testing performance
+
+### **Direct Observation** {-}
+
+The most effective way to evaluate safety compliance is through direct observation during routine work. Supervisors or safety officers evaluate:
+
+*   **PPE Compliance:** Is the employee wearing the lab coat closed? Are gloves changed when contaminated? Is face protection used when opening tubes?
+*   **Work Practices:** Is the employee using the safety cap-piercing function of the analyzer? Are they disposing of sharps immediately without recapping? Are they refraining from eating/drinking in the testing area?
+
+### **Incident & "Near Miss" Analysis** {-}
+
+Part of employee evaluation involves reviewing accident records. If a specific employee has multiple "accidents" or "near misses," administration must evaluate whether this is due to:
+
+*   **Training Deficit:** Does the employee misunderstand the SOP?
+*   **Physical Limitation:** Has the employee developed a tremor or vision issue affecting safety?
+*   **Compliance Issue:** Is the employee willfully ignoring safety rules? (This moves from medical surveillance to disciplinary action)
+
+## **Record Keeping & Confidentiality** {-}
+
+The administrative management of medical surveillance requires strict adherence to privacy laws. Under OSHA 29 CFR 1910.1020 (Access to Employee Exposure and Medical Records):
+
+*   **Separation of Files:** Medical records (vaccination status, post-exposure test results, medical opinions) must be kept confidential and separate from the employee's general personnel file (hiring docs, performance reviews)
+*   **Retention Duration:** Medical records must be maintained for the duration of employment plus **30 years**. This long retention period is necessary because occupational diseases (like those caused by chemical carcinogens or slow viruses) may have latency periods spanning decades
+*   **Access:** Employees have the right to access their own medical and exposure records within a reasonable timeframe (15 days) upon request

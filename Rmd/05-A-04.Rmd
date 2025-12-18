@@ -1,0 +1,57 @@
+# Storage Cabinets {-}
+
+Proper storage of hazardous materials is a critical component of laboratory safety and fire prevention. Chemicals cannot simply be placed on open shelves alphabetically; they must be segregated by hazard class and stored in cabinets specifically engineered to contain those hazards. The primary regulatory standards for storage cabinets come from the **Occupational Safety and Health Administration (OSHA)**, the **National Fire Protection Association (NFPA)**, and local fire codes
+
+## **Flammable Liquid Storage Cabinets** {-}
+
+Flammable liquids (e.g., ethanol, methanol, xylene, acetone) pose the most significant fire risk in the clinical laboratory. The goal of a flammable storage cabinet is not necessarily to contain a fire *started* inside it, but to protect the contents from an *external* laboratory fire for at least 10 minutes, giving personnel time to evacuate before the solvents ignite and accelerate the blaze
+
+*   **Construction Standards (NFPA 30)**
+    *   **Double-Walled:** Cabinets must be double-walled steel (18 gauge) with a **1.5-inch (38 mm)** air space between the walls. This air gap acts as thermal insulation
+    *   **Joints:** Joints must be riveted or welded
+    *   **Door Sill:** The bottom of the cabinet must have a liquid-tight sill raised at least **2 inches (5 cm)** to contain spills
+    *   **Labeling:** The cabinet must be conspicuously labeled: **"FLAMMABLE - KEEP FIRE AWAY"**
+*   **Venting**
+    *   *Controversy:* Most cabinets come with dual vent bungs (caps). While laboratories often *want* to vent them to remove odors, NFPA 30 does **not:** mandate venting. In fact, an improperly vented cabinet (one not connected to an exhaust fan) compromises the fire rating because it breaches the thermal insulation
+    *   *Protocol:* Ideally, leave the bungs in place (sealed). If venting is required by local code or for odor control, it must be connected to an outdoor exhaust system using rigid steel tubing, not PVC (which melts)
+*   **Grounding:** While the cabinet itself doesn't generate static, dispensing flammable liquids from large metal drums inside the cabinet does. If dispensing occurs, the cabinet and the container must be grounded to prevent static sparks
+*   **Capacity Limits**
+    *   **Class I/II Liquids:** No more than **60 gallons** of Category 1, 2, or 3 flammable liquids can be stored in a single cabinet
+    *   **Maximum:** Up to three cabinets can be located in a single fire area (unless separated by 100 feet)
+
+## **Corrosive (Acid/Base) Storage Cabinets** {-}
+
+Acids and bases require storage that resists chemical degradation. While a steel flammable cabinet can physically hold acid bottles, the fumes from strong acids (like Hydrochloric or Nitric Acid) will rapidly corrode the metal hinges and shelves, leading to structural failure
+
+*   **Construction**
+    *   **Material:** Often made of **Polyethylene** (plastic) or wood laminate, which offers superior resistance to corrosion compared to steel
+    *   **Metal Cabinets:** If metal cabinets are used for acids, they must have a corrosion-resistant epoxy liner or coating
+*   **Segregation (The Cardinal Rule)**
+    *   **Acids and Bases:** Must be stored in separate cabinets or in separate, leak-proof secondary containment trays within the same cabinet. Mixing an acid (HCl) and a base (Ammonium Hydroxide) generates heat and toxic fumes
+    *   **Oxidizing Acids:** Nitric Acid is an oxidizer *and* a corrosive. It should be stored separately from organic acids (like Acetic Acid) and flammable liquids. If Nitric Acid leaks onto Acetic Acid, it can cause a fire or explosion
+*   **Venting:** Venting is highly recommended for corrosive cabinets to prevent the buildup of fumes that destroy the cabinet hardware and pose an inhalation hazard when the door is opened
+
+## **Biological Storage (Refrigerators/Freezers)** {-}
+
+While not "cabinets" in the structural sense, cold storage units function as hazard containment vessels for biological specimens
+
+*   **Labeling:** Must be labeled with the Universal Biohazard Symbol
+*   **Prohibition:** Must be labeled **"NO FOOD OR DRINK"** to prevent accidental ingestion. Storing a lunch bag next to patient serum is a critical violation
+*   **Flammability Hazard:** Standard household refrigerators have internal electrical components (light switches, thermostats) that spark
+    *   **Explosion-Proof / Flammable Material Storage:** If storing flammable liquids (e.g., ether or ethanol) that require refrigeration, a specialized "Explosion-Proof" or "Flammable Material" refrigerator must be used. These units have all electrical components located *outside* the chamber to prevent ignition of vapors
+
+## **General Shelving (The "Earthquake" Factor)** {-}
+
+For non-hazardous or low-hazard chemicals stored on open shelves:
+
+*   **Lips/Guards:** Shelves should have a raised lip or guard rail (seismic restraint) to prevent bottles from "walking" off the edge due to vibration or seismic activity
+*   **Height:** Heavy containers and large liquid bottles should be stored on lower shelves (below eye level). Store only lightweight or non-hazardous items on high shelves
+*   **Compatibility:** Do not store liquids above solids. If the liquid leaks, it can react with the solid below. Do not store chemicals alphabetically (e.g., storing Sodium Cyanide next to Sulfuric Acid is fatal if they mix)
+
+## **Compressed Gas Cylinder Storage** {-}
+
+Although not "cabinets," the storage of gas cylinders (e.g., CO2 for incubators) is regulated strictly
+
+*   **Securing:** Cylinders must be secured to a wall or fixed object with a chain or strap (at 2/3 height) to prevent tipping. A falling cylinder can shear off the valve, turning the tank into a torpedo
+*   **Cap on:** The protective valve cap must be screwed on hand-tight whenever the regulator is not attached
+*   **Segregation:** Oxygen cylinders must be stored at least 20 feet away from flammable gas cylinders (like Hydrogen) or separated by a fire-rated wall

@@ -1,0 +1,95 @@
+# Reporting Requirements {-}
+
+Reporting is the administrative nervous system of laboratory safety management. It transforms isolated incidents into actionable data, ensures legal compliance, and triggers the necessary medical and environmental interventions. For the Laboratory Safety Officer and management team, understanding the hierarchy of reporting - from internal incident reports to federal regulatory filings - is mandatory. Failure to report injuries, exposures, or structural emergencies within designated timeframes can result in severe financial penalties, legal liability, and the loss of accreditation
+
+## **Internal Institutional Reporting** {-}
+
+The immediate administrative response to any accident, injury, or significant "near miss" is the generation of an internal record. This is the foundational document upon which all external reporting is based. Most healthcare institutions utilize an electronic incident reporting system
+
+### **The Incident Report (IR)** {-}
+
+The IR is a legal document that captures the "Who, What, Where, When, and How" of the event. It is generally not part of the patient's medical record or the employee's personnel file but belongs to Risk Management
+
+*   **Timeliness:** Internal policy typically dictates that an IR be filed within 24 hours of the event, though immediate filing is preferred to ensure details are accurate and not degraded by memory decay
+*   **Just Culture:** Modern reporting systems focus on "root cause" rather than blame. The report should capture environmental factors (e.g., "The floor was wet," "The centrifuge lid lock failed") rather than just operator error. This data allows the Safety Committee to identify trends
+*   **Chain of Notification:** Filing an IR triggers an automated notification tree. This typically includes the immediate Supervisor, the Laboratory Safety Officer, Employee Health Services (Occupational Medicine), and Hospital Risk Management
+
+## **OSHA Reporting & Recordkeeping** {-}
+
+The Occupational Safety and Health Administration (OSHA) mandates strict recordkeeping for workplace injuries. Management must distinguish between an injury that is merely "recorded" on internal logs and severe events that must be actively "reported" to OSHA via telephone or online portal
+
+### **OSHA Recordkeeping Forms (The 300 Series)** {-}
+
+For laboratories with more than 10 employees, OSHA requires the maintenance of specific logs. These logs are not sent to OSHA annually but must be maintained on-site for five years and provided during an inspection
+
+*   **OSHA Form 300 (Log of Work-Related Injuries and Illnesses):** This is the running list of injuries. It includes the employee's name (unless a privacy case), job title, date of injury, and a brief description. It classifies the event (e.g., death, days away from work, job transfer)
+*   **OSHA Form 300A (Summary of Work-Related Injuries and Illnesses):** This is the year-end summary that aggregates the data from the 300 Log. **Crucially, this form must be posted in a visible area of the workplace from February 1st to April 30th of the following year.** This ensures employees are aware of the safety record of their facility
+*   **OSHA Form 301 (Injury and Illness Incident Report):** This form provides the detailed narrative for each individual entry on the 300 Log. It must be completed within 7 calendar days of receiving information that a recordable injury occurred
+
+### **Determining "Recordability"** {-}
+
+Not every cut or bruise is OSHA-recordable. Management must apply specific criteria. An injury is recordable if it results in:
+
+*   Death
+*   Days away from work
+*   Restricted work or transfer to another job (e.g., a phlebotomist with a wrist injury moved to data entry)
+*   Medical treatment beyond "First Aid" (Note: OSHA has a very specific definition of First Aid. Sutures are medical treatment; butterfly bandages are first aid. Prescription antibiotics are medical treatment; non-prescription antiseptics are first aid)
+*   Loss of consciousness
+*   **Significant Diagnosis:** Physician-diagnosed occupational cancer, chronic irreversible disease, or fractured/cracked bones
+
+### **Mandatory Active Reporting (Severe Events)** {-}
+
+While most injuries stay on the logs, severe events trigger a requirement to actively contact OSHA. Failure to meet these deadlines is a frequent cause of citation
+
+*   **Fatalities:** Must be reported to OSHA within **8 hours**
+*   **Severe Injuries:** Inpatient hospitalization of one or more employees, any amputation, or the loss of an eye must be reported within **24 hours**
+
+## **Sharps Injury Reporting** {-}
+
+Under the Needlestick Safety and Prevention Act (which amended the Bloodborne Pathogens Standard), laboratories have heightened reporting requirements for injuries involving contaminated sharps
+
+### **The Sharps Injury Log** {-}
+
+In addition to the OSHA 300 log, the employer must maintain a separate Sharps Injury Log. This log is a tool for evaluating the effectiveness of engineering controls (safety devices)
+
+*   **Confidentiality:** To protect employee privacy, the Sharps Log *must* not contain personal identifiers (names)
+*   **Required Data**
+    *   The type and brand of device involved (e.g., "Brand X Winged Collection Set")
+    *   The department or work area where the exposure occurred
+    *   An explanation of how the incident occurred (e.g., "Device failed to retract," "Bumped by patient")
+*   **Exemption:** While OSHA generally exempts standard needlesticks from being "Recordable" on the 300 Log if they require no medical treatment (no gamma globulin, no stitching), the Bloodborne Pathogens Standard requires *all* contaminated sharps injuries to be recorded on the Sharps Injury Log, regardless of treatment status
+
+## **FDA & Medical Device Reporting** {-}
+
+If a laboratory employee is injured by a medical device (e.g., an analyzer malfunctions and causes a shock, or a centrifuge explodes), reporting may fall under the Food and Drug Administration (FDA) jurisdiction via the Safe Medical Devices Act (SMDA)
+
+### **Medical Device Reporting (MDR)** {-}
+
+Laboratories are considered "User Facilities." If a device causes death or serious injury to a patient or an *employee*:
+
+*   **Death:** Report to the FDA and the Manufacturer within 10 workdays
+*   **Serious Injury:** Report to the Manufacturer (or FDA if manufacturer is unknown) within 10 workdays
+*   **Annual Report:** A summary of all such reports must be submitted to the FDA annually
+
+## **Workers' Compensation Reporting** {-}
+
+While OSHA focuses on safety and FDA on device efficacy, Workers' Compensation reporting focuses on insurance and wage replacement. This is a state-level requirement
+
+### **First Report of Injury (FROI)** {-}
+
+Management must file a First Report of Injury with their insurance carrier and the state Workers' Compensation Board
+
+*   **Timeliness is Critical:** Late reporting can lead to the denial of the claim. If an employee develops an infection or disability from a lab accident, the FROI serves as the evidence that the condition is work-related
+*   **Causality:** The report establishes the link between the employment duties and the injury, distinguishing it from non-occupational ailments
+
+## **Privacy Concerns in Reporting** {-}
+
+Laboratory management must balance reporting requirements with HIPAA and employee privacy rights. OSHA explicitly defines "Privacy Concern Cases." For these specific incidents, the employer must not enter the employee’s name on the OSHA 300 Log (entering "Privacy Case" instead)
+
+### **Privacy Concern Categories** {-}
+
+*   Needlesticks and sharp injuries resulting in contact with blood/OPIM
+*   Tuberculosis infection
+*   HIV infection, Hepatitis, or other illness resulting from sexual assault
+*   Mental illness
+*   Illnesses affecting the reproductive system

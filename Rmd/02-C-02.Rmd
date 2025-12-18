@@ -1,0 +1,61 @@
+# Accidents {-}
+
+Despite the rigorous application of preventative measures like Lockout/Tagout and equipment inspections, electrical accidents remain a persistent risk in the clinical laboratory. The unique environment of the laboratory - where conductive liquids (saline, blood, buffers) are constantly manipulated near high-voltage instrumentation (electrophoresis, centrifuges, analyzers) - creates a "perfect storm" for potential electrocution. An electrical accident encompasses electric shock, thermal burns, and arc flashes. The response to these incidents differs fundamentally from standard medical emergencies because the environment itself may still be lethal to the rescuer
+
+## **The Physiology of Electrical Shock** {-}
+
+To understand the urgency of the response, laboratory personnel must understand the physiological impact of current passing through the body. The severity depends on the voltage, the amperage, the pathway through the body, and the duration of contact
+
+*   **Muscle Tetany:** Alternating current (AC), the type found in wall outlets, causes muscles to contract violently and continuously (tetany). If a laboratory scientist grasps a live wire or electrified instrument casing, their hand muscles may contract, locking their grip on the source. They will be physically unable to let go ("The'No-Let-Go' phenomenon")
+*   **Ventricular Fibrillation:** If the current passes through the chest cavity (e.g., entering one hand and exiting the other), it can disrupt the heart's electrical impulses. Even relatively low currents (as low as 50-100 mA) can cause the heart to quiver uselessly rather than pump, leading to cardiac arrest
+*   **Internal Burns:** Electrical energy dissipates as heat as it encounters resistance in body tissues. While skin offers high resistance, internal organs and blood vessels offer low resistance. A victim may have only small, charred "entry" and "exit" wounds on the skin but suffer massive internal tissue necrosis
+
+## **Immediate Response Protocol** {-}
+
+The cardinal rule of electrical accident response is **self-preservation**. A rescuer who touches an electrified victim becomes a second victim, completing the circuit to the ground. The response algorithm must follow a strict sequence:
+
+### **1. Assess & Isolate (Do Not Touch)** {-}
+
+*   **Visual Assessment:** Before rushing to the victim, pause and look. Is the victim still in contact with the equipment? Is there water on the floor? Is the equipment sparking?
+*   **Cut the Power:** The primary objective is to de-energize the circuit
+    *   **Unplug:** If the plug is intact, accessible, and safe to reach, pull it immediately
+    *   **Circuit Breaker:** If the plug is inaccessible or the victim is frozen to the line, run to the laboratory's electrical panel and flip the main breaker. All staff should know the location of these panels
+    *   **Emergency Stop:** Many large automated lines have big red "E-Stop" buttons
+
+### **2. Disengage the Victim (If Power Cannot Be Cut)** {-}
+
+*   **Non-Conductive Rescue:** If the power cannot be turned off immediately and the victim is being shocked, you must separate them from the source using a **non-conductive object**
+*   **Tools:** Use a dry wooden broom handle, a plastic wastebasket, a rubber mat, or a dry lab coat looped around a limb to pull them away
+*   **Prohibitions:** Never use bare hands. Never use a metal object. Never use anything wet
+
+### **3. Medical Intervention** {-}
+
+*   **Check Vitals:** Once the victim is isolated, immediately check for responsiveness and breathing. Electrical shock frequently causes respiratory paralysis or cardiac arrest
+*   **CPR and AED:** If there is no pulse or breathing, initiate CPR immediately. Send a colleague to retrieve the Automated External Defibrillator (AED). High-voltage shocks are a common cause of shockable rhythms
+*   **Burn Treatment:** If the patient is breathing, assess for burns. Cover burns with sterile, non-adhesive bandages. Do not apply ice or ointments, as these can trap heat or cause infection in necrotic tissue
+*   **Treat for Shock:** Even if the victim seems alert, they may go into physiological shock (hypoperfusion). Lay them down, elevate their legs (if no spinal injury is suspected), and keep them warm until EMS arrives
+
+## **High-Risk Laboratory Scenarios** {-}
+
+Certain laboratory procedures carry a higher risk for serious accidents and require heightened awareness
+
+### **Electrophoresis Safety** {-}
+
+Electrophoresis equipment poses a significant hazard because it combines high voltage (power packs can generate 2,000+ volts) with conductive liquid buffers
+
+*   **The Hazard:** Touching the buffer tank while the power is on can be fatal
+*   **Safety Interlocks:** Modern equipment has lids with safety interlocks that break the circuit if opened. *Never* bypass or tape over these interlocks
+*   **Leaks:** Inspect tanks for cracks. A leaking tank can electrify the benchtop
+
+### **Capacitors & "Stored Energy"** {-}
+
+Large laboratory instruments, particularly older centrifuges or mass spectrometers, use capacitors to store electrical charge
+
+*   **The Hazard:** A capacitor can discharge a lethal shock even after the machine is unplugged
+*   **Accident Prevention:** Service personnel must discharge capacitors using a specialized grounding stick before touching internal components. General lab staff should never remove the outer casing of these instruments
+
+## **Post-Accident Procedures** {-}
+
+*   **Mandatory Medical Evaluation:** Any employee who suffers an electrical shock - even a "minor" tingle - must be evaluated by a physician. Electrical injuries can cause delayed cardiac arrhythmias or kidney damage (from muscle breakdown products) hours after the incident
+*   **Quarantine the Equipment:** The device involved in the accident must be immediately taken out of service. Apply a Lockout/Tagout device and label it clearly as "Defective - Do Not Use." It must be inspected by Clinical Engineering or the manufacturer before reuse
+*   **Incident Reporting:** File a formal incident report documenting the voltage involved, the duration of contact, environmental conditions (wet floor, etc.), and the medical outcome. This is essential for Workers' Compensation and safety audits

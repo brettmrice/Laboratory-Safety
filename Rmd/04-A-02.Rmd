@@ -1,0 +1,96 @@
+# Specimen Handling {-}
+
+In the clinical laboratory, every patient specimen - whether blood, urine, sputum, or tissue - must be treated as if it were potentially infectious. This core philosophy, known as **Standard Precautions** (formerly Universal Precautions), dictates that the infection status of the patient is irrelevant to the safety protocols employed. The laboratory scientist cannot "see" Hepatitis C or HIV in a tube; therefore, rigorous handling techniques are the primary defense against Laboratory Acquired Infections (LAIs). The two dominant vectors of transmission during specimen handling are **aerosol generation** (inhalation) and **percutaneous/mucous membrane exposure** (direct contact)
+
+## **Aerosol Generation & Control** {-}
+
+Aerosols are the "invisible enemy" in the laboratory. They are microscopic liquid or solid particles (< 5 micrometers) that can remain suspended in the air for long periods and be inhaled into the lungs. Larger droplets (> 5 micrometers) settle faster but can contaminate work surfaces, gloves, and mucous membranes
+
+### **Common Sources of Aerosols** {-}
+
+Many routine procedures generate significant aerosols that are often invisible to the naked eye:
+
+*   **Centrifugation:** The most potent source. If a tube breaks or leaks inside a spinning rotor, the high speed generates a massive cloud of infectious mist. If the centrifuge is opened immediately, this cloud is released directly into the user's face
+*   **Vortexing and Mixing:** Agitating an open tube or a tube with a poorly sealed cap releases micro-droplets
+*   **Opening Tubes:** The "pop" heard when opening a snap-cap tube or a vacuum tube (vacutainer) is actually the release of internal pressure, which ejects a fine spray of specimen. This is a common transmission route for bloodborne pathogens to the eyes
+*   **Pipetting:** Blowing out the last drop from a pipette tip or dropping a sample onto a slide from a height creates splashback and aerosols
+*   **Catalase Testing:** performing the slide catalase test on a colony creates active bubbling (oxygen release), which aerosolizes the bacteria. This is a known risk factor for acquiring Meningitis (*N. meningitidis*) or Tularemia (*F. tularensis*) if done on an open bench
+
+### **Mitigation Strategies** {-}
+
+*   **Safety Cups:** Always use centrifuge buckets with sealable safety caps. If a breakage is suspected (e.g., an imbalance or noise), the *entire bucket* should be moved to a Biological Safety Cabinet (BSC) before opening
+*   **The BSC:** Perform all procedures likely to generate aerosols (vortexing, grinding tissue, setting up mold cultures) inside a Class II BSC. The air curtain protects the user
+*   **Technique**
+    *   Open tubes pointing *away* from yourself and others
+    *   Use a gauze pad or alcohol wipe to cover the stopper of a vacutainer while twisting it off to catch the spray
+    *   Avoid "blowing out" pipettes unless the device requires it. Allow gravity to dispense the fluid gently against the side of the vessel
+
+## **Handling High-Risk Specimens** {-}
+
+While all specimens are potentially infectious, certain categories carry a significantly higher inoculum or harbor pathogens with low infectious doses/high mortality rates. These require enhanced precautions
+
+### **Mycobacteriology (Tuberculosis) Specimens** {-}
+
+*   **The Risk:** *Mycobacterium tuberculosis* is a low-infectious-dose, airborne pathogen. Processing sputum (digestion/decontamination) involves vigorous chemical mixing and centrifugation, maximizing aerosol risk
+*   **Protocol**
+    *   All processing must occur in a dedicated **BSL-3:** (or BSL-2 with BSL-3 practices) negative-pressure room
+    *   Strict adherence to BSC use is mandatory. No open-bench work is permitted
+    *   Use of sealed centrifuge rotors is non-negotiable
+    *   Personnel must wear fit-tested N95 respirators or PAPRs
+
+### **Blood Cultures & Positive Bottles** {-}
+
+*   **The Risk:** A positive blood culture bottle is a "bio-reactor" containing a massive concentration of organisms (often $10^8$ to $10^9$ CFU/mL) and gas under pressure. Venting these bottles or inserting a needle to aspirate fluid poses a high risk of spraying concentrated pathogen
+*   **Protocol**
+    *   Subculturing (Gram stains/plating) should be performed in a BSC
+    *   Use venting devices with safety shields or perform venting away from the face behind a plexiglass shield
+
+### **Fungal Cultures (Mycology)** {-}
+
+*   **The Risk:** Filamentous molds (e.g., *Coccidioides immitis*, *Histoplasma capsulatum*) reproduce via microscopic spores (conidia) that are easily airborne. A single breath over an open mold plate can result in a severe systemic fungal infection
+*   **Protocol**
+    *   **Never:** sniff a fungal plate. This is an antiquated practice that has caused fatalities
+    *   All mold cultures must be taped shut (using shrink seal or gas-permeable tape) to prevent accidental opening
+    *   All examination of mold colonies must be done inside a BSC
+
+### **Meningococcal/Brucella/Francisella Suspects** {-}
+
+*   **The Risk:** These organisms (*Neisseria meningitidis*, *Brucella* spp., *Francisella tularensis*) are the classic "Laboratory Acquired Infections." They are highly infectious via aerosol and mucous membranes. They are often encountered unexpectedly in routine blood or wound cultures
+*   **Protocol**
+    *   **Trigger:** If a Gram stain reveals small Gram-negative coccobacilli (*Brucella/Francisella*) or Gram-negative diplococci (*N. meningitidis*), all further work (catalase, oxidase, spot indole) must immediately move to the BSC
+    *   Avoid automated identification systems (like MALDI-TOF or VITEK) until these agents are ruled out, as the preparation process can generate aerosols
+
+## **Specimen Transport (Internal)** {-}
+
+Moving specimens from the receiving window to the testing bench or between departments is a frequent point of failure
+
+*   **The Container:** Primary specimens must be in a leak-proof container with a secure lid
+*   **Secondary Containment:** Never carry tubes by hand (the "handful of tubes" method). Use racks placed inside a secondary leak-proof bin or tray with raised sides. This ensures that if a laboratory scientist trips, the spill is contained within the tray, not splashed across the hallway floor
+*   **Requisition Separation:** Paper requisitions must never be placed *inside* the bag with the specimen (unless there is a separate pouch). A leaking urine cup will contaminate the paper, which then contaminates the hands of the data entry clerk
+
+## **Spill Response (Biological)** {-}
+
+Despite best efforts, spills occur. The response depends on the volume and the location
+
+*   **Spill Inside a BSC**
+    1.  Leave the BSC on to maintain containment
+    2.  Cover the spill with absorbent towels
+    3.  Flood the towels with disinfectant (10% bleach) and let sit for contact time (e.g., 20 mins)
+    4.  Wipe up and dispose of as biohazard waste. If the spill flowed through the grilles into the catch pan, the pan must be drained and disinfected
+*   **Spill Outside a BSC (Open Lab)**
+    1.  **Hold your breath and evacuate:** Leave the immediate area to allow aerosols to settle (typically 30 minutes)
+    2.  **Post Warning:** Prevent others from entering
+    3.  **Don PPE:** Put on gloves, gown, and face protection (mask/goggles) before re-entering
+    4.  **Contain and Disinfect:** Cover with absorbents, pour disinfectant gently (from the outside in) to avoid splashing, wait for contact time, and clean. **Do not pick up broken glass with hands** - use forceps or a dustpan
+
+## **Packaging & Shipping (External Transport)** {-}
+
+Shipping specimens to reference laboratories is regulated by the Department of Transportation (DOT) and IATA. Biological substances are classified into two categories:
+
+*   **Category A (UN 2814 or UN 2900):** An infectious substance in a form that, when exposure to it occurs, is capable of causing permanent disability, life-threatening or fatal disease (e.g., Ebola, Anthrax cultures). Requires rigid triple packaging and specific dangerous goods documentation
+*   **Category B (UN 3373):** "Biological Substance, Category B." This covers most diagnostic specimens (human or animal) being shipped for routine testing
+    *   **Triple Packaging Requirement**
+        1.  **Primary Receptacle:** Leak-proof, contains the specimen (e.g., the tube). Must be wrapped in cushioning
+        2.  **Secondary Packaging:** Leak-proof, contains the primary. Must contain enough absorbent material to soak up the *entire* liquid contents
+        3.  **Outer Packaging:** Rigid and strong (e.g., a fiberboard box) with the UN 3373 diamond label clearly displayed
+

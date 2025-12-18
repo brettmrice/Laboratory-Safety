@@ -1,0 +1,49 @@
+# Isolation {-}
+
+Isolation rooms are specialized environments within the clinical laboratory or healthcare facility designed to contain airborne pathogens of high consequence. While standard laboratory ventilation (BSL-2) provides a baseline of negative pressure and single-pass air, **Airborne Infection Isolation Rooms (AIIRs)** - often referred to as BSL-3 suites or "TB rooms" - incorporate enhanced engineering controls to prevent the escape of infectious droplet nuclei. These rooms are the physical manifestation of the containment principle: protecting the community and the rest of the facility from the hazards within
+
+## **Design Criteria** {-}
+
+The construction and operation of an isolation room are governed by strict standards set by the CDC (Guidelines for Environmental Infection Control in Health-Care Facilities) and the Facility Guidelines Institute (FGI)
+
+*   **Negative Pressure Differential:** The defining feature of an AIIR is a significant negative pressure differential relative to the adjacent corridor. The standard requirement is a differential of **$\geq$ 0.01 inch of water column (2.5 Pa)**. This force ensures that air flows continuously *inward* whenever a door is opened
+*   **Air Change Rate:** To clear aerosols rapidly, isolation rooms require a higher ventilation rate than standard labs. The requirement is typically **$\geq$ 12 Air Changes per Hour (ACH)** (for new construction). At 12 ACH, it takes approximately 35 minutes to remove 99.9% of airborne contaminants after the source is removed
+*   **Exhaust Filtration:** The air exhausted from an isolation room must be treated as hazardous. It is either:
+    *   Exhausted directly to the outside, away from air intake vents, people, and animals (the preferred method), OR
+    *   Passed through a High Efficiency Particulate Air (**HEPA**) filter before being recirculated (rarely permitted in laboratory settings, more common in temporary clinical isolation)
+
+## **The Anteroom System** {-}
+
+For high-level containment (BSL-3), a single door is often insufficient to maintain pressure stability. An **anteroom** (a small buffer room between the corridor and the main lab) serves as an airlock
+
+*   **Pressure Cascade:** The pressure is stepped down
+    *   *Hallway:* Neutral (0)
+    *   *Anteroom:* Negative (-), but less negative than the lab
+    *   *Isolation Lab:* Most Negative (--)
+*   **Protocol:** This cascade ensures that if the hallway door is open, air flows into the anteroom. If the lab door is open, air flows from the anteroom into the lab. The "dirty" air from the lab never travels "upstream" to the hall. The anteroom also provides a space for donning and doffing PPE (gowns, respirators) without exposing the clean corridor to the lab environment
+
+## **Monitoring & Alarms** {-}
+
+Isolation is not a "set it and forget it" system. Mechanical failures (fan belts breaking, dampers sticking) can reverse airflow, pushing TB aerosols into the hallway. Continuous monitoring is mandatory
+
+*   **Visual Indicators:** A pressure monitor must be visible *outside* the room. Staff must check this *before* entering
+    *   **Ball-in-Tube:** A simple mechanical device where a ping-pong ball is pulled into a clear tube inside the room by the suction. If the ball is visible in the tube, negative pressure is present
+    *   **Digital Gauges:** Provide a real-time readout of the pressure differential (e.g., -0.03 "WC"). These often have audible alarms
+*   **Alarm Protocol:** If the alarm sounds (indicating loss of negative pressure), work with infectious agents must stop immediately. Cultures should be capped and secured. Personnel should exit the room, close the door, and notify Facilities/Engineering. The room is considered "compromised" and unsafe for biohazard work
+
+## **Testing & Verification** {-}
+
+The integrity of the isolation room must be verified periodically
+
+*   **Smoke Testing:** A qualitative test using a smoke tube or handheld fog generator
+    *   Smoke is released near the bottom of the closed door
+    *   **Pass:** The smoke is visibly drawn *under* the door and into the room
+    *   **Fail:** The smoke remains stationary or is blown out into the hall
+*   **Sealing:** For the negative pressure to be effective, the room must be relatively airtight ("tight construction"). Penetrations in the walls (for electrical outlets, plumbing, data cables) must be sealed with caulk or foam. If the room is "leaky," the exhaust fan cannot generate the required negative pressure
+
+## **Operational Safety** {-}
+
+The behavior of the laboratory scientist affects the physics of isolation
+
+*   **Door Management:** Doors must be self-closing. Propping an isolation room door open destroys the pressure differential and defeats the containment. Doors should be opened and closed slowly to avoid "pumping" air out
+*   **Furniture Placement:** Large equipment (like freezers or incubators) should not be placed near the air supply or exhaust vents. Blocking the exhaust grille prevents the removal of contaminated air. Blocking the supply creates dead zones where aerosols can linger

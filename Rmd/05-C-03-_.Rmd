@@ -1,0 +1,23 @@
+# Hazardous/Chemical Waste {-}
+
+The management of chemical waste is a strictly regulated process under the EPA's **Resource Conservation and Recovery Act (RCRA)**. This law establishes a "cradle-to-grave" liability system, meaning the laboratory is responsible for its hazardous waste from the moment it is generated until it is confirmed destroyed, regardless of who transports it
+
+##   **Documentation & Handlers** {-}
+
+*   **Manifests:** The legal tracking document that accompanies every shipment. It functions as a chain of custody between the Lab (Generator), the Transporter, and the Disposal Facility. The lab must receive a signed "Return Copy" from the disposal facility to prove the waste was not illegally dumped
+*   **Licensed Handlers:** Laboratories typically outsource waste removal to third-party contractors. These handlers must be vetted to ensure they hold valid EPA/DOT permits, as the lab retains liability for their negligence
+
+##   **Generator Categories** {-}
+
+The stringency of regulations depends on the volume of waste produced monthly:
+
+*   **Very Small Quantity Generator (VSQG):** <100 kg/month (Least regulated)
+*   **Small Quantity Generator (SQG):** 100-1,000 kg/month (Must inspect storage weekly; 180-day storage limit)
+*   **Large Quantity Generator (LQG):** >1,000 kg/month (Strictest rules; 90-day storage limit; mandatory annual training and contingency plans)
+
+##   **Storage Locations** {-}
+
+Waste is managed in two zones:
+
+*   **Satellite Accumulation Area (SAA):** Located at the bench/point of generation. Can hold up to 55 gallons. Under the control of the operator
+*   **Central Accumulation Area (CAA):** The main holding room where the "storage clock" (90/180 days) ticks. Requires weekly documented inspections, emergency equipment, and strict segregation of incompatible chemicals (e.g., separating oxidizers from flammables)

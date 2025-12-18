@@ -1,0 +1,7 @@
+# Reading List {-}
+
+Source: <a href="https://www.ascp.org/boc/explore-credentials/view-all-credentials/QLS" target="_blank">ASCP BOC's</a> Qualification in Laboratory Safety, QLS(ASCP)
+
+ASCP makes it clear that their suggested reading/reference list is intended only as a partial reference source, specifically stating:
+
+> This list is intended only as a partial reference source. Its distribution does not indicate endorsement by the American Society for Clinical Pathology Board of Certification (ASCP BOC), nor does the ASCP BOC wish to imply that the content of the examination will be drawn solely from these publications.

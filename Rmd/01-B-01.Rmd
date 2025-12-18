@@ -1,0 +1,92 @@
+# Federal {-}
+
+In the United States, laboratory safety is governed by a complex network of federal agencies. Each agency has a specific jurisdiction - ranging from worker protection and environmental conservation to transportation safety and national security. For the laboratory scientist and Laboratory Management, compliance is not voluntary; it is a legal requirement. Understanding the specific authority and mandate of each agency is essential for avoiding citations, fines, and legal liability, as well as ensuring the safety of personnel and the public
+
+## **Occupational Safety & Health Administration (OSHA)** {-}
+
+OSHA, part of the Department of Labor, is the primary federal agency responsible for ensuring safe and healthful working conditions. Its regulations (Standards) are legally binding. In the clinical laboratory, OSHA's jurisdiction focuses on the protection of the *employee* from physical, chemical, and biological hazards
+
+**Key Standards for the Clinical Laboratory**
+
+*   **Bloodborne Pathogens Standard (29 CFR 1910.1030):** This is the most critical biological safety regulation. It mandates the use of Standard Precautions (treating all body fluids as infectious). It requires a written Exposure Control Plan (ECP), the provision of Hepatitis B vaccinations, and the use of safer medical devices (engineering controls) to prevent sharps injuries
+*   **Occupational Exposure to Hazardous Chemicals in Laboratories (29 CFR 1910.1450):** Known as the "Laboratory Standard," this regulation acknowledges that laboratories differ from industrial factories. It requires the appointment of a Chemical Hygiene Officer (CHO) and the development of a Chemical Hygiene Plan (CHP). It focuses on limiting exposure to chemicals to levels below the Permissible Exposure Limits (PELs)
+*   **Hazard Communication Standard (29 CFR 1910.1200):** Often called "HazCom" or the "Right to Know" law. Aligned with the Globally Harmonized System (GHS), it mandates that employees be trained on the hazards of chemicals they work with, primarily through the use of Safety Data Sheets (SDS) and standardized labeling (Signal Words, Pictograms)
+*   **Personal Protective Equipment (29 CFR 1910.132):** This standard requires employers to assess the workplace for hazards that necessitate PPE, provide that PPE at no cost to the employee, and train employees on its proper use and limitations
+
+## **Environmental Protection Agency (EPA) & RCRA** {-}
+
+While OSHA protects the worker *inside* the lab, the EPA protects the environment *outside* the lab. The EPA regulates the disposal of chemical and antimicrobial waste. The primary legislative framework enforced by the EPA is the **Resource Conservation and Recovery Act (RCRA)**
+
+**Cradle-to-Grave Liability**
+
+RCRA establishes the principle of "Cradle-to-Grave" management. This means the laboratory is legally responsible for its hazardous waste from the moment it is generated (cradle) until it is ultimately destroyed or permanently stored (grave). Even after the waste leaves the facility on a contractor's truck, the laboratory retains liability if the waste is dumped illegally
+
+**Hazardous Waste Identification**
+
+RCRA classifies waste into two primary categories:
+
+*   **Listed Wastes:** Specific lists of chemicals. The **P-List** contains acutely toxic chemicals (e.g., sodium azide, epinephrine) where even the empty containers are regulated. The **U-List** contains toxic chemicals. The **F-List** covers non-specific sources (like spent solvents)
+*   **Characteristic Wastes:** Wastes that exhibit specific hazardous traits:
+    *   **Ignitability:** Flashpoint < 60°C (e.g., alcohol, xylene)
+    *   **Corrosivity:** pH < 2 or > 12.5 (e.g., strong acids or bases)
+    *   **Reactivity:** Unstable or reacts violently with water (e.g., picric acid)
+    *   **Toxicity:** Leaches toxic substances into groundwater (determined by the TCLP test)
+
+## **Department of Transportation (DOT)** {-}
+
+The DOT regulates the transport of hazardous materials (HazMat) on public roadways, airways, and railways. The Pipeline and Hazardous Materials Safety Administration (PHMSA) within the DOT sets strict rules for shipping laboratory specimens to reference laboratories
+
+**Key Classifications**
+
+*   **Category A (UN 2814 or UN 2900):** Infectious substances capable of causing permanent disability or life-threatening disease in healthy humans or animals (e.g., Ebola, Anthrax cultures). These require strict triple packaging and specialized documentation
+*   **Category B (UN 3373):** Biological substances responsible for most routine diagnostic specimens. While they require triple packaging, the regulations are less stringent than Category A
+*   **Training Requirements:** Any employee involved in the packaging or shipping of hazardous materials (including signing the air waybill) must undergo DOT/IATA training every three years. Failure to train employees is a frequent cause of substantial fines
+
+## **Nuclear Regulatory Commission (NRC)** {-}
+
+The NRC regulates the use of radioactive materials. While the use of radioisotopes (like I-125 for Radioimmunoassay) has decreased in clinical labs, the NRC retains jurisdiction over blood bank irradiators (often using Cesium-137) and Nuclear Medicine departments
+
+**Radiation Safety Controls**
+*   **License:** The laboratory must possess a specific license to possess radioactive materials
+*   **ALARA Principle:** Safety programs must adhere to the concept of keeping exposure "As Low As Reasonably Achievable" via Time, Distance, and Shielding
+*   **Radiation Safety Officer (RSO):** A designated individual responsible for implementing the radiation protection program and ensuring that personnel exposure monitoring (dosimetry) is conducted
+
+## **United States Postal Service (USPS)** {-}
+
+The USPS has its own set of regulations regarding the mailability of biological specimens, found in **Publication 52**. While generally harmonized with DOT regulations, the USPS has stricter prohibitions
+
+*   **Restrictions:** Category A infectious substances are generally non-mailable. Category B substances and Exempt Human Specimens are mailable if packaged according to specific standards (triple packaging, absorbent material, rigid outer container)
+
+## **Department of Homeland Security (DHS)** {-}
+
+Following the events of 9/11 and the anthrax attacks, the DHS assumed a role in laboratory safety regarding anti-terrorism. Their focus is on the security of "Select Agents" (biological toxins) and high-risk chemicals
+
+**Chemical Facility Anti-Terrorism Standards (CFATS)**
+
+DHS maintains a list of "Chemicals of Interest" (COI). If a laboratory possesses these chemicals above a certain threshold quantity (Screening Threshold Quantity), they must report to DHS. This is to prevent the theft or diversion of chemicals that could be used to create explosives or chemical weapons
+
+## **National Institute for Occupational Safety & Health (NIOSH)** {-}
+
+NIOSH is part of the CDC (Centers for Disease Control and Prevention), not the Department of Labor. Therefore, NIOSH is a **research agency**, not an enforcement agency. They do not issue citations. However, their research forms the scientific basis for OSHA standards
+
+**Key Contributions**
+
+*   **Respirator Certification:** NIOSH is the certifying body for respiratory protection. An "N95" mask is an N95 because it meets NIOSH testing standards. OSHA requires that laboratories use NIOSH-certified equipment
+*   **HHE (Health Hazard Evaluations):** Employees can request a NIOSH HHE to investigate unknown health hazards in the workplace
+
+## **National Institutes of Health (NIH)** {-}
+
+The NIH, primarily through the Office of Science Policy, sets the guidelines for research involving Recombinant or Synthetic Nucleic Acid Molecules. While technically "guidelines," compliance is mandatory for any institution receiving federal funding
+
+**Biosafety in Microbiological and Biomedical Laboratories (BMBL)**
+
+Published jointly by the CDC and NIH, the BMBL is the definitive advisory document for biosafety. It establishes the criteria for **Biosafety Levels (BSL-1 through BSL-4)**. While OSHA enforces the safety of the worker, the BMBL provides the technical roadmap for how to construct and operate a biosafety laboratory
+
+## **Americans with Disabilities Act (ADA)** {-}
+
+The ADA is a civil rights law that prohibits discrimination against individuals with disabilities in all areas of public life, including jobs. It is enforced by the Equal Employment Opportunity Commission (EEOC) and the Department of Justice
+
+**Laboratory Implications**
+
+*   **Reasonable Accommodation:** Employers must provide reasonable accommodations to qualified employees with disabilities, provided it does not cause "undue hardship." In the lab, this might involve adjustable-height benches for wheelchair users, magnified screens for visually impaired staff, or amplified stethoscopes
+*   **BFOQ:** The ADA allows for "Bona Fide Occupational Qualifications." For example, if color discrimination is essential for a specific role (e.g., reading Gram stains), requiring color vision is not discriminatory, provided no reasonable accommodation can enable the employee to perform the task

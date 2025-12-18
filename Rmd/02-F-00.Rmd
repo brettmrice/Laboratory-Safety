@@ -1,0 +1,29 @@
+# Standard Work Practices {-}
+
+Standard Work Practices represent the "administrative controls" in the hierarchy of laboratory safety. While engineering controls (fume hoods) and PPE provide physical barriers, standard work practices dictate the human behaviors required to maintain a safe environment. Adherence to these protocols is not optional; it is a mandatory condition of employment enforced by OSHA and accreditation bodies (CAP, TJC) to break the chain of infection and prevent chemical exposure
+
+## **Safe Work Practices** {-}
+
+The fundamental rule of laboratory conduct is the strict separation of "clean" and "dirty" functions to prevent the ingestion or transfer of hazardous materials
+
+*   **Hygiene:** Eating, drinking, smoking, applying cosmetics, and handling contact lenses are strictly prohibited in technical work areas. Food must never be stored in specimen refrigerators
+*   **Hand Washing:** This is the single most effective safety measure. Hands must be washed with soap and water or alcohol sanitizer immediately after removing gloves, before leaving the laboratory, and before touching "clean" items
+*   **Sharps Safety:** To prevent bloodborne pathogen transmission, needles must never be recapped by hand. Safety devices must be activated immediately after use, and sharps must be discarded in rigid, puncture-proof containers
+*   **Housekeeping:** Workspaces must be kept uncluttered to prevent spills. Surfaces must be disinfected at the start and end of every shift and immediately after any contamination
+
+## **Dress Code** {-}
+
+Personal attire serves as a critical barrier between the laboratory scientist and the hazard. "Comfort" or "style" must never supersede safety requirements
+
+*   **Head and Face:** Hair (shoulder-length or longer) must be tied back to prevent entanglement in centrifuges or fire hazards. Dangling jewelry is prohibited
+*   **Torso and Legs:** The "No Skin Below the Waist" rule applies. Long pants are mandatory to protect legs from spills; shorts, skirts, and capri pants are forbidden
+*   **Footwear:** Shoes must be fully enclosed (no sandals/open toes), made of fluid-resistant material (leather/synthetic, not canvas/mesh), and feature non-slip soles
+
+## **Personal Protective Equipment (PPE)** {-}
+
+PPE is the final line of defense, isolating the worker from the hazard. It must be selected based on a specific risk assessment of the task
+
+*   **Lab Coats:** Must be fluid-resistant (or flame-resistant for Microbiology), fully buttoned/snapped, and feature **knit cuffs** to seal the wrist. They must be removed before leaving the technical area
+*   **Gloves:** Nitrile is the industry standard for chemical and biological resistance. Gloves must be changed frequently, never washed, and removed before touching "clean" surfaces like phones or door handles
+*   **Face Protection:** Safety glasses provide impact protection, while goggles are required for chemical splashes. Face shields offer secondary protection over goggles for high-splash tasks
+*   **Respiratory Protection:** Surgical masks protect against droplets; N95 respirators (requiring fit testing) are required for airborne pathogens like Tuberculosis

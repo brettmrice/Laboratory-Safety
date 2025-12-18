@@ -1,0 +1,85 @@
+# Masks & Respirators {-}
+
+In the context of standard work practices, the terms "mask" and "respirator" are often used interchangeably, but they refer to two distinct categories of equipment with vastly different protective capabilities. Understanding the difference is a matter of life and death when dealing with airborne pathogens (like *Mycobacterium tuberculosis*) or volatile chemical hazards. OSHA regulates these devices under two different standards: the Bloodborne Pathogens Standard (for surgical masks) and the Respiratory Protection Standard (29 CFR 1910.134) for respirators
+
+## **Surgical Masks (Procedure Masks)** {-}
+
+Surgical masks are loose-fitting, disposable devices that create a physical barrier between the mouth and nose of the wearer and potential contaminants in the immediate environment
+
+### **Function & Limitations** {-}
+
+*   **Fluid Resistance:** They are primarily designed to block **large-particle droplets**, splashes, sprays, or splatter that may contain germs (viruses and bacteria) from reaching the wearer's mouth and nose. They are graded by ASTM standards (Level 1, 2, or 3) based on their fluid resistance
+*   **Source Control:** Their secondary function is to protect the *patient* or the *sample* from the wearer's respiratory emissions (spittle/mucus)
+*   **Leakage:** Surgical masks **do not** provide a tight seal. Air leakage occurs around the edges of the mask when the user inhales
+*   **Filtration:** They are **not** designed to filter small airborne particles (aerosols) and do not provide respiratory protection against airborne diseases like Tuberculosis or Measles
+
+### **Usage Scenarios** {-}
+
+*   Routine processing of blood samples (Standard Precautions)
+*   Plating microbiology specimens on an open bench (to protect the agar from the tech)
+*   Situations with a risk of blood splash (e.g., uncapping vacuum tubes)
+
+## **N95 Filtering Facepiece Respirators (FFR)** {-}
+
+An N95 is a respiratory protective device designed to achieve a very close facial fit and very efficient filtration of airborne particles
+
+### **Technical Specifications** {-}
+
+*   **"N" Designation:** Stands for "Not resistant to oil." These respirators are used for solid and liquid particulates that do not contain oil
+*   **"95" Designation:** Means the respirator filters at least **95%** of airborne test particles (0.3 microns in diameter)
+*   **The Seal:** Unlike surgical masks, N95s rely on a tight seal against the face. If the seal is broken, the air bypasses the filter, and the protection factor drops to zero
+
+### **Usage Scenarios** {-}
+
+*   Entering an isolation room for a patient with known or suspected airborne pathogens (TB, Varicella, Measles, SARS-CoV-2 during aerosol-generating procedures)
+*   Processing microbiology specimens suspected of containing fungi (mold) or *Francisella tularensis* outside of a Biosafety Cabinet
+
+## **The Respiratory Protection Program** {-}
+
+OSHA forbids an employer from simply handing an employee a respirator and sending them to work. The facility must have a written Respiratory Protection Program
+
+### **Medical Evaluation** {-}
+
+*   Before wearing a respirator, an employee must undergo a medical evaluation. Respirators increase breathing resistance and place a physiological burden on the heart and lungs. A physician must certify that the employee is physically capable of wearing one
+
+### **Fit Testing (Annual Requirement)** {-}
+
+*   A "Fit Test" is a protocol used to verify that a specific make, model, and size of respirator fits the individual employee's face without leaking
+*   **Qualitative Fit Test:** The most common method. The user wears a hood while a bitter (Bitrex) or sweet (Saccharin) solution is aerosolized. If the user can taste the solution while wearing the N95, the seal has failed
+*   **Quantitative Fit Test:** A machine (e.g., PortaCount) measures the actual amount of leakage into the mask
+*   **Frequency:** Fit testing is mandatory **annually**, or sooner if facial structure changes (e.g., significant weight gain/loss, dental surgery)
+
+### **User Seal Check (Daily Requirement)** {-}
+
+*   This is different from a fit test. A **User Seal Check:** must be performed **every time** the respirator is donned
+*   **Positive Pressure Check:** Exhale gently while blocking the exhalation valve (if present) or covering the mask surface. The mask should bulge slightly
+*   **Negative Pressure Check:** Inhale sharply while covering the filter surface. The mask should collapse slightly against the face. If air leaks in around the nose or chin, the strap adjustment is incorrect
+
+## **Facial Hair Policy** {-}
+
+*   **Zero Tolerance:** Standard N95 respirators cannot be worn with facial hair that interferes with the seal surface
+*   **The Physics:** Even a day's worth of stubble can lift the mask off the skin, allowing microscopic aerosols to bypass the filter
+*   **Alternative:** Employees with beards who require respiratory protection must use a PAPR (see below)
+
+## **Advanced Respiratory Protection** {-}
+
+For hazards exceeding the capability of an N95, or for staff with facial hair, advanced equipment is used
+
+### **Powered Air-Purifying Respirator (PAPR)** {-}
+
+*   **Design:** A battery-powered blower pulls air through a filter canister and pushes it into a loose-fitting hood or helmet
+*   **Advantages**
+    *   **Positive Pressure:** Because air is constantly being pushed out, any leaks force air *out* rather than letting contaminants *in*
+    *   **Comfort:** No breathing resistance; cooling effect from airflow
+    *   **Universal Fit:** Does not require fit testing and accommodates beards
+*   **Usage:** High-containment laboratories (BSL-3) or for extended duration work in isolation units
+
+### **Elastomeric Respirators (Half-Face or Full-Face)** {-}
+
+*   **Chemical Cartridges:** While N95s protect against particles, they provide **no protection** against chemical vapors (like Formaldehyde or Xylene)
+*   **Color Coding:** Elastomeric masks use replaceable cartridges color-coded for the specific hazard:
+    *   **Black:** Organic Vapors (e.g., Xylene, Alcohol)
+    *   **White:** Acid Gas
+    *   **Yellow:** Organic Vapor/Acid Gas combo
+    *   **Magenta/Purple (P100):** High-efficiency particulate (HEPA) filter (100% filtration)
+*   **Change Schedule:** Cartridges absorb chemicals until they become saturated ("breakthrough"). They must be changed according to a strict schedule, as there is often no warning smell when they fail

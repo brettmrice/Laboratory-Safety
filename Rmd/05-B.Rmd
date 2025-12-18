@@ -1,0 +1,85 @@
+# Disinfection & Decontamination {-}
+
+In the clinical laboratory, the physical environment acts as a potential reservoir for pathogens. Every surface - from the benchtop to the centrifuge rotor - can harbor infectious agents transmitted via blood, body fluids, or aerosols. Therefore, the concepts of disinfection and decontamination are not merely janitorial tasks but are critical scientific protocols designed to break the "Chain of Infection." A laboratory scientist must understand the chemical mechanisms, the hierarchy of microbial resistance, and the specific limitations of the agents used to ensure a safe working environment
+
+## **Definitions & Hierarchy** {-}
+
+It is imperative to distinguish between the levels of microbial control, as "cleaning" a surface is vastly different from "sterilizing" it
+
+*   **Decontamination:** A broad term describing a process that removes or destroys microorganisms to render an object or area safe for handling, use, or disposal. It typically involves a combination of cleaning and disinfection
+*   **Cleaning:** The physical removal of foreign material (dust, soil, organic matter like blood or mucus) using water, detergents, and mechanical friction. *Crucial Concept:* You cannot disinfect a dirty surface. Organic matter acts as a physical shield for bacteria and can chemically neutralize many disinfectants (especially bleach). Cleaning must always precede disinfection
+*   **Disinfection:** A process that eliminates many or all pathogenic microorganisms, except bacterial spores, on inanimate objects
+    *   **Low-Level:** Kills most vegetative bacteria, some viruses, and some fungi
+    *   **Intermediate-Level:** Kills vegetative bacteria, mycobacteria (TB), most viruses, and most fungi. This is the standard for laboratory surfaces contaminated with blood
+    *   **High-Level:** Kills all pathogens except high numbers of bacterial spores
+*   **Sterilization:** The complete destruction or elimination of all forms of microbial life, including highly resistant bacterial spores. This is usually achieved via physical means (autoclave) rather than chemical wiping
+
+## **Factors Influencing Efficacy** {-}
+
+A disinfectant is not a "magic bullet." Its ability to kill pathogens depends on several variables that the laboratory scientist must control
+
+*   **Contact Time (Dwell Time):** This is the most frequently violated rule in laboratory safety. Disinfectants require a specific "wet time" to penetrate the cell wall and destroy the organism. Spraying a surface and wiping it dry immediately renders the agent ineffective. For example, 10% bleach typically requires a contact time of 10 to 20 minutes to be effective against tough pathogens; alcohols usually require evaporation time (approx. 1 minute)
+*   **Organic Load (The Protein Error):** Blood, serum, pus, and fecal matter are protein-rich. These proteins can react with chemical disinfectants, depleting the active ingredient before it reaches the microbe. Furthermore, drying organic matter forms a crust that disinfectants cannot penetrate. This reinforces the "Clean, then Disinfect" rule
+*   **Concentration:** "More" is not always better. For instance, 70% alcohol is a superior disinfectant to 100% alcohol because water is required to facilitate the diffusion of alcohol across the bacterial cell membrane and to denature proteins. 100% alcohol merely coagulates the surface proteins, creating a protective shell around the bacterium
+*   **Microbial Resistance:** Pathogens vary in their susceptibility. The hierarchy (from hardest to kill to easiest) is:
+    1.  **Prions:** (Creutzfeldt-Jakob Disease) - *Most Resistant*
+    2.  **Bacterial Spores:** (*Bacillus, Clostridium*)
+    3.  **Mycobacteria:** (*M. tuberculosis*)
+    4.  **Non-Enveloped Viruses:** (Norovirus, Rotavirus)
+    5.  **Fungi**
+    6.  **Vegetative Bacteria:** (*E. coli, Staph*)
+    7.  **Enveloped Viruses:** (HIV, Hepatitis B, Influenza) - *Least Resistant* (The lipid envelope is easily destroyed by simple detergents)
+
+## **Chemical Agents** {-}
+
+### **Sodium Hypochlorite (Household Bleach)** {-}
+
+This is the most widely used, economical, and broad-spectrum disinfectant in the clinical laboratory. It is the CDC-recommended agent for bloodborne pathogens (HIV, HBV)
+
+*   **Dilutions**
+    *   **1:10 Dilution (High Level):** One part bleach to nine parts water. Used for cleaning up large blood spills or on porous surfaces. It is corrosive to metals
+    *   **1:100 Dilution (General Level):** Used for routine wiping of smooth, non-porous surfaces (benchtops) to prevent corrosion while still killing standard pathogens
+*   **Stability:** Bleach is unstable. Diluted solutions degrade rapidly when exposed to light and air. A 1:10 solution must be prepared **fresh daily**. A stock bottle of diluted bleach found under the sink from last week is likely effectively water
+*   **Mechanism:** It acts as a strong oxidizing agent. *Safety Note:* Never mix bleach with ammonia (creates toxic chloramine gas) or acids (creates chlorine gas)
+
+### **Alcohols (Ethanol & Isopropanol)** {-}
+
+*   **Usage:** Commonly used on skin (antiseptic) and instruments. It is non-corrosive, making it ideal for stainless steel surfaces or electrodes where bleach causes pitting
+*   **Limitation:** Alcohol evaporates rapidly, making it difficult to maintain the required contact time for some pathogens. It is generally **ineffective against bacterial spores** and non-enveloped viruses. It is considered an intermediate-level disinfectant
+*   **Flammability:** A significant fire hazard. It should not be used on large surface areas in poorly ventilated spaces or near open flames (Bunsen burners)
+
+### **Phenolics** {-}
+
+*   **Usage:** Derivatives of phenol (carbolic acid). They are often found in commercial disinfectant sprays (e.g., Amphyl). They are tuberculocidal (kill TB) and effective in the presence of organic matter
+*   **Limitation:** They leave a sticky residue that can build up on instruments. They are toxic to infants (not used in nurseries) and are generally not sporicidal
+
+### **Quaternary Ammonium Compounds ("Quats")** {-}
+
+*   **Usage:** Cationic detergents often used for floors and general furniture
+*   **Limitation:** While excellent cleaners, older generation Quats are **not** effective against *M. tuberculosis* or non-enveloped viruses. They are easily inactivated by cotton fibers (mop heads) and organic debris. They are typically considered low-level disinfectants
+
+## **Spill Management Protocols** {-}
+
+Handling a biological spill requires a calculated approach to minimize aerosol generation and exposure
+
+### **Standard Spill Procedure** {-}
+
+1.  **Stop and Protect:** Alert others in the area. Don appropriate PPE (gloves, lab coat, face protection). If aerosols were generated (e.g., a dropped centrifuge bucket), evacuate the area for 30 minutes to allow droplets to settle
+2.  **Contain:** Cover the spill with absorbent material (paper towels) to prevent spreading. *Crucial:* Do not spray disinfectant directly onto the liquid spill; this generates aerosols
+3.  **Disinfect:** Gently pour a 1:10 bleach solution (or approved tuberculocidal agent) *over* the paper towels, working from the outside edges inward. Ensure the towels are soaked
+4.  **Wait:** Allow a contact time of **20 minutes**
+5.  **Remove:** Use forceps or a brush and dustpan to remove broken glass and soaked materials. Place in a Biohazard (Red Bag) waste container or Sharps container
+6.  **Clean:** Wipe the area again with disinfectant to remove residual contaminants
+
+### **Prion Decontamination (Special Protocol)** {-}
+
+Prions (agents of Transmissible Spongiform Encephalopathies like CJD) are immune to standard laboratory disinfectants, including alcohol, formalin, and standard autoclaving
+
+*   **Requirement:** If handling confirmed or suspected prion tissue (e.g., brain biopsy), surfaces must be treated with **1N Sodium Hydroxide (NaOH)** or undiluted bleach for **1 hour**, followed by thorough rinsing. Instruments must be autoclaved at higher temperatures (132-134°C) for extended periods (1-2 hours) or immersed in NaOH prior to sterilization
+
+## **Decontamination of Waste** {-}
+
+Before biological waste leaves the facility, it must be rendered non-infectious, typically via steam sterilization (autoclaving)
+
+*   **Validation:** The autoclave process is validated using a biological indicator (*Geobacillus stearothermophilus*). The mere presence of autoclave tape (which changes color with heat) is not proof of decontamination; it only proves the waste was processed. Only the death of the spores proves decontamination was successful
+*   **Incineration:** Pathological waste (tissues, limbs) and animal carcasses are generally not autoclaved but are sent for incineration to ensure complete destruction of the organic material

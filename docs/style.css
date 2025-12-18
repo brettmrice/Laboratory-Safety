@@ -1,0 +1,250 @@
+:root {
+  --theme-first-color: #363945;
+  --theme-second-color: #EFE1CE;
+}
+
+body {
+  color: var(--theme-first-color);
+}
+
+header {
+  padding-bottom: 20px;
+}
+
+.hide_label {
+  visibility: hidden;
+}
+
+a {
+  color: var(--theme-first-color);
+}
+
+li.book-part {
+  font-weight: bold;
+  text-transform: uppercase;
+  position: sticky;
+  top: 2rem;
+  background: white;
+  padding-top: 1rem;
+  margin-top: 0 !important;
+  z-index: 2;
+}
+.sidebar .book-part {
+  border-bottom: 2px solid var(--theme-second-color) !important;
+}
+.book-extra {
+  border-top: 2px solid var(--theme-second-color);
+}
+
+ul.list-unstyled:nth-child(1) > li:nth-child(1) {
+  display: none;
+}
+
+.d-flex > h1:nth-child(1) {
+  text-align: center;
+  width: 100%;
+}
+.d-flex > h1:nth-child(1) > a {
+  padding: 0 10px;
+}
+form[role="search"] {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+}
+form[role="search"] > span {
+  width: 100%;
+}
+#search {
+  border: 3px solid var(--theme-second-color);
+  box-shadow: unset;
+}
+span#algolia-autocomplete-listbox-0 {
+  border: 3px solid var(--theme-second-color);
+}
+
+
+.chapter-nav {
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+  margin-top: 0;
+}
+.chapter-nav .prev,
+.chapter-nav .next {
+  border-radius: 0;
+  box-shadow: none;
+  padding: 0;
+  border: none;
+  background: transparent;
+}
+.chapter-nav .prev > a,
+.chapter-nav .next > a {
+  padding: 10px;
+  background: var(--theme-second-color);
+  color: var(--theme-first-color);
+  border-radius: 10px;
+  font-weight: bold;
+}
+.chapter-nav .prev > a:hover,
+.chapter-nav .next > a:hover {
+  background: var(--theme-first-color);
+  color: var(--theme-second-color);
+  text-decoration: none;
+}
+
+#content > div:nth-child(4) {
+  display: none;
+}
+
+a:hover {
+  background: var(--theme-second-color);
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+
+footer {
+  display: none;
+}
+
+
+.caption {
+  color: #777;
+  margin-top: 10px;
+}
+p code {
+  white-space: inherit;
+}
+pre {
+  word-break: normal;
+  word-wrap: normal;
+}
+pre code {
+  white-space: inherit;
+}
+
+
+h1, h2, h3, h4, h5 {
+  font-weight: bold;
+}
+
+main#content > div:nth-child(1) {
+  padding-bottom: 2rem;
+  border-bottom: 2px solid var(--theme-second-color) !important;
+}
+main#content > div > h1 {
+  padding-bottom: 1rem;
+  border-bottom: 2px solid var(--theme-second-color) !important;
+}
+
+main h2 {
+  position: sticky;
+  top: 0;
+  background: white;
+  padding-top: 2rem;
+  padding-bottom: 1rem;
+  margin-top: 0;
+  margin-bottom: 0;
+  z-index: 2;
+  margin-bottom: 10px;
+  border-bottom: 1px solid var(--theme-second-color) !important;
+}
+}
+main h3 {
+  position: sticky;
+  top: 4.9rem;
+  background: white;
+  z-index: 1;
+  padding-bottom: 10px;
+}
+
+main ol, main ul {
+  margin-bottom: 1rem;
+}
+main li {
+  margin-bottom: 0;
+}
+
+ul.book-toc > li > a {
+  padding-left: 10px;
+  display: block;
+}
+ul.book-toc > li > a.active,
+ul.book-toc > li > a:hover {
+  padding-right: 10px;
+  background: var(--theme-second-color);
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.navbar-nav {
+  padding-left: 10px;
+}
+nav[data-toggle="toc"] .nav > li > a:hover {
+  text-decoration: none;
+}
+.navbar-nav > a:hover {
+  background: var(--theme-second-color);
+  text-decoration: none !important;
+  border-radius: 5px;
+}
+.nav-link.active {
+  background: var(--theme-second-color) !important;
+  border-radius: 5px;
+}
+#book-edit,
+#buymeacoffee {
+  padding-left: 10px;
+}
+#book-edit:hover,
+#buymeacoffee:hover {
+  padding-right: 10px;
+  background: var(--theme-second-color);
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+main li > a,
+main p > a {
+	font-weight: 600;
+}
+
+.sidebar .book-part {
+  border-bottom: 1px solid #ccc;
+}
+
+
+
+
+@media (min-width: 1200px) {
+  body {
+    font-size: 1rem;
+  }
+}
+
+@media (min-width: 992px) {
+  .sidebar-book {
+    position: sticky;
+    max-height: 100vh;
+    top: 0;
+    overflow-y: auto;
+  }
+}
+
+@media (max-width: 991.98px) {
+  .collapse-lg {
+    display: none;
+    background: white;
+    border: none;
+    padding: 1rem;
+    border-radius: 10px;
+    margin-top: 0.5rem;
+    margin-bottom: 1rem;
+    box-shadow: 0px 0px 10px 2px #7F7F7F;
+  }
+  .book-toc > li:nth-child(3),
+  .book-toc > li:nth-child(15),
+  .book-toc > li:nth-child(25) {
+    top: unset;
+  }
+}

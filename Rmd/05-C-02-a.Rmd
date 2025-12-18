@@ -1,0 +1,78 @@
+# Biohazard Waste {-}
+
+Regulated Medical Waste (RMW), commonly known as **Biohazard Waste**, constitutes a specific subset of waste generated in healthcare facilities that poses a risk of transmitting infection to humans. It is governed by a patchwork of federal (OSHA, DOT) and state environmental regulations. The primary objective of managing RMW is to contain infectious agents at the source and render them non-infectious before they reach the general municipal landfill. In the clinical laboratory, this category encompasses blood, cultures, sharps, and pathological specimens
+
+## **Definitions: What is RMW?** {-}
+
+Not every item in a hospital trash can is "biohazard." Over-classifying regular trash (like paper wrappers or coffee cups) as RMW wastes money, as biohazard disposal costs significantly more than regular trash. Under the OSHA Bloodborne Pathogens Standard, RMW is defined as:
+
+1.  **Liquid or Semi-Liquid Blood/OPIM:** Bulk blood, serum, plasma, or Other Potentially Infectious Materials (OPIM like semen, CSF, pleural fluid)
+2.  **Contaminated Items:** Items that would release blood or OPIM in a liquid or semi-liquid state if compressed (e.g., a blood-soaked gauze). *Note:* A Band-Aid with a spot of dried blood is **not** RMW; it is regular trash
+3.  **Pathological Waste:** Human tissues, organs, and body parts removed during surgery or autopsy
+4.  **Microbiological Waste:** Cultures and stocks of infectious agents (petri dishes, slants, inoculated broth)
+5.  **Sharps:** Needles, scalpels, and broken glass contaminated with biohazards
+
+## **Segregation & Color Coding** {-}
+
+Segregation must occur at the point of generation. Once waste is mixed, it defaults to the most hazardous category
+
+*   **Red Bags (Infectious Waste)**
+    *   **Usage:** For soft, non-sharp infectious waste (gloves, plastic tubes, soaked gauze, culture plates)
+    *   **Standard:** Bags must be leak-proof and tear-resistant. They must be marked with the Biohazard symbol
+    *   **Prohibition:** Never put sharps or liquids (in bulk) into red bags. Sharps will puncture the bag; liquids will leak
+*   **Sharps Containers (Red/Rigid)**
+    *   **Usage:** Needles, lancets, microscope slides, broken glass
+    *   **Standard:** Puncture-resistant, leak-proof, and closeable
+*   **Yellow Containers (Chemotherapy)**
+    *   Trace chemotherapy waste (tubing, empty bags) is often segregated into yellow containers to distinguish it for incineration, as some chemo drugs are not neutralized by autoclaving
+*   **Pathological Waste**
+    *   Often segregated into a separate red container marked "Pathology" or "Incinerate Only." This waste is dense (limbs/tissue) and requires incineration rather than autoclaving
+
+## **Treatment Methods** {-}
+
+Before final disposal, RMW must be treated to reduce the microbial load to a safe level (typically a $4\log_{10}$ to $6\log_{10}$ reduction)
+
+### **1. Steam Sterilization (Autoclaving)** {-}
+
+This is the most common on-site treatment method for laboratory microbiological waste
+
+*   **Mechanism:** Saturated steam at **121°C** for **30-60 minutes** destroys bacteria, viruses, and spores
+*   **Validation:** State regulations often require "Quality Assurance" testing
+    *   **Chemical Integrators:** Tape or strips that change color are used with every load
+    *   **Biological Indicators:** Spores of *Geobacillus stearothermophilus* are run periodically (weekly/monthly) to prove the autoclave is actually killing microbes
+*   **Post-Treatment:** Once autoclaved, the waste is technically "solid waste" (trash). However, because it is in a red bag, it cannot be thrown in a dumpster (which causes public panic). It is usually compacted or shredded to render it unrecognizable before landfilling, or marked with "Treated" labels
+
+### **2. Incineration** {-}
+
+*   **Mechanism:** Burning waste at extremely high temperatures (1800°F - 2000°F) turns organics into ash and gases
+*   **Mandatory For**
+    *   **Pathological Waste:** Body parts do not sterilize well in an autoclave due to density; they must be incinerated
+    *   **Trace Chemotherapy:** Heat destroys the chemical structure of cytotoxic drugs
+*   **Disadvantage:** Creates emissions (dioxins, mercury) if not strictly filtered; thus, many medical incinerators have closed, and waste is shipped off-site
+
+### **3. Chemical Disinfection** {-}
+
+*   **Mechanism:** Shredding the waste and soaking it in bleach (sodium hypochlorite) or other disinfectants
+*   **Usage:** Often used for liquid waste (suction canisters) or in mobile treatment units
+
+### **4. Microwave/Radio Wave Treatment** {-}
+
+*   **Mechanism:** Shredding the waste, moistening it, and exposing it to high-energy waves that heat the water inside the cells, causing them to rupture
+*   **Usage:** An alternative to autoclaving for general RMW (soft waste)
+
+## **Handling & Storage** {-}
+
+*   **Storage Limits:** RMW cannot be stored indefinitely. Most states have time limits (e.g., 7 days unrefrigerated, 30 days refrigerated) to prevent putrefaction and odor
+*   **Secure Area:** Waste storage areas must be secured (locked), marked with biohazard signage, and ventilated to the outside to control odors
+*   **Compacting:** **Never** compact RMW before treatment. Compacting pressurized bags of blood or cultures can cause them to burst, creating an aerosol explosion that exposes the operator
+
+## **Disposal of Liquid Biohazards** {-}
+
+Bulk blood and body fluids (e.g., from a suction canister or a full urine cup) can often be disposed of via the sanitary sewer system (the sink or hopper), **IF** permitted by the local wastewater treatment authority
+
+*   **Protocol**
+    *   Wear full PPE (face shield, gown, gloves) to prevent splash-back
+    *   Pour carefully to minimize aerosols
+    *   Flush with copious amounts of water
+    *   **Exception:** If the liquid contains hazardous chemicals (formalin) or radioactive material, it **cannot** go down the drain, even if it is also biohazardous. Chemical regulations trump biohazard drain disposal rules
+

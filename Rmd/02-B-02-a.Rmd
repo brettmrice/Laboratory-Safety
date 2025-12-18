@@ -1,0 +1,62 @@
+# NFPA Graphic Symbols {-}
+
+In the context of laboratory safety, identifying the type of fire is critical to survival. Applying the wrong extinguishing agent to a fire can catastrophically worsen the situation (e.g., pouring water on a chemical fire). To standardize communication, the National Fire Protection Association (NFPA) and international safety organizations classify fires based on the fuel source. These classifications are visually represented on fire extinguishers using a system of **Letters** (Classes) and **Graphic Symbols** (Pictograms). Understanding these symbols allows a user to identify the correct extinguisher in seconds, even across language barriers
+
+## **Class A: Ordinary Combustibles** {-}
+
+*   **Fuel Source:** Common solid materials found in any office or lab environment. "A" stands for "Ash" (because it leaves ash behind)
+    *   Examples: Paper requisitions, cardboard boxes, wooden benches, plastic pipette tips, lab coats, and trash
+*   **Mechanism of Extinguishment:** Cooling (removing heat) or Smothering (removing oxygen). Water is the most effective agent
+*   **Visual Representation**
+    *   **Letter:** A green triangle containing the letter **"A"**
+    *   **Graphic Symbol:** A pictogram showing a **trash can and wood fire** burning
+    *   **Action:** If this symbol is present on the extinguisher, it is safe to use on paper/wood fires
+
+## **Class B: Flammable Liquids & Gases** {-}
+
+*   **Fuel Source:** Liquid or gaseous fuels. "B" stands for "Barrel" or "Boil."
+    *   Examples: Xylene (Histology), Ethanol/Methanol (Gram stain/Fixatives), Gasoline, Acetone, and piped Natural Gas
+*   **Mechanism of Extinguishment:** Smothering (removing oxygen) or inhibiting the chemical chain reaction. **Water must never be used**, as burning liquids will float on top of the water and spread the fire
+*   **Visual Representation**
+    *   **Letter:** A red square containing the letter **"B"**
+    *   **Graphic Symbol:** A pictogram showing a **gas can (jerry can)** spilling burning liquid into a puddle
+    *   **Action:** If this symbol is present, the extinguisher contains CO2 or Dry Chemical suitable for solvents
+
+## **Class C: Energized Electrical Equipment** {-}
+
+*   **Fuel Source:** Electrical components connected to a power source. "C" stands for "Current" or "Circuit."
+    *   Examples: Automated chemistry analyzers, centrifuges, computers, hot plates, and electrophoresis power supplies
+    *   *Note:* Once the power cord is pulled or the breaker is tripped, the fire reverts to Class A (plastic/metal)
+*   **Mechanism of Extinguishment:** Non-conductive agents (CO2, Halon, Dry Chemical). **Water is strictly prohibited** due to the risk of electrocution to the operator via the stream
+*   **Visual Representation**
+    *   **Letter:** A blue circle containing the letter **"C"**
+    *   **Graphic Symbol:** A pictogram showing an **electrical plug and socket** with flames
+    *   **Action:** If this symbol is present, the agent is non-conductive and safe for use on live electronics
+
+## **Class D: Combustible Metals** {-}
+
+*   **Fuel Source:** Reactive metals that burn at extremely high temperatures. "D" stands for "Dynamite" or "Dense Metal."
+    *   Examples: Sodium, Potassium, Magnesium, Lithium, Titanium. These are less common in routine clinical labs but found in research or manufacturing labs
+*   **Mechanism of Extinguishment:** Heat absorption and smothering using specialized dry powders (e.g., sand, graphite, sodium chloride). Standard ABC extinguishers can cause violent explosions with these metals
+*   **Visual Representation**
+    *   **Letter:** A yellow star containing the letter **"D"**
+    *   **Graphic Symbol:** There is often no specific pictorial graphic for Class D; the Yellow Star is the primary identifier. Sometimes a graphic of a **burning gear** or metal block is used
+    *   **Action:** These extinguishers are usually yellow in color. They are specific to the *type* of metal (e.g., a "Lith-X" extinguisher for Lithium)
+
+## **Class K: Kitchen Fires** {-}
+
+*   **Fuel Source:** Cooking oils, greases, and animal fats. "K" stands for "Kitchen."
+    *   Examples: Deep fryers or griddles in the hospital cafeteria or breakroom
+*   **Mechanism of Extinguishment:** Saponification. The wet chemical agent reacts with the hot oil to create a soapy, foam layer that seals the surface and cools the oil
+*   **Visual Representation**
+    *   **Letter:** A black hexagon containing the letter **"K"**
+    *   **Graphic Symbol:** A pictogram showing a **frying pan on fire**
+    *   **Action:** Used exclusively for cooking fires. An ABC extinguisher may fail to cool the grease sufficiently, leading to re-ignition
+
+## **The "Prohibited" Symbol** {-}
+
+Equally important is knowing what *not* to use
+
+*   **Symbol:** A red circle with a slash through it, superimposed over one of the pictograms described above
+*   **Meaning:** Do NOT use on this class of fire
+*   **Example:** A standard Water Extinguisher (Class A) will have the Class B (Gas Can) and Class C (Plug) pictograms crossed out in red. This visually warns the user: "Yes for trash, NO for gas, NO for electricity."

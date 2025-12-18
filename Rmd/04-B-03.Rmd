@@ -1,0 +1,79 @@
+# Agents of Bioterrorism & Laboratory Response Network {-}
+
+The potential use of biological agents as weapons poses a unique threat to public health and national security. In this context, the clinical laboratory serves as the "first line of defense." Laboratory scientists are often the first to encounter a covert biological attack through the routine processing of patient specimens. To manage this risk safely and effectively, the Centers for Disease Control and Prevention (CDC), the Federal Bureau of Investigation (FBI), and the Association of Public Health Laboratories (APHL) established the Laboratory Response Network (LRN). This framework dictates the protocols for handling, identifying, and shipping agents of bioterrorism
+
+## **The Laboratory Response Network (LRN) Structure** {-}
+
+The LRN is organized into a pyramid structure based on laboratory capabilities and biosafety levels. Understanding this hierarchy is critical for the laboratory scientist to know their limits - specifically, what testing they *can* perform and what testing is *strictly prohibited* due to safety and forensic concerns
+
+*   **Sentinel Laboratories (formerly Level A):** This includes the vast majority of hospital and commercial clinical laboratories
+    *   **Role:** Their primary function is to **"Recognize, Rule Out, and Refer."**
+    *   **Scope:** Sentinel labs are **not** equipped to confirm bioterrorism agents. They use standard media and basic biochemical tests (Gram stain, catalase, oxidase, urease, motility) to rule out common pathogens. If an organism cannot be ruled out, it is referred to the next level
+    *   **Safety Protocol:** Once a sentinel lab suspects a biothreat agent (a "trigger point"), all work on the open bench must cease, and the isolate must be secured/moved to a Biological Safety Cabinet (BSC)
+*   **Reference Laboratories (formerly Level B/C):** These are typically State and Local Public Health Laboratories
+    *   **Role:** Confirmatory testing
+    *   **Scope:** They possess the reagents (specific fluorescent antibodies, PCR primers, phage typing) and the Biosafety Level 3 (BSL-3) containment facilities required to confirm the identity of the agent
+*   **National Laboratories (formerly Level D):** These include the CDC and USAMRIID (US Army Medical Research Institute of Infectious Diseases)
+    *   **Role:** Definitive characterization and forensic analysis
+    *   **Scope:** They handle high-containment (BSL-4) agents (like Ebola or Variola) and perform genetic sequencing to attribute the strain to a specific source (bio-forensics)
+
+## **Classification of Bioterrorism Agents** {-}
+
+The CDC classifies biological agents into three categories (A, B, and C) based on their ease of dissemination, mortality rates, and the level of panic they are likely to cause. Laboratory safety protocols are most concerned with Category A agents
+
+### **Category A Agents (High Priority)** {-}
+
+These pose the highest risk to national security. They are easily disseminated (often aerosolized), have high mortality rates, and require special public health preparedness
+
+*   **Anthrax (*Bacillus anthracis*):** A spore-forming bacteria that is highly persistent in the environment. Inhalation anthrax is fatal if untreated
+*   **Botulism (*Clostridium botulinum* toxin):** One of the most potent toxins known; causes flaccid paralysis
+*   **Plague (*Yersinia pestis*):** Causes pneumonic plague, which is transmissible person-to-person
+*   **Smallpox (*Variola major*):** A viral agent eradicated from nature but maintained in secure stocks; highly contagious
+*   **Tularemia (*Francisella tularensis*):** Highly infectious (low infectious dose); causes severe respiratory illness
+*   **Viral Hemorrhagic Fevers:** Ebola, Marburg, Lassa, and Junin viruses. These require BSL-4 containment for culture
+
+### **Category B & C Agents** {-}
+
+*   **Category B:** Moderately easy to disseminate with moderate morbidity and low mortality. Includes food/water safety threats (e.g., *Salmonella*, *Shigella*, Ricin toxin, *Brucella* spp.)
+*   **Category C:** Emerging pathogens that could be engineered for mass dissemination in the future (e.g., Nipah virus, Hantavirus)
+
+## **Safety Triggers: Recognizing the "Rule Out"** {-}
+
+For the Sentinel Laboratory, safety relies on recognizing specific "Trigger Points." These are characteristics of an isolate that deviate from common pathogens. When these are observed, the laboratory scientist must **STOP**, upgrade PPE, move to a BSC, and initiate the referral protocol. *Do not attempt to identify these on automated systems (e.g., VITEK, MicroScan, MALDI-TOF) as this creates aerosols and contaminates the instrument*
+
+### **Trigger Points for Specific Agents** {-}
+
+*   ***Bacillus anthracis* (Anthrax)**
+    *   **Observation:** Large, Gram-positive rods (box-car shape) with spores (oval, central/subterminal)
+    *   **Colony:** "Medusa head" or beaten egg white appearance; sticky consistency (stands up like a peak when teased with a loop)
+    *   **Key Negative Rule-Outs:** **Non-hemolytic** (on sheep blood agar) and **Non-motile**. (Most other *Bacillus* spp. are hemolytic and motile)
+    *   **Safety Action:** Do not heat fix slides (aerosol risk). Treat all spore-formers as potential Anthrax until ruled out
+*   ***Yersinia pestis* (Plague)**
+    *   **Observation:** Gram-negative rods with "bipolar staining" (Safety Pin appearance) using Wayson or Giemsa stain
+    *   **Colony:** Slow-growing ("fried egg" appearance) at 25-28°C (grows better at room temp than 37°C)
+    *   **Key Rule-Outs:** Catalase positive, but **Oxidase Negative** and **Urease Negative**
+*   ***Francisella tularensis* (Tularemia)**
+    *   **Observation:** Tiny, faint-staining Gram-negative coccobacilli
+    *   **Colony:** Poor or no growth on Blood/MacConkey agar. Requires Cysteine to grow (grows well on Chocolate agar)
+    *   **Safety Action:** This is one of the most infectious laboratory agents known. **Never** sniff a plate. Performing a catalase test on the open bench can release aerosols causing pneumonic tularemia
+*   ***Brucella* spp.**
+    *   **Observation:** Tiny Gram-negative coccobacilli (like fine sand)
+    *   **Key Rule-Outs:** **Rapidly Urease Positive** (often within minutes to 2 hours), Oxidase positive, Catalase positive
+    *   **Risk:** Highly infectious via aerosols and mucous membranes. Common cause of LAIs
+
+## **Biosafety Protocols for Suspect Agents** {-}
+
+When a trigger point is hit, the protocol shifts from "Diagnostic" to "Safety and Containment."
+
+*   **Primary Containment:** All subsequent manipulations must take place inside a certified Class II Biological Safety Cabinet. No open bench work is permitted
+*   **PPE Upgrade:** Gloves (double gloving recommended), fluid-resistant gown, and potentially respiratory protection (N95) if working outside a BSL-3 facility
+*   **Disinfection:** *B. anthracis* spores are resistant to alcohol and standard quaternary ammoniums. Surfaces must be decontaminated with sporicidal agents, typically **10% fresh bleach (sodium hypochlorite)** with adequate contact time, followed by a water rinse to prevent corrosion
+*   **Waste Management:** All cultures, slides, and materials associated with the suspect agent must be segregated and autoclaved immediately after the investigation is concluded or transferred
+
+## **Communication & Chain of Custody** {-}
+
+Because bioterrorism is a criminal act, the specimen is evidence. Strict administrative protocols apply
+
+*   **Do Not Send Without Calling:** A Sentinel Lab must contact the LRN Reference Lab (State Public Health Lab) *before* shipping the isolate. The Reference Lab will provide guidance on packaging and transport
+*   **Chain of Custody:** A form documenting the chronological history of the evidence must accompany the sample. It records every person who handled, transferred, or stored the specimen. There must be no gaps in this record
+*   **Shipping:** These agents are classified as **Category A** Infectious Substances (UN 2814). They require rigid triple packaging, specific hazard labeling, and a Shipper's Declaration for Dangerous Goods. They cannot be shipped via routine courier routes used for standard reference testing

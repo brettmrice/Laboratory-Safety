@@ -1,0 +1,74 @@
+# Face Protection {-}
+
+Face protection in the clinical laboratory is the critical barrier preventing exposure to the body's most vulnerable mucous membranes: the eyes, nose, and mouth. These entry routes offer pathogens and chemicals a direct pathway into the bloodstream or respiratory system. The selection of face protection is dictated by the specific nature of the hazard - impact, chemical splash, or biological aerosol - and is governed by OSHA’s Bloodborne Pathogens Standard (29 CFR 1910.1030) and Personal Protective Equipment Standard (29 CFR 1910.132)
+
+## **The Hierarchy of Eye & Face Protection** {-}
+
+Not all protective eyewear is created equal. laboratory scientists must select the equipment that matches the "Standard Operating Procedure" (SOP) for the specific task at hand
+
+### **Safety Glasses** {-}
+
+Safety glasses provide basic impact protection but offer limited defense against liquids. They are primarily designed to stop flying debris (e.g., glass shards from a broken tube)
+
+*   **ANSI Standard:** They must meet the **ANSI Z87.1** standard for impact resistance
+*   **Side Shields:** Laboratory safety glasses must have permanent side shields. Front-facing glasses (like standard reading glasses) are insufficient because splashes can easily enter from the side
+*   **Limitations:** Safety glasses do **not** seal against the face. They provide poor protection against chemical splashes, aerosols, or vapors, which can travel over the top or under the bottom of the lens. They are generally acceptable for low-risk tasks like uncapping sealed tubes behind a splash shield
+
+### **Safety Goggles** {-}
+
+Goggles are the primary defense against chemical splashes and bulk fluid exposure. They provide a secure seal around the eyes, protecting against hazards coming from any direction
+
+*   **Direct-Vented:** These have open vents to prevent fogging. They are **not** suitable for liquid hazards as splashes can enter the vents
+*   **Indirect-Vented:** These use covered vents that allow air to circulate but prevent straight-line entry of liquids. These are the standard for general laboratory work involving chemicals
+*   **Non-Vented:** These have no air vents. They offer the highest protection against hazardous vapors and fine mists but fog up quickly
+*   **Over-the-Glasses:** Specialized goggles are designed to fit comfortably over prescription eyewear without breaking the seal
+
+### **Face Shields** {-}
+
+A face shield is a window of clear plastic that covers the face from the forehead to the chin and extends to the ears
+
+*   **The "Secondary Protection" Rule:** A face shield is **never** a standalone protective device. It must **always** be worn in conjunction with safety glasses or goggles
+    *   *Reasoning:* If a splash comes from below (e.g., dropping a bottle), it can go under the shield. Without primary eye protection underneath, the eyes are vulnerable
+*   **Usage Scenarios**
+    *   Removing caps from pressurized vessels
+    *   Working with cryogens (Liquid Nitrogen) to prevent facial frostbite from splashes
+    *   Autoclaving (protection from steam and exploding glass)
+    *   Cleaning up large biological spills
+
+### **Fixed Barrier Shields (Splash Shields)** {-}
+
+These are permanent or movable Plexiglass barriers located on the workbench. They are commonly found in Specimen Processing and Chemistry
+
+*   **Function:** They provide a physical wall between the laboratory scientist and the sample during uncapping or pipetting
+*   **Ergonomics:** The laboratory scientist works with their hands behind the shield while looking through it. This effectively protects the face without the need for goggles, provided the work stays behind the barrier
+
+## **Contact Lenses in the Laboratory** {-}
+
+The regulations regarding contact lenses have evolved. Historically, they were strictly prohibited. Currently, OSHA and the National Institute for Occupational Safety and Health (NIOSH) allow contact lenses in the laboratory, provided specific guidelines are followed
+
+*   **The Hazard:** There is a theoretical risk that chemicals could get trapped behind the lens, holding the corrosive agent against the cornea and making it difficult to wash out. There is also a risk of soft lenses fusing to the eye if exposed to intense chemical vapors (though this is rare)
+*   **The Protocol**
+    *   **Not PPE:** Contact lenses are **not** a substitute for eye protection
+    *   **Mandatory Goggles:** If wearing contacts, the user must wear splash-proof goggles (not just safety glasses) when handling hazardous chemicals
+    *   **Emergency Removal:** In the event of a chemical splash to the eye, the contact lens must be removed **immediately** while flushing the eye. If the lens cannot be removed, flushing should continue regardless
+
+## **Maintenance & Inspection** {-}
+
+Damaged PPE creates a false sense of security and can be a hazard itself
+
+*   **Scratches:** Heavily scratched lenses refract light and reduce visibility, increasing the risk of accidents. Scratched eyewear should be discarded
+*   **Elastic Bands:** The straps on goggles degrade over time, losing elasticity or becoming brittle. A loose strap means the seal is compromised
+*   **Cleanliness:** Eye protection should be cleaned regularly with mild soap and water. Organic solvents (like alcohol or acetone) should generally be avoided on plastic lenses as they can strip anti-fog coatings or cloud the plastic
+*   **Storage:** Goggles should be stored in a clean, dust-free area (like a drawer or dedicated box) to prevent scratching and contamination. They should not be hung on gas valves or left on dirty benchtops
+
+## **Emergency Response: The Eyewash Station** {-}
+
+If face protection fails or is bypassed, the immediate response determines the severity of the injury
+
+*   **Location:** An eyewash station must be located within **10 seconds** (approx. 55 feet) of the hazard
+*   **Activation:** The unit must activate in one second or less and provide hands-free operation once started
+*   **Flushing Protocol**
+    1.  **Time:** Flush the eyes for a minimum of **15 minutes**
+    2.  **Technique:** The user must use their fingers to forcibly hold the eyelids open and roll the eyeballs around to ensure water reaches all corners of the eye and underneath the eyelid
+    3.  **Temperature:** The water must be "tepid" (lukewarm, 60-100°F). Cold water is painful and may prevent the victim from flushing for the full duration; hot water accelerates chemical damage
+

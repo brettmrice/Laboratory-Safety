@@ -1,0 +1,64 @@
+# Waste Generator Categories {-}
+
+Under the EPA's Resource Conservation and Recovery Act (RCRA), not all laboratories are treated equally. The stringency of the regulations a facility must follow depends directly on the *quantity* of hazardous waste it generates in a calendar month. This tiered system allows smaller entities (like a physician's office lab) to operate with fewer administrative burdens than massive industrial facilities or large research hospitals. It is critical for a laboratory to determine its "Generator Status" accurately, as operating under the wrong category is a frequent source of substantial EPA fines
+
+## **Determining Generator Status** {-}
+
+Status is determined by measuring the total weight of *all* hazardous waste generated at the entire site (not just the lab) in a single month. This includes P-listed (acutely toxic) and U-listed (toxic) wastes, as well as characteristic wastes (ignitable, corrosive, reactive, toxic)
+
+*   **P-Listed Waste (Acute Hazardous Waste):** Chemicals so deadly (e.g., Sodium Azide, Cyanides, Strychnine) that generating even a tiny amount triggers strict regulations
+*   **Episodic Generation:** If a lab usually generates very little waste but does a massive clean-out one month, its status may temporarily "bump up" to a higher category for that month, requiring stricter compliance during that period
+
+## **The Three Categories** {-}
+
+### **Very Small Quantity Generator (VSQG)** {-}
+
+*Formerly known as "Conditionally Exempt Small Quantity Generator" (CESQG).*
+
+*   **Definition:** Generates **$\le$ 100 kg (approx. 220 lbs)** of hazardous waste per month AND **$\le$ 1 kg (2.2 lbs)** of acutely hazardous (P-listed) waste per month
+*   **Typical Facility:** Small physician office laboratories (POLs), small independent clinics
+*   **Requirements**
+    *   **Identification:** Must identify all hazardous waste generated
+    *   **Limit:** Cannot accumulate more than 1,000 kg of waste on-site at any time
+    *   **Disposal:** Must ensure waste is sent to a permitted facility (even a municipal landfill if permitted by the state, though this is rare/unsafe practice; usually sent to a TSDF)
+    *   **No EPA ID:** *Federal* law does not require VSQGs to have an EPA ID number (though many transporters and states require it)
+    *   **Manifest:** Not federally required to use a manifest (though highly recommended for liability protection)
+
+### **Small Quantity Generator (SQG)** {-}
+
+*   **Definition:** Generates between **100 kg and 1,000 kg (220 - 2,200 lbs)** of hazardous waste per month
+*   **Typical Facility:** Community hospitals, medium-sized reference laboratories
+*   **Requirements**
+    *   **EPA ID Number:** Mandatory
+    *   **Storage Time:** Can store waste on-site for up to **180 days** (or 270 days if shipping >200 miles) without a storage permit
+    *   **Emergency Coordinator:** Must have a designated Emergency Coordinator on-site or on-call at all times
+    *   **Manifests:** Required for all shipments
+    *   **Inspections:** Must inspect waste storage areas **weekly**
+    *   **Training:** Employees must be "thoroughly familiar" with waste handling procedures (basic training required)
+
+### **Large Quantity Generator (LQG)** {-}
+
+*   **Definition:** Generates **$\ge$ 1,000 kg (2,200 lbs)** of hazardous waste per month OR **> 1 kg (2.2 lbs)** of acutely hazardous (P-listed) waste per month
+*   **Typical Facility:** Large academic medical centers, major reference labs, research universities
+*   **Requirements (Most Stringent)**
+    *   **EPA ID Number:** Mandatory
+    *   **Storage Time:** Can store waste on-site for only **90 days**. Exceeding this makes the lab a "Storage Facility" requiring an expensive permit
+    *   **Personnel Training:** Formal, documented classroom training required annually for all personnel involved in waste management
+    *   **Contingency Plan:** Must have a written, detailed contingency plan distributed to local police, fire, and hospitals
+    *   **Biennial Report:** Must file a detailed report to the EPA every two years (on even-numbered years) summarizing waste activities
+    *   **Closure Plan:** Must have a plan for closing the waste accumulation area if the facility shuts down
+
+## **Satellite Accumulation Areas (SAA) vs. Central Accumulation Areas (CAA)** {-}
+
+Regardless of status, laboratories manage waste in two distinct physical zones
+
+*   **Satellite Accumulation Area (SAA)**
+    *   **Location:** At or near the point of generation (e.g., under the fume hood in the Hematology lab)
+    *   **Control:** Under the control of the operator generating the waste
+    *   **Limit:** Can accumulate up to **55 gallons** of hazardous waste (or 1 quart of acute waste) indefinitely
+    *   **Requirement:** Once the container is full, it must be dated and moved to the CAA within **3 days**
+*   **Central Accumulation Area (CAA)**
+    *   **Location:** The main waste room or loading dock where waste is consolidated before shipping
+    *   **Clock:** The "storage clock" (90 or 180 days depending on SQG/LQG status) starts the moment waste arrives here
+    *   **Safety:** Must have restricted access, emergency equipment (fire extinguisher, spill kit, phone), and weekly documented inspections checking for leaks or corrosion
+

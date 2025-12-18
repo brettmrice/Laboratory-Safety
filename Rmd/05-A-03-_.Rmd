@@ -1,0 +1,17 @@
+# Safety Equipment {-}
+
+In the hierarchy of laboratory safety, "Safety Equipment" represents the response phase. When engineering controls (like Biosafety Cabinets) and administrative protocols fail to prevent an accident, these tools are the immediate countermeasures used to mitigate harm. They include the infrastructure for communicating distress and the apparatus for minimizing physical injury from chemical or biological exposure
+
+##   **Emergency Communication** {-}
+
+Time is the critical factor in any emergency. Laboratories must be equipped with redundant internal communication systems (fire pull stations, direct-line emergency phones, and overhead paging) to initiate an alarm instantly. When contacting external responders (911), laboratory staff must be trained to act as precise reporters, conveying the specific nature of the hazard (e.g., "Chemical Fire," "Toxic Spill") rather than just a general distress call. This ensures that Fire/Hazmat teams arrive with the correct equipment
+
+##   **Showers & Eyewashes** {-}
+
+These are the primary first-aid stations for chemical splashes. Their design and operation are strictly regulated by **ANSI Z358.1**
+
+*   **Location:** Must be accessible within **10 seconds** (approx. 55 feet) of the hazard, with no obstacles (doors/stairs) blocking the path
+*   **Operation:** Both units must utilize "stay-open" valves that allow hands-free operation once activated
+    *   **Eyewashes:** Must flush both eyes simultaneously with low-velocity, tepid water for **15 minutes**
+    *   **Showers:** Must deliver a high volume (20 gpm) of tepid water to drench the entire body. Contaminated clothing must be removed immediately while under the stream
+*   **Maintenance:** Units must be activated **weekly** to flush stagnant water and verify functionality

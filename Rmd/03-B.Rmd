@@ -1,0 +1,88 @@
+# Incompatible Mixtures {-}
+
+Chemical incompatibility refers to the condition where two or more substances, when mixed or stored in close proximity, react with each other to cause hazardous conditions. These reactions are not accidental spills in the traditional sense; they are often the result of improper storage (e.g., the "alphabetical storage" trap) or the commingling of waste streams. Understanding incompatibility is essential for preventing spontaneous fires, explosions, the generation of toxic gases, and the buildup of heat that can rupture containers. In the clinical laboratory, where strong oxidizers, flammables, and biological preservatives are used daily, the risk of creating a hazardous mixture is significant
+
+## **The "Alphabetical Storage" Trap** {-}
+
+A fundamental tenet of laboratory safety is that chemicals must **never** be stored strictly in alphabetical order. While this system aids in inventory retrieval, it frequently places incompatible chemicals side-by-side
+
+*   **The Hazard:** Storing **A**cetic Acid (an organic acid and combustible) next to **A**mmonium Nitrate (a strong oxidizer) invites a catastrophic fire. Storing **C**yanide salts next to **C**hloroform or acids can lead to lethal gas generation
+*   **The Solution:** Chemicals must first be segregated by **Hazard Class** (Flammables, Oxidizers, Corrosives, Toxins) and then compatible families. Only within these compatible groups can they be arranged alphabetically
+
+## **Major Incompatibility Classes** {-}
+
+### **Acids & Bases** {-}
+
+The most basic incompatibility is between acids and bases. While often dismissed as simple "neutralization," the reaction between a concentrated acid and a concentrated base is violently exothermic
+
+*   **The Reaction:** When mixed rapidly, the heat generated can boil the water in the solution immediately, causing the corrosive liquid to erupt or "volcano" out of the container, spraying the laboratory scientist. In a closed container, the pressure from the steam can cause the vessel to rupture or explode
+*   **Storage Rule:** Acids and bases must be stored in separate corrosive safety cabinets, or in separate secondary containment trays within the same cabinet if space is limited
+
+### **Oxidizers & Flammables** {-}
+
+This is the most common cause of laboratory fires. The "Fire Triangle" requires fuel, oxygen, and heat. Oxidizers provide the oxygen component in a concentrated form, lowering the flash point of flammables and allowing them to burn with explosive intensity
+
+*   **The Mixtures**
+    *   **Oxidizers:** Nitric Acid, Hydrogen Peroxide, Sodium Hypochlorite (Bleach), Potassium Dichromate
+    *   **Flammables/Combustibles:** Methanol, Ethanol, Xylene, Acetone, Acetic Acid
+*   **The Danger:** If Nitric Acid leaks into a tray containing Acetic Acid or Ethanol, it can cause spontaneous combustion. No external spark is required; the chemical reaction itself generates enough heat to ignite the mixture
+*   **Storage Rule:** Oxidizers must never be stored in a Flammable Safety Cabinet. They should be stored on a separate shelf, preferably in a secondary container, away from all organic solvents and reducing agents
+
+### **Inorganic vs. Organic Acids** {-}
+
+Not all acids are compatible with each other. A common inspection violation is storing all acids together regardless of their chemical structure
+
+*   **Organic Acids:** These contain carbon and are often combustible (e.g., Acetic Acid, Formic Acid, Picric Acid)
+*   **Inorganic (Mineral) Oxidizing Acids:** These are strong oxidizers (e.g., Nitric Acid, Perchloric Acid, Chromic Acid)
+*   **The Incompatibility:** If Nitric Acid (oxidizer) is stored with Acetic Acid (organic fuel), and the bottles break, the Nitric Acid will oxidize the Acetic Acid violently, potentially causing a fire
+*   **Storage Rule:** Nitric Acid should be stored in a separate compartment or secondary container, isolated from organic acids (Acetic) and organic solvents
+
+## **Specific High-Risk Mixtures in the Clinical Lab** {-}
+
+Certain chemicals used routinely in laboratory scientist have specific, high-danger incompatibilities that every laboratory scientist must memorize
+
+### **Sodium Hypochlorite (Bleach)** {-}
+
+Bleach is the universal disinfectant in the lab, but it is chemically reactive and produces toxic gases when mixed with common cleaning agents and reagents
+
+*   **Bleach + Acid:** Mixing bleach with acid (e.g., Hydrochloric acid used in Microbiology or acidic urine preservatives) releases **Chlorine Gas**. Chlorine gas is a respiratory vesicant that damages mucous membranes and causes pulmonary edema
+*   **Bleach + Ammonia:** Mixing bleach with ammonia-containing glass cleaners releases **Chloramine Gas**, which causes severe respiratory distress, chest pain, and pneumonia
+*   **Bleach + Formalin:** Mixing bleach with formaldehyde generates **Bis(chloromethyl) ether (BCME)**, a potent carcinogen. This can occur if a laboratory scientist attempts to clean a formalin spill with bleach
+
+### **Sodium Azide** {-}
+
+Historically used as a preservative in saline, buffers, and some chromatography reagents
+
+*   **Azide + Heavy Metals:** When sodium azide comes into contact with copper, lead, or brass (common in plumbing drains), it forms **Heavy Metal Azides**
+*   **The Hazard:** Metal azides are shock-sensitive explosives. If a plumber attempts to snake a drain clogged with accumulated metal azides, the friction can trigger a detonation
+*   **Prevention:** Waste containing azides should not be poured down the drain. If it must be (in trace amounts), it requires copious water flushing. Labs should ideally use plastic plumbing
+
+### **Formaldehyde/Formalin** {-}
+
+Used extensively in Anatomic Pathology and Histology
+
+*   **Incompatibility:** In addition to the bleach reaction mentioned above, Formaldehyde is incompatible with Phenol and strong oxidizers
+*   **Hydrochloric Acid:** If Formaldehyde mixes with Hydrochloric Acid (often used in decalcifying solutions), it can form vapors of bis(chloromethyl) ether, a carcinogen
+
+### **Perchloric Acid** {-}
+
+Rarely used in modern routine labs but found in specialized toxicology or research settings for "acid digestion."
+
+*   **The Hazard:** Perchloric acid vapors can condense in fume hood ventilation ducts. Over time, these crystals react with organic dust or sealing materials to form shock-sensitive explosive perchlorates
+*   **Requirement:** Perchloric acid must *only* be used in a dedicated "Perchloric Acid Wash-Down Hood" made of stainless steel with a built-in water wash system to prevent crystal formation
+
+## **Resources for Determining Compatibility** {-}
+
+When a new reagent is introduced to the laboratory, the laboratory scientist cannot guess its compatibility. Two primary resources must be consulted:
+
+*   **Safety Data Sheets (SDS)**
+    *   **Section 7 (Handling and Storage):** Provides specific instructions on safe storage conditions and incompatible environments
+    *   **Section 10 (Stability and Reactivity):** Explicitly lists "Incompatible materials" and "Conditions to avoid" (e.g., static discharge, shock, moisture)
+*   **Chemical Compatibility Charts:** These grids allow the user to cross-reference two chemical classes (e.g., "Ketones" and "Acids") to see if the intersection is marked "Safe," "Caution," or "Danger."
+
+## **General Waste Management** {-}
+
+Incompatibility often manifests in the satellite waste accumulation area
+
+*   **Segregation:** Chemical waste must be segregated just like fresh chemicals. Pouring Xylene waste into a jug containing Nitric Acid waste can cause an explosion
+*   **Labeling:** Waste containers must be clearly labeled with the *full chemical name* of every constituent. "Solvent Waste" is insufficient; the label must read "Xylene, Ethanol, Methanol" so that EHS personnel know exactly what is in the container to prevent mixing it with incompatibles during disposal

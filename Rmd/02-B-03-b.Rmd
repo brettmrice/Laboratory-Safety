@@ -1,0 +1,72 @@
+# Fire Extinguishers {-}
+
+A portable fire extinguisher is an active fire protection device used to extinguish or control small fires, typically in emergency situations. It is not designed for use on an out-of-control fire. For laboratory personnel, the effective use of an extinguisher relies on two factors: mastery of the **P.A.S.S. technique** (operation) and the strict recognition of **Contraindications** (when *not* to use a specific agent). Using the wrong extinguisher can result in electrocution, explosion, or chemical reaction
+
+## **Operation: The P.A.S.S. Technique** {-}
+
+The universal standard for operating a portable fire extinguisher is the acronym **P.A.S.S.** This sequence is designed to be recalled easily under extreme stress. Before initiating P.A.S.S., the user must ensure they have a clear exit path behind them and that the fire alarm has been activated (R.A.C.E.)
+
+### **P - Pull** {-}
+
+*   **Action:** Pull the pin located at the top of the extinguisher handle
+*   **Mechanism:** The pin is a safety device that locks the handle to prevent accidental discharge. It is held in place by a plastic "tamper seal." Pulling the pin breaks this seal
+*   **Common Error:** Squeezing the handle *while* trying to pull the pin. This puts pressure on the locking mechanism, making it impossible to remove the pin. The handle must be relaxed
+
+### **A - Aim** {-}
+
+*   **Action:** Aim the nozzle (or hose) at the **base** of the fire
+*   **Physics:** The fuel source is at the bottom; the flames are just the visible gas burning above it. Spraying the top of the flames wastes the chemical agent and allows the fire to continue growing
+*   **Distance:** Start from a safe distance (usually 6-8 feet). If you are too close, the pressure of the discharge can splash burning liquid onto you. If you are too far, the stream won't reach
+
+### **S - Squeeze** {-}
+
+*   **Action:** Squeeze the two levers of the handle together
+*   **Mechanism:** This opens the valve, releasing the pressurized extinguishing agent
+*   **Duration:** Most portable laboratory extinguishers (5-10 lbs) have a discharge time of only **10 to 20 seconds**. Do not waste the agent with test bursts
+
+### **S - Sweep** {-}
+
+*   **Action:** Sweep the nozzle from side to side in a steady motion
+*   **Technique:** Cover the entire width of the fire base. As the flames diminish, you may step closer, but never turn your back on the fire. Watch for "flashback" (re-ignition)
+
+## **Extinguisher Types & Contraindications** {-}
+
+Selecting the wrong extinguisher in a laboratory is a critical safety failure
+
+### **Pressurized Water (Class A)** {-}
+
+*   **Description:** Silver canister, water only
+*   **Contraindications**
+    *   **Electrical Fires (Class C):** **FATAL RISK.** Water conducts electricity. Spraying a live centrifuge or computer can send high-voltage current up the stream to the user, causing electrocution
+    *   **Liquid Fires (Class B):** Burning oil/solvents float on water. The pressure of the spray can splash burning liquid, spreading the fire rapidly
+
+### **Carbon Dioxide - CO2 (Class B, C)** {-}
+
+*   **Description:** Red canister with a large, black, hard-plastic discharge horn
+*   **Operation Note:** The gas is extremely cold (-110°F). Hold the horn only by the handle; holding the plastic cone can cause severe frostbite
+*   **Contraindications**
+    *   **Class A Fires:** CO2 does not cool the fuel effectively. It may blow the flames out momentarily, but deep-seated fires (trash cans, wood) often re-ignite once the gas dissipates
+    *   **Confined Spaces:** CO2 displaces oxygen. Using it in a small, unventilated closet can asphyxiate the user
+
+### **Dry Chemical - ABC (Class A, B, C)** {-}
+
+*   **Description:** Red canister with a hose and pressure gauge. Contains yellow monoammonium phosphate powder
+*   **Contraindications**
+    *   **Combustible Metals (Class D):** Standard ABC powder can react violently with metals like Sodium or Magnesium
+    *   **Sensitive Electronics (Operational Contraindication):** While *safe* for electrical fires (non-conductive), the corrosive powder will destroy circuit boards. Using it on a $100,000 analyzer to put out a small fire will likely total the machine. (CO2 is preferred if safety permits)
+    *   **Visibility:** The powder creates a dense cloud that can obscure vision and irritate the throat, complicating evacuation
+
+### **Dry Powder (Class D)** {-}
+
+*   **Description:** Often Yellow canister. Specific for metals
+*   **Operation Note:** Requires a "soft flow" application. High pressure can blow burning metal fragments onto the user or around the room
+*   **Contraindication**
+    *   **Standard Fires:** These are specialized agents (like copper powder) intended to cake over metal. They are not effective for rapid knockdown of paper or liquid fires
+
+### **Wet Chemical (Class K)** {-}
+
+*   **Description:** Silver canister, used for kitchen grease
+*   **Contraindication**
+    *   **Electrical:** While the wand is non-conductive, the liquid agent itself can conduct. Power should be cut first
+    *   **General Lab Use:** Not effective for standard lab fires; specific to saponifying cooking fats
+

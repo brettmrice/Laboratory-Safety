@@ -1,0 +1,24 @@
+# Ventilation {-}
+
+Ventilation serves as the primary engineering control for maintaining breathable air quality and containing airborne hazards in the clinical laboratory. It operates on two levels: general room ventilation (which dilutes and removes contaminants from the entire space) and local exhaust ventilation (which captures hazards at the source). Understanding the interplay between airflow, pressure differentials, and filtration is critical for preventing the spread of infectious agents and toxic vapors
+
+##   **Biological Safety Cabinets (BSCs)** {-}
+
+The Class II BSC is the standard containment device for Microbiology. It utilizes **HEPA filters** to create a sterile work environment while protecting the user
+
+*   **Mechanism:** A curtain of air at the sash protects the user, while laminar downflow protects the product. The air is HEPA-filtered before being exhausted
+*   **Limitations:** BSCs filter particulates (bacteria/viruses) but **not** gases. Unless duct-connected (Type B2), they cannot be used with volatile toxic chemicals
+
+##   **Air Exchanges (ACH)** {-}
+
+Laboratory safety relies on "Dilution Ventilation."
+
+*   **Rate:** Clinical labs typically require **6 to 12 Air Changes per Hour (ACH)**, meaning the room air is completely replaced every 5-10 minutes
+*   **Single-Pass:** Air is drawn from outside and exhausted directly outdoors; it is **never recirculated** to other parts of the building, preventing cross-contamination
+
+##   **Isolation (Negative Pressure)** {-}
+
+To contain airborne pathogens (like TB), specific rooms are engineered to be under **Negative Pressure**
+
+*   **Physics:** Air flows *into* the room from the hallway, preventing contaminants from escaping
+*   **Monitoring:** The pressure differential must be continuously monitored (via ball-in-tube or digital gauges) to ensure containment is maintained. These rooms often utilize an anteroom to create a pressure cascade, further securing the "dirty" zone

@@ -1,0 +1,109 @@
+# (PART\*) Chemical Safety {-}
+
+# Chemical Classifications {-}
+
+The safe handling of chemicals in the clinical laboratory begins with accurate classification. Under OSHA's Hazard Communication Standard (HCS) (29 CFR 1910.1200), which aligns with the United Nations' **Globally Harmonized System of Classification and Labeling of Chemicals (GHS)**, all chemicals must be categorized based on their intrinsic properties. These classifications dictate not only how the chemical affects the human body but also how it interacts with the physical environment, determining storage protocols, fire protection measures, and personal protective equipment (PPE) requirements
+
+## **Physical Hazards** {-}
+
+Physical hazards refer to chemicals that pose a threat due to their physical properties rather than their toxicity. These are substances that can cause fires, explosions, or violent reactions. In the clinical laboratory, mismanaging these classifications is the primary cause of structural damage and fire emergencies
+
+### **Flammables & Combustibles** {-}
+
+Flammable and combustible liquids are the most ubiquitous physical hazards in the laboratory (e.g., Alcohols, Xylene, Acetone). The distinction between the two is based on their **Flash Point** - the lowest temperature at which the liquid gives off enough vapor to ignite in the air
+
+*   **Flammable Liquids:** Chemicals with a flash point **below 100°F (37.8°C)**. These are highly dangerous because they can ignite at room temperature. Examples include Methanol, Ethanol, and Acetone
+*   **Combustible Liquids:** Chemicals with a flash point **at or above 100°F (37.8°C)**. They require heating before they will ignite. An example is Acetic Acid or certain immersion oils
+*   **The Vapor Hazard:** It is rarely the liquid that burns, but the vapor. Flammable vapors are often heavier than air and can travel along benchtops or floors to distant ignition sources (like a Bunsen burner or a sparking centrifuge motor), causing a "flashback" fire
+
+### **Oxidizers** {-}
+
+Oxidizers are chemicals that initiate or promote combustion in other materials, often by releasing oxygen. They are not necessarily flammable themselves, but they will make a fire burn much hotter and faster, or cause materials that normally wouldn't burn to ignite
+
+*   **Clinical Examples:** Sodium Hypochlorite (bleach), Hydrogen Peroxide, and Nitric Acid
+*   **Incompatibility:** Oxidizers must never be stored with flammables or organic reducers. If concentrated Hydrogen Peroxide spills on a paper towel (organic material), it can spontaneously ignite
+
+### **Explosives & Reactives** {-}
+
+These are unstable chemicals that can detonate or react violently under specific conditions like shock, friction, or temperature changes
+
+*   **Picric Acid:** Used in Histology (Bouin’s fixative). It is safe when wet (hydrated), but if allowed to dry out, it forms picrate salts that are highly shock-sensitive explosives, comparable to TNT. Old, dried-out bottles of Picric acid found in storage are a bomb squad emergency, not a cleanup task
+*   **Peroxide Formers:** Certain chemicals, specifically ethers (like Diethyl Ether), react with oxygen over time to form unstable organic peroxides. If these crystals form around the cap, the friction of opening the bottle can cause an explosion. These chemicals must be dated upon receipt and opening, and discarded by their expiration date
+
+### **Gases Under Pressure** {-}
+
+*   **The Hazard:** Compressed gas cylinders (used for CO2 incubators or anaerobic chambers) pose a dual threat. They can be an asphyxiation hazard if they leak in a small room, and a "missile" hazard if the valve is sheared off, turning the cylinder into an uncontrolled projectile
+*   **Management:** Cylinders must always be secured to a wall or bench with a chain or strap, and the protective cap must be in place when the regulator is not attached
+
+## **Health Hazards** {-}
+
+Health hazards encompass chemicals that cause acute or chronic health effects in exposed employees. Classification depends on the route of exposure (inhalation, ingestion, skin contact) and the duration of the effect
+
+### **Corrosives** {-}
+
+Corrosives are chemicals that cause visible destruction or irreversible alterations to living tissue by chemical action at the site of contact. They also corrode metals
+
+*   **Acids (pH < 2):** Hydrochloric Acid, Sulfuric Acid, Acetic Acid. Acids tend to cause protein coagulation, which forms a scab (eschar) that limits the depth of the burn somewhat
+*   **Bases/Caustics (pH > 12):** Sodium Hydroxide, Potassium Hydroxide. Bases are often more dangerous than acids because they cause **liquefaction necrosis**. They saponify the fats in the skin and penetrate deeply into tissues, often causing damage that continues long after the initial exposure
+*   **The Eyes:** Corrosives are blinding hazards. A splash of Sodium Hydroxide can cause permanent blindness in seconds
+
+### **Irritants & Sensitizers** {-}
+
+*   **Irritants:** Cause reversible inflammation of the skin, eyes, or respiratory tract. The damage is temporary, but exposure can be debilitating. Formalin vapors are a potent respiratory irritant
+*   **Sensitizers (Allergens):** Chemicals that cause an allergic reaction after repeated exposure. The initial exposure may result in little or no reaction, but subsequent exposures can lead to severe immune responses
+    *   **Respiratory Sensitizers:** Cause asthma-like symptoms (e.g., Glutaraldehyde)
+    *   **Skin Sensitizers:** Cause contact dermatitis (e.g., Formaldehyde, certain dyes)
+
+### **Toxins (Acute & Specific Target Organ)** {-}
+
+*   **Acute Toxins:** Substances that cause adverse effects (death or severe illness) after a single exposure or short-term exposure
+    *   **Sodium Azide:** Formerly used as a preservative in saline and buffers. It is acutely toxic if ingested and can form explosive azides in copper plumbing
+    *   **Cyanides:** While rare in modern routine labs, they remain a high-toxicity reference point
+*   **Specific Target Organ Toxicity (STOT):** Chemicals that damage specific systems
+    *   **Hepatotoxins:** Liver damage (e.g., Chloroform, Ethanol)
+    *   **Nephrotoxins:** Kidney damage (e.g., Heavy metals like Mercury)
+    *   **Neurotoxins:** Nervous system damage (e.g., Acrylamide used in electrophoresis, Mercury)
+
+### **Carcinogens, Mutagens, & Teratogens (The "CMR" Group)** {-}
+
+These are chronic hazards where the effects may not be seen for years or may affect future generations
+
+*   **Carcinogens:** Substances known or suspected to cause cancer. Formaldehyde (used in Anatomic Pathology) is a known human carcinogen (nasopharyngeal cancer). Benzene is a known cause of leukemia
+*   **Mutagens:** Agents that induce genetic mutations in DNA. Ethidium Bromide (used to visualize DNA in molecular diagnostics) is a potent intercalating agent and mutagen
+*   **Teratogens/Reproductive Toxins:** Substances that interfere with reproductive health or cause birth defects in a developing fetus. Methanol and Toluene are reproductive hazards. Pregnant laboratory staff often require a specialized risk assessment to modify their duties if working with these agents
+
+## **GHS Hazard Communication Elements** {-}
+
+To standardize the communication of these classifications, the GHS system uses specific visual and text indicators on labels and Safety Data Sheets (SDS)
+
+### **Pictograms** {-}
+
+These are red diamonds with black symbols on a white background:
+
+*   **Flame:** Flammables, Pyrophorics, Self-Heating
+*   **Flame over Circle:** Oxidizers
+*   **Corrosion:** (Test tubes pouring liquid on a hand and metal) Corrosives to metal or skin
+*   **Skull and Crossbones:** Acute Toxicity (fatal or toxic)
+*   **Health Hazard:** (Silhouette of a person with a starburst on the chest) Carcinogen, Mutagen, Reproductive Toxin, Respiratory Sensitizer, Aspiration Hazard
+*   **Exclamation Mark:** Irritant, Skin Sensitizer, Acute Toxicity (harmful), Narcotic effects
+*   **Gas Cylinder:** Gases under pressure
+*   **Exploding Bomb:** Explosives, Self-Reactives
+*   **Environment:** (Dead fish and tree) Aquatic toxicity (non-mandatory by OSHA)
+
+### **Signal Words** {-}
+
+Labels must carry one of two signal words to indicate the relative severity of the hazard:
+
+*   **DANGER:** Used for more severe hazards (e.g., "Danger: May cause cancer," "Danger: Highly Flammable")
+*   **WARNING:** Used for less severe hazards (e.g., "Warning: Causes skin irritation")
+
+## **Storage Principles Based on Classification** {-}
+
+Classification dictates storage compatibility. Mixing incompatible classes leads to catastrophic reactions
+
+*   **Segregation:** Do not store chemicals alphabetically. Store them by hazard class
+*   **Separation**
+    *   Acids must be separated from Bases
+    *   Oxidizers must be separated from Flammables
+    *   Water-reactive chemicals must be kept away from sinks and aqueous solutions
+*   **Flammable Cabinets:** Flammables (Flash point < 100°F) must be stored in approved metal safety cabinets designed to delay the internal temperature rise during a fire

@@ -1,0 +1,59 @@
+# Labeling {-}
+
+While compressed gases are often categorized under physical hazards, their management in the laboratory is strictly regulated due to the dual nature of the threat: the **chemical hazard** of the contents (flammability, toxicity, corrosivity) and the **physical hazard** of the container (extreme pressure). In a clinical laboratory, gases such as Carbon Dioxide (for incubators), Nitrogen (for freezing/drying), and Oxygen are common. The absolute cornerstone of gas safety is positive identification. A cylinder that cannot be identified with 100% certainty is a potential bomb or poison delivery system and must never be used
+
+## **The Primary Identification: The Written Label** {-}
+
+The only legally recognized and safe method for identifying the contents of a compressed gas cylinder is the **manufacturer's applied label or stencil** located on the shoulder (the sloping top part) or the side of the cylinder. Laboratory personnel must adhere to the rule: **"Read the label, not the cylinder."**
+
+*   **Mandatory Information:** Under OSHA’s Hazard Communication Standard (HCS) and Department of Transportation (DOT) regulations, the label must contain:
+    *   **Product Name:** The full chemical name (e.g., "Carbon Dioxide, USP")
+    *   **Concentration:** If the cylinder contains a gas mixture (common in blood gas analyzer calibration gases), the label must list the specific percentage of each component
+    *   **Signal Word:** "DANGER" or "WARNING" indicating the severity of the hazard
+    *   **Hazard Statements:** Descriptions of the risks (e.g., "Contains gas under pressure; may explode if heated," "May cause or intensify fire; oxidizer")
+    *   **Precautionary Statements:** Instructions on storage and handling
+    *   **UN Number:** The four-digit United Nations identification number (e.g., UN 1013 for Carbon Dioxide) used by emergency responders
+
+## **The Color Coding Trap** {-}
+
+A critical safety concept for laboratory scientists is the **fallacy of color coding**. While the medical industry (under USP guidelines) generally follows a color convention (e.g., Green for Oxygen, Gray for Carbon Dioxide, Black for Nitrogen), these color codes are **not mandated by law** for all industrial or laboratory gases
+
+*   **The Hazard:** A cylinder painted green may contain Oxygen in a hospital setting, but in an industrial setting, a green cylinder could contain Argon or another inert gas. Furthermore, cylinder caps are interchangeable; a green cap from an oxygen tank could easily be screwed onto a gray CO2 tank
+*   **The Protocol:** Never rely on the color of the tank, the color of the shoulder, or the color of the cap to identify the gas. If the written label is missing or illegible, the color is irrelevant
+
+## **Department of Transportation (DOT) Hazard Diamonds** {-}
+
+In addition to text, cylinders feature diamond-shaped pictograms that provide an immediate visual cue regarding the chemical nature of the gas. These are essential for determining storage segregation (e.g., keeping flammable gases away from oxidizers)
+
+*   **Green Diamond (Non-Flammable Gas):** Indicates a gas that does not burn and is not poisonous, though it may be an asphyxiant (displacing oxygen)
+    *   *Examples:* Nitrogen, Helium, Argon, Carbon Dioxide
+    *   *Symbol:* A gas cylinder icon
+*   **Red Diamond (Flammable Gas):** Indicates a gas that will burn or explode if mixed with air and an ignition source
+    *   *Examples:* Hydrogen, Propane, Acetylene (often found in atomic absorption spectroscopy)
+    *   *Symbol:* A flame icon
+*   **Yellow Diamond (Oxidizer):** Indicates a gas that does not burn itself but will vigorously accelerate the combustion of other materials. **Crucial Safety Rule** These must be stored at least 20 feet away from Red Diamond cylinders
+    *   *Examples:* Oxygen, Nitrous Oxide
+    *   *Symbol:* A flame over a circle ("O")
+*   **White Diamond (Poison/Toxic):** Indicates a gas that poses an immediate health threat upon inhalation
+    *   *Examples:* Carbon Monoxide (rare in clinical labs, but possible in research)
+    *   *Symbol:* Skull and crossbones
+
+## **Operational Status Labeling (The "Toe Tag")** {-}
+
+Beyond the identity of the gas, laboratory staff must track the **volume status** of the cylinder to prevent hooking up an empty tank to a critical instrument (like an anaerobic chamber or incubator) or returning a full tank to the vendor
+
+*   **The Three-Part Tag:** Most cylinders are delivered with a perforated paper tag attached to the valve stem. This tag has three tear-off sections:
+    1.  **FULL:** The tag remains intact when the cylinder is new
+    2.  **IN USE:** Once connected to a regulator or instrument, the "Full" tab is torn off, leaving the "In Use" section visible
+    3.  **EMPTY:** When the pressure gauge reads zero or the tank is swapped out, the "In Use" tab is torn off, leaving only the "Empty" section
+*   **Chalk Marking:** It is common practice to write "MT" (Empty) in chalk on the side of a depleted cylinder to alert logistics staff, as paper tags can sometimes be ripped off accidentally
+
+## **Protocol for Unidentified Cylinders** {-}
+
+If a laboratory scientist encounters a cylinder where the label is missing, illegible, or conflicts with other markings (e.g., the label says Nitrogen but the stenciling says Helium):
+
+*   **Do Not Use:** Never attempt to guess the contents based on valve shape or tank color
+*   **Do Not "Cracking":** Never open the valve slightly ("cracking") to sniff the gas. This is a dangerous practice that can lead to acute toxicity or flash fires
+*   **Quarantine:** Move the cylinder to a designated isolation area if safe to do so
+*   **Mark:** Label the cylinder clearly with "CONTENTS UNKNOWN - DO NOT USE."
+*   **Return:** Contact the gas supplier immediately for removal. Identifying mystery cylinders is the vendor's responsibility, not the laboratory's

@@ -1,0 +1,27 @@
+# Management {-}
+
+The effective management of chemical safety in the clinical laboratory extends beyond individual work habits; it requires a structured, federally mandated administrative framework. Governed primarily by OSHA's **Occupational Exposure to Hazardous Chemicals in Laboratories standard (29 CFR 1910.1450)**, this management system shifts the focus from simple hazard communication to a comprehensive, performance-based approach. It places the responsibility on the laboratory administration to design, implement, and monitor a safety program that covers the entire lifecycle of a chemical - from procurement to disposal - ensuring that engineering controls, administrative protocols, and emergency documentation are in place to protect laboratory personnel
+
+## **Chemical Hygiene Officer (CHO) & Plan (CHP)** {-}
+
+The CHP is the written "constitution" of laboratory safety, detailing Standard Operating Procedures (SOPs), control measures, and PPE requirements. The CHO is the designated employee responsible for writing, implementing, and annually reviewing this plan to ensure it meets the specific needs of the laboratory facility
+
+## **Safety Data Sheets (SDS)** {-}
+
+Under the GHS, the 16-section SDS is the definitive source for hazard information. Management must ensure these documents are accessible to all employees across all shifts (24/7 access). They provide critical data for emergency response (Section 4), spill cleanup (Section 6), and storage compatibility (Section 10)
+
+## **Storage & Inventory** {-}
+
+Proper management prevents the accumulation of unstable chemicals and accidental fires. This involves strict inventory control (dating chemicals upon receipt and opening) and physical segregation. Chemicals must be stored by **hazard class** (e.g., separating oxidizers from flammables) rather than alphabetically to prevent incompatible reactions
+
+## **Chemical Fume Hood** {-}
+
+This is the primary engineering control used to contain inhalation hazards. Management is responsible for ensuring these devices are certified annually to maintain the correct face velocity (typically 60–100 fpm). Users must be trained to keep sashes low and work at least 6 inches inside the hood to maintain containment
+
+## **Handling & Disposal** {-}
+
+Chemical responsibility is "cradle-to-grave." Management must enforce the segregation of waste streams (e.g., keeping halogenated solvents separate from acids) to prevent dangerous reactions in waste containers. Disposal must comply with EPA regulations regarding Satellite Accumulation Areas and licensed waste removal
+
+## **Chemical Exposure Monitoring** {-}
+
+To validate that engineering controls are working, the laboratory must quantitatively measure employee exposure to high-risk volatile chemicals like **Formaldehyde** and **Xylene**. Results are compared against OSHA’s Permissible Exposure Limits (PEL) and Short-Term Exposure Limits (STEL) to determine if respiratory protection or medical surveillance is required

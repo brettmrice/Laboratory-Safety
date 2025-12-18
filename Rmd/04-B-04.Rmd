@@ -1,0 +1,94 @@
+# Infectious Prions {-}
+
+Among all biological hazards encountered in the clinical laboratory, **prions** (Proteinaceous Infectious Particles) represent a unique and formidable challenge. Unlike bacteria, viruses, or fungi, prions are devoid of nucleic acid (DNA or RNA). They are misfolded proteins ($PrP^{Sc}$) that induce normal proteins ($PrP^C$) in the host to misfold, leading to Transmissible Spongiform Encephalopathies (TSEs). These diseases - including Creutzfeldt-Jakob Disease (CJD), variant CJD (vCJD), Kuru, and Gerstmann-Sträussler-Scheinker syndrome - are universally fatal, untreatable, and progressive. The laboratory safety challenge lies in the fact that prions are exceptionally resistant to standard inactivation methods; they survive boiling, standard autoclaving, alcohol, formalin fixation, and UV radiation
+
+## **Risk Stratification: Tissue Infectivity** {-}
+
+Safety protocols for prions are dictated by the type of tissue being handled. While standard precautions apply to all specimens, prion-specific decontamination is triggered by the tissue's infectivity level. The World Health Organization (WHO) and CDC categorize tissues based on the concentration of prions found in infected patients
+
+*   **High-Infectivity Tissues:** Exposure to these tissues poses the highest risk of transmission. Handling requires strict BSL-2 or BSL-3 containment with prion-specific precautions
+    *   Brain (including dura mater)
+    *   Spinal cord
+    *   Posterior eye (retina, optic nerve)
+    *   Pituitary tissue
+*   **Low-Infectivity Tissues:** Prions have been detected but at lower titers
+    *   Cerebrospinal Fluid (CSF)
+    *   Kidney, Liver, Lung, Lymph nodes, Spleen
+    *   Blood (specifically associated with **variant CJD**, but less so with sporadic CJD)
+*   **No Detectable Infectivity (Current Understanding)**
+    *   Urine, feces, sweat, saliva, tears (though caution is always exercised)
+
+## **General Laboratory Precautions** {-}
+
+When a patient is suspected of having a prion disease (e.g., a "CJD Rule-Out"), the laboratory must implement enhanced protocols immediately. The primary goal is to prevent the contamination of reusable equipment and surfaces
+
+*   **Disposable Equipment:** Whenever possible, use disposable plasticware (pipettes, tubes, spatulas). Prions bind tightly to stainless steel and plastic, making decontamination of reusable items difficult. Anything that touches high-infectivity tissue should be incinerated
+*   **Containment:** Work with high-infectivity tissues must be performed in a dedicated area, ideally within a certified Biosafety Cabinet (BSC). The work surface should be covered with disposable, impermeable absorbent pads. If a spill occurs, the pad can be folded and incinerated, preventing the agent from reaching the stainless steel surface of the BSC
+*   **Personal Protective Equipment (PPE)**
+    *   **Gloves:** Double gloving is mandatory. Prions are not absorbed through intact skin, but the risk of micro-abrasions necessitates extra barriers
+    *   **Face Protection:** A full-face shield or visor is required to prevent splashes to the mucous membranes (eyes/mouth), which are a known route of entry
+    *   **Gowns:** Fluid-resistant, disposable gowns with a solid front
+
+## **Decontamination Protocols** {-}
+
+This is the most critical aspect of prion safety. **Standard laboratory disinfection (70% ethanol, quaternary ammoniums, Lysol) and standard sterilization (autoclaving at 121°C for 15 minutes) are INEFFECTIVE against prions.** In fact, fixation with alcohol or formalin can stabilize the prion protein, making it *harder* to inactivate
+
+To render prions non-infectious, laboratory scientists must use rigorous chemical or physical methods, often in combination
+
+### **Chemical Decontamination** {-}
+
+Two chemicals are recognized for prion inactivation on surfaces and instruments:
+
+*   **Sodium Hydroxide (NaOH)**
+    *   **Concentration:** 1N NaOH (40 g/L) or 2N NaOH
+    *   **Contact Time:** 1 hour at room temperature
+*   **Sodium Hypochlorite (Bleach)**
+    *   **Concentration:** 20,000 ppm available chlorine (approx. 2% free chlorine). This is vastly stronger than the standard 10% household bleach solution used for viruses
+    *   **Contact Time:** 1 hour at room temperature
+    *   *Note: Bleach is corrosive to stainless steel and should be rinsed thoroughly after the contact time*
+
+### **Physical Decontamination (Autoclaving)** {-}
+
+If heat is used, it must be significantly more intense than standard cycles:
+
+*   **Gravity Displacement Autoclave:** 132°C (270°F) for **1 hour**
+*   **Porous Load (Vacuum) Autoclave:** 134°C (273°F) for **18 minutes** (Note: many protocols recommend 1 hour to be safe)
+
+### **The "Gold Standard" Combined Method** {-}
+
+For contaminated instruments or waste, the most effective protocol is:
+
+1.  Immerse in 1N NaOH for 1 hour
+2.  Remove and rinse with water
+3.  Autoclave at 121°C for 1 hour (gravity) or 134°C for 1 hour
+
+## **Department-Specific Considerations** {-}
+
+### **Anatomic Pathology (Histology)** {-}
+
+The Histology laboratory faces the highest risk because they manipulate fresh brain tissue
+
+*   **Fixation:** Formalin does **not** inactivate prions. Tissues from suspected CJD cases must be treated with **Formic Acid** (96-100%) for 1 hour *after* formalin fixation and *before* processing. This step reduces infectivity and makes the tissue safer to cut
+*   **Microtomy:** Cutting paraffin blocks creates debris. If the tissue was not treated with formic acid, the microtome and blades are contaminated. Disposable blades must be used. The microtome must be decontaminated with 2N NaOH or bleach (despite the corrosion risk)
+*   **Waste:** All trimmings and scraps must be collected for incineration
+
+### **Clinical Pathology (Chemistry & Microbiology)** {-}
+
+*   **CSF Analysis:** Cerebrospinal fluid is a common specimen for CJD investigation (e.g., RT-QuIC or 14-3-3 protein tests). While CSF has lower infectivity than brain tissue, it is handled with strict precautions
+*   **Automated Analyzers:** Running CJD-positive CSF through massive automated chemistry analyzers poses a decontamination dilemma. Many laboratories utilize a dedicated point-of-care device or manual methods for these samples to avoid contaminating the main line. If the main analyzer is used, the waste stream and sample probe must be managed according to manufacturer guidelines for high-risk pathogens, though complete decontamination of internal fluidics is virtually impossible
+*   **Centrifugation:** Use sealed safety cups. If a tube breaks, the bucket must be decontaminated with NaOH or undiluted bleach
+
+## **Exposure Management** {-}
+
+There is no post-exposure prophylaxis (vaccine or medication) for prion exposure. Prevention is the only cure
+
+*   **Percutaneous Exposure (Needlestick/Cut):** Gently encourage bleeding. Wash with warm soapy water. **Do not** scrub distinctively or use abrasive materials, as this may compromise the skin barrier further. **Do not** use bleach or NaOH on human skin
+*   **Mucous Membrane Exposure:** Flush with saline or water for 15 minutes
+*   **Reporting:** All incidents must be reported to Occupational Health immediately for documentation, although clinical monitoring is the only follow-up available
+
+## **Waste Disposal** {-}
+
+Biohazard waste generated from CJD patients cannot be treated with the standard hospital waste stream (which is often just autoclaved at 121°C)
+
+*   **Incineration:** This is the only guaranteed method of disposal. All dry waste (gloves, gowns, plasticware) and sharps associated with prion specimens must be segregated into boxes labeled for **Medical Pathological Waste (Incineration Only)**
+*   **Liquid Waste:** Liquids (like unused CSF) should be mixed with 1N NaOH or concentrated bleach (1:1 ratio) for 1 hour before being neutralized and flushed, or solidified and sent for incineration

@@ -1,0 +1,87 @@
+# Chemical Labeling & GHS {-}
+
+The foundation of chemical safety in the clinical laboratory is the ability to instantly identify the contents of a container and the specific hazards associated with it. In 2012, OSHA updated its Hazard Communication Standard (HCS) (29 CFR 1910.1200) to align with the United Nations' **Globally Harmonized System of Classification and Labeling of Chemicals (GHS)**. This shift moved the industry from a "Right to Know" standard (knowing a chemical is present) to a "Right to Understand" standard (standardized labels and data sheets that provide consistent information regardless of the manufacturer or country of origin)
+
+## **The Six Elements of a GHS Label** {-}
+
+Under GHS, every primary container received from a manufacturer or supplier must carry a label containing six specific standardized elements. Laboratory scientists must verify these elements are legible upon receipt of the chemical
+
+1.  **Product Identifier:** This is the name of the chemical (e.g., "Formaldehyde," "Hydrochloric Acid") or the code number that matches the associated Safety Data Sheet (SDS)
+2.  **Signal Word:** A single word used to indicate the relative level of severity of the hazard. There are only two authorized signal words:
+    *   **DANGER:** Used for more severe hazards
+    *   **WARNING:** Used for less severe hazards
+    *   *Note:* If a chemical has both severe and less severe hazards, only "DANGER" will appear
+3.  **Hazard Statements:** Standardized phrases that describe the nature of the hazard and the degree of risk. These are consistent across all manufacturers
+    *   *Example:* "Highly flammable liquid and vapor."
+    *   *Example:* "Causes severe skin burns and eye damage."
+4.  **Precautionary Statements:** Standardized phrases that describe recommended measures to minimize or prevent adverse effects resulting from exposure, improper storage, or handling
+    *   *Example:* "Keep away from heat/sparks/open flames."
+    *   *Example:* "Wear protective gloves/protective clothing/eye protection."
+5.  **Supplier Identification:** The name, address, and telephone number of the manufacturer, importer, or other responsible party
+6.  **Pictograms:** Graphic symbols surrounded by a red diamond border intended to convey specific hazard information visually
+
+## **GHS Pictograms** {-}
+
+There are nine standardized pictograms. The clinical laboratory scientist must be able to identify the meaning of each symbol instantly
+
+*   **Health Hazard (Silhouette of a person with a starburst on the chest):** Indicates chronic or serious health effects. Used for Carcinogens, Mutagens, Reproductive Toxicity, Respiratory Sensitizers, and Specific Target Organ Toxicity (STOT)
+*   **Flame (Fire):** Flammables, Pyrophorics, Self-Heating chemicals, and Organic Peroxides
+*   **Exclamation Mark:** Indicates acute toxicity (harmful/irritant level), Skin/Eye Irritant, Skin Sensitizer, or Narcotic Effects. It effectively replaces the old St. Andrew's Cross (X)
+*   **Gas Cylinder:** Gases under pressure. Indicates a risk of explosion if heated or a projectile hazard if the valve is sheared
+*   **Corrosion (Test tubes pouring liquid onto a hand and a metal bar):** Skin Corrosion/Burns, Eye Damage, and Corrosive to Metals
+*   **Exploding Bomb:** Explosives, Self-Reactives, and Organic Peroxides
+*   **Flame Over Circle:** Oxidizers. These chemicals provide oxygen to a fire, making it burn hotter and faster. *Distinction:* The "O" in the symbol stands for Oxygen/Oxidizer
+*   **Skull and Crossbones:** Acute Toxicity (fatal or toxic). This indicates immediate danger upon exposure (poison)
+*   **Environment (Dead tree and fish):** Aquatic toxicity. *Note:* Since OSHA regulates workplace safety, not environmental outcomes, this pictogram is technically non-mandatory under OSHA HCS, but is almost always present on manufacturer labels
+
+## **Secondary Container Labeling** {-}
+
+A "Secondary Container" is any vessel (beaker, flask, spray bottle, working jar) into which a chemical is transferred from the original manufacturer's bottle
+
+*   **The "Immediate Use" Exemption:** A secondary container does **not** require a label if, and only if:
+    1.  The chemical is transferred by the employee who will use it
+    2.  The chemical is used in its entirety during that same work shift
+    3.  The container never leaves the possession of that employee
+*   **Workplace Labeling Requirement:** If the chemical is to be stored, used by another person, or left unattended, it must be labeled. The label must include:
+    *   The Product Identifier (Name)
+    *   Words, pictures, symbols, or a combination thereof, which provide specific information regarding the physical and health hazards of the chemical
+*   **Best Practice:** Many laboratories use labels that mimic the GHS format or use the HMIS (Hazardous Materials Identification System) paint-stripe stickers, provided all employees are trained on the system
+
+## **Safety Data Sheets (SDS)** {-}
+
+Formerly known as Material Safety Data Sheets (MSDS), the SDS is the primary source of detailed information. Under GHS, the SDS has been standardized into a strict **16-section format**. Laboratory management must ensure SDSs are readily accessible to employees during all work shifts (e.g., physical binders or e-SDS stations)
+
+**Key Sections for the Laboratory Scientist**
+
+*   **Section 1 (Identification):** Product name and emergency contact info
+*   **Section 2 (Hazard Identification):** Includes the GHS classification, signal word, and pictograms
+*   **Section 4 (First-Aid Measures):** Vital for immediate response. Tells you whether to induce vomiting (rarely) or flush with water
+*   **Section 6 (Accidental Release Measures):** Instructions for spills, including emergency procedures and required materials (e.g., "Use non-sparking tools")
+*   **Section 8 (Exposure Controls/PPE):** Lists OSHA Permissible Exposure Limits (PELs) and the specific type of PPE required (e.g., "Wear nitrile gloves," "Use splash goggles")
+*   **Section 10 (Stability and Reactivity):** Lists incompatible materials (e.g., "Do not mix with ammonia")
+
+## **NFPA 704 Diamond vs. GHS: The "Numbering Conflict"** {-}
+
+The National Fire Protection Association (NFPA) 704 diamond (the "Fire Diamond") is often found on laboratory doors or bulk storage tanks. It is designed for emergency responders (firefighters), not for daily chemical handling. A critical safety issue arises because **NFPA and GHS use opposite numbering systems**
+
+*   **The Systems**
+    *   **GHS (Global/OSHA):** 1 = Most Severe Hazard; 4 = Least Severe Hazard
+    *   **NFPA (Fire Diamond):** 4 = Most Severe Hazard; 0 = Minimal Hazard
+*   **The Conflict:** If a laboratory scientist sees a "1" on a GHS label, it means the chemical is extremely dangerous. If they see a "1" on an NFPA door sign, it means the hazard is minor
+*   **The NFPA Colors**
+    *   **Blue (Left):** Health Hazard
+    *   **Red (Top):** Flammability
+    *   **Yellow (Right):** Instability/Reactivity
+    *   **White (Bottom):** Special Hazards (e.g., **OX** for Oxidizer, **W** with a line through it for Water Reactive, **SA** for Simple Asphyxiant)
+
+## **DOT Placards** {-}
+
+While GHS covers workplace labeling, the Department of Transportation (DOT) regulates chemicals during transit. When receiving shipments on the loading dock, laboratory staff will see diamond-shaped placards
+
+*   **Relation to Lab Safety:** If a package arrives with a DOT diamond (e.g., "Corrosive Class 8"), the package must be inspected for leaks immediately upon receipt while wearing appropriate PPE. The DOT diamond provides the initial warning before the box is even opened to reveal the GHS label
+*   **Classes**
+    *   Class 3: Flammable Liquids
+    *   Class 6: Toxic/Infectious Substances
+    *   Class 7: Radioactive Material
+    *   Class 8: Corrosives
+

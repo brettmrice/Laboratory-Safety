@@ -1,0 +1,67 @@
+# Biosafety Levels {-}
+
+The foundation of laboratory safety protocols is the classification system known as Biosafety Levels (BSLs). Established by the Centers for Disease Control and Prevention (CDC) and the National Institutes of Health (NIH) in the publication *Biosafety in Microbiological and Biomedical Laboratories* (BMBL), this system consists of four ascending levels of containment. Each level consists of a specific combination of laboratory practices and techniques, safety equipment (primary barriers), and laboratory facilities (secondary barriers). The assignment of a BSL to a specific laboratory is driven by the Risk Assessment of the agents being manipulated and the procedures being performed
+
+## **Biosafety Level 1 (BSL-1)** {-}
+
+BSL-1 is the basic level of containment involving well-characterized agents not known to cause disease in consistently healthy adults. These agents present minimal potential hazard to laboratory personnel and the environment. This level is typical of high school or undergraduate teaching laboratories, or water-testing facilities. It is rarely the designation for a clinical diagnostic laboratory
+
+*   **Agents:** Examples include *Bacillus subtilis*, *Naegleria gruberi*, infectious canine hepatitis virus, and non-pathogenic strains of *Escherichia coli* (e.g., K-12)
+*   **Practices:** Standard Microbiological Practices are followed. Work is generally performed on an open benchtop. No special containment equipment is required
+*   **Safety Equipment (Primary Barriers):** Special containment devices or equipment (like a BSC) are not generally required. Protective clothing (lab coats, gloves) is recommended but not always mandatory depending on the institution's policy
+*   **Facilities (Secondary Barriers):** A sink for handwashing must be available. The lab should have doors to separate the work area from the rest of the facility, and benches should be impervious to water and easy to clean
+
+## **Biosafety Level 2 (BSL-2)** {-}
+
+This is the standard containment level for the vast majority of **Clinical Microbiology, Hematology, and Chemistry laboratories**. It is suitable for work involving agents that pose moderate hazards to personnel and the environment. The primary routes of exposure at this level are percutaneous injury, ingestion, and mucous membrane exposure. Importantly, at BSL-2, routine work with clinical specimens can be done safely on the open bench, *provided* aerosol-generating procedures are contained
+
+*   **Agents:** Indigenous moderate-risk agents that are associated with human disease of varying severity. Examples include *Staphylococcus aureus*, *Salmonella* spp., Hepatitis B Virus (HBV), HIV, and Influenza A
+*   **Practices**
+    *   Access to the laboratory is restricted when work is in progress
+    *   Biohazard warning signs are posted at the entrance
+    *   "Sharps" precautions are strictly implemented (no recapping)
+    *   A biosafety manual is prepared and adopted
+    *   Personnel receive specific training in handling pathogenic agents and are directed by laboratory scientists with advanced experience
+*   **Safety Equipment (Primary Barriers)**
+    *   **Class II Biological Safety Cabinets (BSCs):** (or other physical containment devices) must be used whenever procedures with a high potential for creating infectious aerosols or splashes are conducted. This includes centrifuging, grinding, blending, vigorous shaking or mixing, sonicating, and opening containers of infectious materials
+    *   **PPE:** Laboratory coats, gowns, smocks, and gloves are worn. Face protection (goggles/mask or face shield) is used when working outside the BSC if splashes are anticipated
+*   **Facilities (Secondary Barriers)**
+    *   An autoclave or an alternative method for decontamination is available for proper waste disposal
+    *   An eyewash station must be readily available
+    *   Laboratory doors should be self-closing and have locks
+
+## **Biosafety Level 3 (BSL-3)** {-}
+
+BSL-3 is applicable to clinical, diagnostic, teaching, research, or production facilities where work is done with indigenous or exotic agents that may cause serious or potentially lethal disease through the **inhalation route** of exposure. In a hospital setting, this is typically the designated "Mycology/TB Room" or a specialized Virology suite. At this level, the protection of the environment and the community becomes a major priority alongside worker safety
+
+*   **Agents:** Pathogens with a known potential for aerosol transmission and severe respiratory disease. Examples include *Mycobacterium tuberculosis*, *Francisella tularensis*, *Brucella* spp., *Coccidioides immitis*, and SARS-CoV-2 (for viral culture)
+*   **Practices**
+    *   Strictly controlled access (often via card key)
+    *   Medical surveillance of staff (e.g., routine TB skin testing or serum banking)
+    *   Personnel must demonstrate proficiency in standard and special microbiological practices
+*   **Safety Equipment (Primary Barriers)**
+    *   **No open bench work:** is permitted for open vessels. All manipulation of infectious materials must be conducted within a Class II or Class III BSC
+    *   **PPE:** Respiratory protection (N95 respirators or Powered Air Purifying Respirators - PAPRs) is typically required. Solid-front wrap-around gowns are used to prevent contact with street clothes
+*   **Facilities (Secondary Barriers)**
+    *   **Directional Airflow:** The laboratory must be under negative pressure relative to the hallway (air flows *in*, never *out*)
+    *   **Single-Pass Air:** Exhaust air is not recirculated to any other area of the building. It is exhausted directly outdoors, often through HEPA filtration
+    *   **Anteroom:** A physical separation (two sets of self-closing doors) usually exists between the access corridor and the lab
+    *   Hands-free sink required near the exit
+
+## **Biosafety Level 4 (BSL-4)** {-}
+
+BSL-4 is required for work with dangerous and exotic agents that pose a high individual risk of aerosol-transmitted laboratory infections and life-threatening disease that is frequently fatal, for which there are no vaccines or treatments. This level is generally not found in clinical hospitals but rather in specialized reference or government centers (e.g., CDC, USAMRIID)
+
+*   **Agents:** Ebola virus, Marburg virus, Lassa fever virus, Variola major (Smallpox)
+*   **Practices:** Complete isolation of the worker from the pathogen. Personnel enter via a clothing change room (street clothes off, lab scrubs on) and exit via a chemical shower
+*   **Safety Equipment (Primary Barriers)**
+    *   All work is done in a Class III BSC (glove box) OR
+    *   Work is done in a Class II BSC while the worker wears a full-body, air-supplied, positive-pressure personnel suit ("Space Suit")
+*   **Facilities (Secondary Barriers):** The facility is either in a separate building or a completely isolated zone within a building. It has dedicated supply and exhaust air, vacuum lines, and decontamination systems. Walls, floors, and ceilings are sealed to be gas-tight for fumigation
+
+## **Summary of Distinctions** {-}
+
+When differentiating levels for certification exams or daily practice, focus on the mode of transmission and the airflow requirements:
+
+*   **BSL-1 vs. BSL-2:** The transition involves moving from non-pathogens to human pathogens. The key addition is the **BSC** for aerosol procedures and **restricted access**
+*   **BSL-2 vs. BSL-3:** The transition involves moving from contact/bloodborne risks to **inhalation/airborne** risks. The key additions are **Negative Pressure** (directional airflow) and **Respiratory Protection**

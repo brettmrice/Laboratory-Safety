@@ -1,0 +1,100 @@
+# Safe Work Practices {-}
+
+Standard Work Practices (SWP) represent the "administrative controls" within the hierarchy of safety. While engineering controls (like fume hoods) and Personal Protective Equipment (PPE) provide physical barriers, SWPs dictate the human behavior required to maintain a safe environment. These practices are universal precautions designed to break the chain of infection and prevent chemical exposure during routine operations. In a clinical laboratory, adherence to these practices is not merely a recommendation; it is a mandatory condition of employment enforced by OSHA, CAP, and The Joint Commission
+
+## **Personal Hygiene & Conduct** {-}
+
+The primary goal of personal hygiene restrictions is to prevent the ingestion of hazardous materials and to minimize the transfer of pathogens from the laboratory to the public or the employee's home
+
+### **The "Clean to Dirty" Separation** {-}
+
+*   **Designated Areas:** The laboratory is strictly divided into "Technical Areas" (where biohazards/chemicals are present) and "Clean Areas" (break rooms, offices, lockers)
+*   **Prohibited Activities in Technical Areas**
+    *   **Eating and Drinking:** Consumption of food or beverages is strictly prohibited. This includes gum chewing and sucking on mints
+    *   **Storage:** Food and drink must never be stored in laboratory refrigerators, freezers, or on countertops where specimens are processed
+    *   **Cosmetics:** Applying makeup, lip balm, or adjusting contact lenses is forbidden. These actions bring fingers (potentially contaminated) to the mucous membranes of the eyes and mouth
+    *   **Smoking/Vaping:** Prohibited to prevent hand-to-mouth contamination and fire hazards
+
+### **Personal Appearance & Attire** {-}
+
+*   **Hair:** Long hair must be tied back and secured. Loose hair poses a risk of catching fire in Bunsen burners, dragging across specimen trays, or getting entangled in rotating machinery (centrifuges)
+*   **Jewelry:** Dangling jewelry (necklaces, bracelets, large earrings) is prohibited as it can catch on equipment or dip into infectious fluids. Rings can trap chemicals or pathogens against the skin and tear gloves
+*   **Footwear:** Shoes must be fully enclosed (covering the entire foot), made of non-porous material (leather or synthetic leather, not canvas/mesh), and have non-slip soles. Sandals, open-toed shoes, and Crocs with holes are strictly prohibited
+
+## **Hand Hygiene Practices** {-}
+
+Hand washing is universally recognized as the single most effective measure to prevent the spread of infection. In the laboratory, it serves a dual purpose: protecting the worker from the specimen and protecting the specimen from the worker
+
+### **When to Wash** {-}
+
+*   **Immediate:** Immediately after accidental skin contact with blood, body fluids, or chemicals
+*   **Glove Removal:** Immediately after removing gloves. Gloves are not 100% impermeable; micro-tears can allow contamination. The warm, moist environment inside a glove promotes bacterial proliferation
+*   **Exit:** Before leaving the technical work area for any reason (going to the breakroom, restroom, or home)
+*   **Pre-Task:** Before starting work to prevent contaminating sterile media or clean equipment
+
+### **The Method** {-}
+
+*   **Soap and Water:** The gold standard. Vigorous rubbing for at least 20 seconds is required to mechanically remove soil and transient flora
+*   **Alcohol-Based Hand Rubs (Sanitizers):** Acceptable only if hands are not visibly soiled
+    *   *Limitations:* Alcohol sanitizers are **not effective:** against bacterial spores (such as *Clostridioides difficile* or *Bacillus anthracis*). If working in Microbiology with suspected spore-formers, soap and water must be used
+
+## **PPE Etiquette & Usage** {-}
+
+Possessing PPE is useless if used incorrectly. Standard work practices define *how* the equipment is worn and maintained
+
+### **Lab Coats & Gowns** {-}
+
+*   **Proper Wear:** Coats must be buttoned or snapped completely. An unbuttoned lab coat offers no protection to the torso and allows loose fabric to dangle into workspaces
+*   **Sleeves:** Cuffs should be knit or fitted to prevent dragging. Sleeves should never be rolled up, as this exposes the arms to splashes
+*   **Removal:** Lab coats must be removed before leaving the technical area. They must never be worn into the cafeteria, bathroom, or administrative offices
+*   **Laundering:** Employees are prohibited from taking soiled lab coats home to wash. Laundry must be handled by the facility or a professional service to prevent home contamination
+
+### **Gloves** {-}
+
+*   **Touch Contamination:** This is a common violation. Technicians must not touch "clean" surfaces while wearing "dirty" gloves. This includes:
+    *   Door handles
+    *   Telephones and computer keyboards (unless dedicated to the dirty bench)
+    *   Face, hair, or glasses
+    *   Personal mobile phones
+*   **Integrity:** Change gloves immediately if they become torn or heavily soiled
+*   **Do Not Reuse:** Disposable gloves are single-use items. They cannot be washed or sanitized for reuse
+
+## **Housekeeping & Work Environment** {-}
+
+A disorganized laboratory is an unsafe laboratory. Clutter restricts movement, blocks airflow, and increases the likelihood of spills
+
+### **Surface Decontamination** {-}
+
+*   **Routine:** Work surfaces must be disinfected with an appropriate agent (e.g., 10% bleach or a phenolic disinfectant) at the beginning and end of every shift
+*   **Post-Spill:** Surfaces must be cleaned immediately upon visible contamination
+*   **Dwell Time:** Technicians must observe the "wet contact time" required by the disinfectant manufacturer (often 3 to 10 minutes) to ensure pathogen destruction. Simply spraying and immediately wiping is often ineffective
+
+### **Clutter & Egress** {-}
+
+*   **Aisles:** Walkways must be kept clear of boxes, carts, and equipment to allow for rapid evacuation during a fire
+*   **Bench Tops:** Keep usage areas clear. Do not stockpile unnecessary supplies
+*   **Safety Equipment Access:** Never block access to eyewash stations, safety showers, fire extinguishers, or electrical panels. The "3-foot rule" (maintaining a 3-foot clearance zone) generally applies
+
+## **Sharps & Glassware Safety** {-}
+
+Sharps injuries are the primary route of transmission for bloodborne pathogens like HIV, Hepatitis B, and Hepatitis C
+
+### **Needle Safety** {-}
+
+*   **No Recapping:** The practice of recapping needles is strictly prohibited unless a medical procedure specifically requires it and no alternative exists. If recapping is absolutely necessary, a mechanical device or the **one-handed scoop technique** must be used
+*   **Activation:** Safety devices on needles (sheaths, retractors) must be activated immediately after use
+*   **Disposal:** Sharps must be placed in a rigid, puncture-resistant, leak-proof container immediately. Do not walk across the lab with an exposed needle to find a bin
+
+### **Broken Glass** {-}
+
+*   **Mechanical Cleanup:** Broken glassware must **never** be picked up with hands, even if wearing gloves
+*   **Tools:** Use a brush and dustpan, tongs, or forceps
+*   **Disposal:** Broken glass (contaminated or clean) goes into a rigid "Sharps" or "Broken Glass" box, never the soft trash bag where it could injure custodial staff
+
+## **Ergonomics** {-}
+
+Safe work practices also include preventing musculoskeletal disorders (MSDs) caused by repetitive tasks common in the lab
+
+*   **Pipetting:** Use light-touch pipettes. Alternate hands if possible. Keep the wrist in a neutral position (not flexed)
+*   **Microscopy:** Adjust the chair height so feet are flat on the floor. Adjust the eyepieces to prevent neck strain. Take frequent "micro-breaks" to stretch
+*   **Standing:** Use anti-fatigue mats at standing workstations (e.g., in Histology or Hematology) to reduce strain on the back and legs

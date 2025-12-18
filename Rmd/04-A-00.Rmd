@@ -1,0 +1,23 @@
+# (PART\*) Biohazard Control {-}
+
+# Infection Control {-}
+
+Infection control in the clinical laboratory is a disciplined approach to preventing the transmission of infectious agents to laboratory personnel, the community, and the environment. Unlike clinical care settings where the focus is on patient-to-patient transmission, the laboratory focuses on preventing Laboratory Acquired Infections (LAIs) caused by the manipulation of concentrated pathogens. This safety framework is built upon three pillars: rigorous **Risk Assessment**, disciplined **Specimen Handling**, and the use of engineering controls like **Biosafety Cabinets**
+
+##   **Risk Assessment** {-}
+
+This is the foundation of biosafety. It is a systematic process where the laboratory scientist evaluates the *intrinsic hazards* of the agent (infectious dose, route of transmission, severity of disease) and the *procedural hazards* (aerosol generation, use of sharps). This assessment determines the appropriate Biosafety Level (BSL-2 or BSL-3) and PPE requirements for the task
+
+##  **Specimen Handling & Standard Precautions** {-}
+
+Because any specimen could harbor a lethal pathogen (e.g., HIV, Hepatitis B, or *N. meningitidis*), all blood and body fluids are treated as if infectious
+
+*   **Aerosol Control:** The primary hidden danger is the generation of infectious aerosols during centrifugation, vortexing, or pipetting. Use of safety cups and careful technique is mandatory
+*   **High-Risk Specimens:** Suspected TB, fungal cultures, or positive blood culture bottles require enhanced precautions and must be manipulated strictly within containment devices
+
+##  **Biosafety Cabinets (BSC)** {-}
+
+The Class II BSC is the primary engineering control in Microbiology. It uses HEPA-filtered laminar airflow to protect the **user** (from infection), the **product** (from contamination), and the **environment**
+
+*   **Operation:** Users must follow strict protocols ("clean to dirty" workflow, no rapid movements) to maintain the fragile air curtain
+*   **Limitations:** A BSC is not a fume hood; unless it is a Type B2 (total exhaust) unit, it cannot be used with volatile toxic chemicals. It must be certified annually to ensure airflow velocities are sufficient to contain biohazards

@@ -1,0 +1,74 @@
+# Universal, Standard, & Transmission-Based Precautions {-}
+
+The philosophy of infection control in the United States has evolved significantly over the last forty years, moving from isolation based on diagnosis to a preventive model based on the assumption of risk. For the laboratory scientist, understanding the distinction between these protocols is vital. While "Universal Precautions" is a term still used colloquially, the actual operational standard in the modern clinical laboratory is **Standard Precautions**. These protocols are designed to break the "Chain of Infection" at the portal of exit and the portal of entry
+
+## **Universal Precautions (The Historical Foundation)** {-}
+
+Introduced by the CDC in the mid-1980s in response to the HIV/AIDS epidemic, Universal Precautions represented a paradigm shift. Prior to this, safety measures were "diagnosis-driven," meaning precautions were only taken if a patient was known to be infected. The emergence of HIV, a pathogen with a long asymptomatic latency period, rendered diagnosis-driven safety dangerous and obsolete
+
+*   **The Core Concept:** All human blood and certain human body fluids are treated as if known to be infectious for HIV, HBV, and other bloodborne pathogens
+*   **Scope:** Strictly applied to **blood** and body fluids containing **visible blood**. It also included semen and vaginal secretions, and fluids from sterile sites (CSF, synovial, pleural, pericardial, peritoneal, amniotic)
+*   **Limitation:** Universal Precautions did **not** originally apply to feces, nasal secretions, sputum, sweat, tears, urine, or vomit unless they contained visible blood. This left a gap in protection against pathogens transmitted via these routes (e.g., enteric bacteria in urine/feces or respiratory viruses in sputum)
+
+## **Standard Precautions (The Modern Standard)** {-}
+
+In 1996, the CDC merged Universal Precautions with "Body Substance Isolation" to create **Standard Precautions**. This is the current, non-negotiable safety standard for all healthcare settings, including the clinical laboratory. It operates on the principle that **every patient and every specimen** is a potential source of infection, regardless of the diagnosis or presumed infection status
+
+*   **Expanded Scope:** Unlike Universal Precautions, Standard Precautions apply to:
+    1.  **Blood**
+    2.  **All Body Fluids, Secretions, and Excretions:** (except sweat), regardless of whether they contain visible blood. This covers urine, sputum, and stool
+    3.  **Non-intact skin:** (rashes, cuts, wounds)
+    4.  **Mucous membranes**
+*   **Key Components in the Laboratory**
+    *   **Hand Hygiene:** The single most important measure to prevent the spread of infection. Hands must be washed with soap and water or decontaminated with alcohol-based hand rub:
+        *   After touching blood, body fluids, secretions, excretions, or contaminated items
+        *   Immediately after removing gloves
+        *   Between patient contacts (for phlebotomists)
+    *   **Personal Protective Equipment (PPE):** Gloves are mandatory when touching blood or body fluids. Gowns are required if splashing is anticipated. Masks and eye protection are required if aerosolization or splashes to the face are likely (and not contained by a BSC)
+    *   **Respiratory Hygiene/Cough Etiquette:** Covering the mouth/nose when coughing and performing hand hygiene immediately after. This applies to staff as well as patients
+    *   **Safe Injection Practices:** Prevention of needlestick injuries through engineering controls (safety needles) and work practice controls (no recapping)
+
+## **Transmission-Based Precautions** {-}
+
+Standard Precautions are the baseline. However, certain pathogens are transmissible through routes that standard gloves and gowns cannot fully block (e.g., air currents). When a patient is known or suspected to be infected with these agents, **Transmission-Based Precautions** are implemented *in addition* to Standard Precautions. For the laboratory scientist, these precautions dictate how specimens are collected (phlebotomy) and how they are handled inside the laboratory
+
+### **Contact Precautions** {-}
+
+Designed for agents spread by direct contact with the patient or indirect contact with environmental surfaces (fomites)
+
+*   **Target Agents:** Multi-Drug Resistant Organisms (MDROs) like MRSA and VRE, *Clostridioides difficile* (*C. diff*), Scabies, and highly contagious wound infections
+*   **Phlebotomy/Collection Protocol**
+    *   **Gown and Gloves:** Must be donned *before* entering the room
+    *   **Dedicated Equipment:** Use disposable tourniquets or leave the tourniquet in the room. Do not bring the phlebotomy tray into the room; bring only the supplies needed
+*   **Laboratory Nuance (*C. diff*):** For patients with *C. diff* or *Norovirus*, alcohol-based hand rubs are **ineffective** against the spores/capsids. Hands must be washed vigorously with soap and water to physically remove the pathogens
+
+### **Droplet Precautions** {-}
+
+Designed for pathogens transmitted by large-particle respiratory droplets (**> 5 micrometers**). These droplets are heavy; they do not remain suspended in the air and typically travel only short distances (3 to 6 feet) before falling to surfaces
+
+*   **Target Agents:** *Neisseria meningitidis* (Meningitis), *Bordetella pertussis* (Whooping Cough), Influenza, Mumps, Rubella
+*   **Phlebotomy/Collection Protocol**
+    *   **Surgical Mask:** Must be worn upon entering the room (or within 3-6 feet of the patient). N95 respirators are not required because the particles are too large to penetrate deep into the lungs or bypass a standard mask
+    *   **Eye Protection:** Strongly recommended as droplets can enter via the conjunctiva
+*   **Laboratory Handling:** Specimen processing that may generate droplets (opening tubes, pipetting) should be performed behind a splash shield or inside a Biosafety Cabinet
+
+### **Airborne Precautions** {-}
+
+Designed for pathogens transmitted by small particles (**< 5 micrometers**), also known as "droplet nuclei." These residues remain suspended in the air for long periods and can be dispersed by air currents over long distances
+
+*   **Target Agents:** *Mycobacterium tuberculosis* (TB), Measles (Rubeola), Varicella-Zoster Virus (Chickenpox), and disseminated Herpes Zoster
+*   **Phlebotomy/Collection Protocol**
+    *   **Respiratory Protection:** Personnel must wear a fit-tested **N95 Respirator** or a Powered Air-Purifying Respirator (PAPR) before entering the room. A standard surgical mask provides **no protection** against airborne droplet nuclei
+    *   **Patient Placement:** The patient must be in an Airborne Infection Isolation Room (AIIR) with negative air pressure relative to the corridor
+*   **Laboratory Handling**
+    *   **Strict Containment:** Any manipulation of specimens suspected of containing airborne agents (specifically TB or systemic fungi) must be performed inside a **Class II Biological Safety Cabinet**. Open bench work is strictly prohibited
+    *   **Centrifugation:** Must be done in sealed safety cups. Rotors should be loaded and unloaded inside the BSC
+
+## **Summary of Precautions Hierarchy** {-}
+
+To conceptualize the relationship between these protocols, view them as a pyramid:
+
+*   **Base (Standard Precautions):** Applies to **ALL** patients/specimens. (Hand washing, Gloves, Sharps safety)
+*   **Tier 1 (Contact):** Add Gown + Dedicated Equipment. (For MRSA, *C. diff*)
+*   **Tier 2 (Droplet):** Add Surgical Mask + Eye Shield. (For Flu, Meningitis)
+*   **Tier 3 (Airborne):** Add N95 Respirator + Negative Pressure. (For TB, Measles)

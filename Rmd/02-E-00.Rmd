@@ -1,0 +1,31 @@
+# Radiation {-}
+
+The use of radioactive materials (RAM) in the clinical laboratory is the most strictly regulated safety domain, overseen by the **Nuclear Regulatory Commission (NRC)** or state agencies. Compliance requires a rigid administrative framework ("Cradle-to-Grave" tracking) and disciplined physical handling techniques. The primary goal is to protect personnel and the environment from ionizing radiation using the **ALARA** principle: keeping doses **A**s **L**ow **A**s **R**easonably **A**chievable
+
+## **Licensing, Documentation, & Management** {-}
+
+*   **Licensure:** Laboratories operate under a "Specific License" which dictates exactly which isotopes (e.g., I-125) and activities may be possessed
+*   **The RSO:** The **Radiation Safety Officer** is the legally responsible authority for the program, managing training, audits, and compliance
+*   **Documentation:** Every microcurie must be tracked
+    *   **Receipt:** Packages are wiped-tested for leaks upon arrival
+    *   **Inventory:** Usage logs must be updated daily; physical inventory is taken quarterly
+    *   **Dosimetry:** Staff exposure is monitored using badges (Film/OSL/TLD). Pregnant workers may voluntarily declare pregnancy to receive stricter fetal dose limits
+
+## **Handling & Protection** {-}
+
+Safe handling relies on the three pillars of radiation safety:
+
+1.  **Time:** Minimize the duration of exposure
+2.  **Distance:** Double your distance to reduce exposure by 75% (Inverse Square Law). Use tongs/forceps; never touch vials with fingers
+3.  **Shielding:** Use **Lead** for Gamma emitters (I-125) and **Acrylic/Plastic** for Beta emitters (P-32). *Caution:* Lead can cause dangerous scatter (Bremsstrahlung) with strong Beta sources
+
+**PPE and Work Area**
+
+*   Wear gloves (double-gloving recommended), buttoned lab coats, and dosimeter badges
+*   Work over plastic-backed absorbent paper and inside spill trays to contain accidents
+
+## **Decontamination & Disposal** {-}
+
+*   **Spills:** Alert the area, contain with absorbent pads, and clean from the "outside in" using specialized detergents (Radiacwash). Survey with a Geiger counter to ensure background levels are reached
+*   **Skin:** Wash with mild soap and tepid water; do not scrub or abrade the skin
+*   **Disposal (Decay-in-Storage):** Short-lived isotopes are held for **10 Half-Lives** until radioactivity is negligible. Once surveyed and confirmed as background, labels are defaced, and the material is discarded as regular trash. Mixed waste (radioactive + chemical) and sharps require specialized handling

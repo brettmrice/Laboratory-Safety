@@ -1,0 +1,62 @@
+# Computer Workstations {-}
+
+In the modern clinical laboratory, the computer workstation is as ubiquitous as the microscope. Laboratory Information Systems (LIS), electronic medical records (EMR), and instrument interfaces require laboratory scientists to spend a significant portion of their shift performing data entry and review. Consequently, computer-related ergonomics is a critical component of general laboratory safety. Poor workstation design leads to a constellation of musculoskeletal disorders (MSDs) and vision problems collectively often referred to as "Computer Vision Syndrome" and "Office Syndrome." Optimizing the computer interface involves adjusting the environment to the user, termed **anthropometric fit**
+
+## **The Neutral Body Posture** {-}
+
+The goal of computer ergonomics is to achieve and maintain a **Neutral Body Posture**. This is the position where the joints are naturally aligned, minimizing stress on the muscles, tendons, and skeletal system. Deviation from neutral posture (e.g., twisting the neck, bending the wrists) increases the static load on the body
+
+*   **Head/Neck:** Balanced vertically over the shoulders, not protruding forward ("turtle neck") or twisted to the side
+*   **Shoulders:** Relaxed and low, not hunched up toward the ears
+*   **Elbows:** Close to the body and bent at an angle between 90° and 120° (open angle)
+*   **Wrists:** Straight and in line with the forearm, not bent up (extension) or down (flexion), nor deviated sideways (ulnar/radial deviation)
+*   **Hips/Knees:** Hips flexed at 90-100°, knees flexed at 90°, with feet flat on the floor or a footrest
+*   **Back:** Fully supported by the chair, maintaining the natural "S" curve of the spine
+
+## **Workstation Components & Configuration** {-}
+
+### **The Monitor (Visual Ergonomics)** {-}
+
+Visual strain dictates posture; if a user cannot see well, they will crane their neck (forward head posture), leading to cervical strain
+
+*   **Height:** The top of the monitor screen (not the casing) should be at or slightly below eye level. This allows the user to view the screen with a slight downward gaze (15-20°), which is the natural resting position of the eyes and reduces eyelid opening (minimizing tear evaporation and dry eye)
+    *   *Bifocal/Progressive Lens Wearers:* The monitor should be placed lower, often tilting upward, to allow viewing through the bottom segment of the glasses without tilting the head back (cervical extension)
+*   **Distance:** The monitor should be approximately an arm's length away (20–28 inches). Too close causes convergence fatigue; too far causes leaning
+*   **Centering:** The monitor must be directly in front of the user. Dual-monitor setups (common in labs) require specific placement:
+    *   *Primary/Secondary:* If one screen is used 80% of the time, place it directly in front and the secondary to the side
+    *   *Equal Use:* If both are used equally, center the gap between them in front of the nose to minimize neck rotation range
+*   **Glare:** Position monitors perpendicular to windows to avoid direct sunlight or reflection. Use anti-glare filters if overhead fluorescent lighting is harsh
+
+### **The Input Devices (Keyboard & Mouse)** {-}
+
+The hands are the primary interaction point, making them susceptible to Repetitive Motion Injuries (RMI) like Carpal Tunnel Syndrome
+
+*   **Height & Location:** The keyboard and mouse should be positioned at elbow height. When typing, the forearms should be parallel to the floor. The "G" and "H" keys should be centered with the user's midline
+*   **Wrist Position:** The wrists must "float" while typing. Wrist rests are designed for resting *between* typing bursts, not *during* typing. Anchoring the wrist while reaching for keys compresses the carpal tunnel
+*   **The Mouse:** Place the mouse immediately adjacent to the keyboard. Reaching for a mouse ("mouse reach") forces the arm away from the body, placing significant torque on the shoulder joint (rotator cuff) and trapezius muscle
+*   **Alternative Devices:** Trackballs or vertical mice can reduce forearm pronation (twisting) for users already experiencing discomfort
+
+### **The Chair (Seating Dynamics)** {-}
+
+The chair is the foundation of ergonomic support. In a laboratory, chairs must be distinct from office chairs (cleanable vinyl, not fabric) but must offer the same adjustability
+
+*   **Lumbar Support:** The backrest must curve to fit the small of the back (lordosis). If adjustable, it should be moved to fit the user's specific spinal curve
+*   **Seat Height:** Adjustable so that feet are flat on the floor. In labs with high benches ("standing height" benches), a taller drafting stool is required. In this case, a **foot ring** is mandatory to support the feet; dangling feet cut off circulation to the thighs (popliteal pressure) and destabilize the lower back
+*   **Seat Pan Depth:** There should be a 2-3 finger gap between the front edge of the seat and the back of the knees. If the seat is too deep, it cuts off circulation; if too shallow, it fails to support the thighs
+*   **Armrests:** Adjustable armrests should support the forearms without forcing the shoulders up. They should be soft to prevent contact stress on the ulnar nerve ("funny bone")
+
+### **The Laboratory Environment (Work Surface)** {-}
+
+Unlike a dedicated office desk, lab computers are often squeezed onto crowded benchtops next to analyzers
+
+*   **Leg Clearance:** The space under the computer station must be clear. Storing boxes or trash cans under the desk forces the user to sit far away or twist their legs, violating neutral posture
+*   **Bench Depth:** Ensure the bench is deep enough to accommodate the monitor distance. If the bench is shallow, install a keyboard tray to move the user back, creating the necessary focal distance
+*   **Document Holders:** When transcribing data from paper requisitions to the LIS, use a document holder placed next to the screen (at the same height and distance). This prevents repetitive neck twisting and refocusing (accommodation) between the paper on the desk and the screen
+
+## **Administrative Controls & Micro-Breaks** {-}
+
+Even the perfect workstation cannot prevent injury if the user remains static for hours (sedentary fatigue)
+
+*   **The 20-20-20 Rule:** Every 20 minutes, look at an object 20 feet away for 20 seconds. This relaxes the ciliary muscles of the eye, reducing eye strain
+*   **Stretch Breaks:** Perform "reversal" stretches every hour. If the hands are clenched (typing), open them wide. If the neck is flexed forward, gently extend it back
+*   **Sit-Stand Options:** If possible, alternate between sitting and standing tasks. Standing burns more calories and engages core muscles but can fatigue the legs; variety is the key to musculoskeletal health

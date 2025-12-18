@@ -1,0 +1,75 @@
+# Transport {-}
+
+Transporting hazardous waste is the critical link between the laboratory bench (where waste is generated) and the final treatment facility (where it is destroyed). This process occurs in two distinct phases: **Intra-facility Transport** (moving waste from the lab to the central loading dock) and **Off-site Transport** (shipping waste on public roads). Both phases are fraught with risks - spills, elevator accidents, and vehicular crashes - and are strictly regulated by the **Department of Transportation (DOT)** and institutional safety policies. A failure in transport safety can result in the evacuation of a hospital corridor or a hazardous release on a public highway
+
+## **Intra-facility Transport** {-}
+
+Moving dangerous materials through public corridors, elevators, and lobbies exposes patients, visitors, and non-laboratory staff to potential hazards. Strict protocols are required to minimize this interaction
+
+### **Container Integrity** {-}
+
+*   **Primary Seal:** Before moving any waste container, the cap must be checked for tightness. "Hand-tight" is the standard; cross-threading or loose caps are the leading cause of transport spills
+*   **Clean Exterior:** The outside of the container must be wiped free of any chemical residue or biological contamination. A waste handler should be able to touch the bottle without chemical burns or infection
+*   **Visual Inspection:** Check glass bottles for hairline cracks and plastic bags for tears before lifting them
+
+### **Secondary Containment** {-}
+
+*   **The "Bucket" Rule:** Never carry a chemical bottle by hand by the neck. **All** liquid hazardous waste must be transported in a secondary container (a rubber pail, a plastic bin, or a cart with a lipped tray)
+    *   *Capacity:* The secondary container must be large enough to hold the **entire volume:** of the liquid being transported if the primary vessel breaks
+*   **Cart Safety**
+    *   Use sturdy carts with raised edges (lips) to prevent items from sliding off
+    *   Do not stack biohazard boxes or chemical containers high enough to obstruct vision or create instability
+    *   Incompatible chemicals (e.g., Oxidizers and Flammables) must be separated on the cart (e.g., different bins) during transport
+
+### **Route & Elevator Safety** {-}
+
+*   **Low Traffic:** Schedule waste transport during low-traffic periods to avoid crowded hallways
+*   **Elevator Protocol:** Chemicals and biohazards should never be transported on elevators occupied by patients or the public
+    *   *Service Elevators:* Use designated freight/service elevators whenever possible
+    *   *The "No Rider" Rule:* For highly hazardous materials (e.g., large volumes of liquid nitrogen or volatile toxics), the transporter should place the container in the elevator, press the floor button, exit, and walk the stairs to meet the elevator at the destination. This prevents asphyxiation in a confined space if the container leaks or the dewar vents
+
+## **Off-site Transport (DOT Regulations)** {-}
+
+Once waste leaves the loading dock, it falls under the jurisdiction of the **U.S. Department of Transportation (DOT)**. The laboratory acts as the "Shipper" and bears "cradle-to-grave" responsibility for the waste. If a waste truck spills on the highway, the laboratory that generated the waste is liable
+
+### **Packaging (DOT Performance Oriented Packaging)** {-}
+
+Waste cannot be shipped in just any box. It must be packaged in UN-approved containers that have passed vigorous drop, stack, and pressure tests
+
+*   **The "UN" Mark:** Boxes and drums must bear the UN certification mark (e.g., `UN 4G/Y145/S...`). This code tells the transporter the package is rated for hazardous materials
+*   **Red Bags:** Biohazard bags used for transport must be "ASTM-rated" for tear resistance (often 165g impact strength) and placed inside rigid cardboard boxes or reusable plastic tubs
+
+### **Placarding & Labeling** {-}
+
+The transport vehicle must display diamond-shaped placards on all four sides if the load exceeds a certain weight (typically 1,001 lbs) or hazard class. The individual packages must display:
+
+*   **Hazard Class Labels:** (e.g., Class 3 Flammable Liquid, Class 6.2 Infectious Substance)
+*   **Orientation Arrows:** "This Way Up" arrows on two opposite sides for liquids
+*   **ID Number:** The specific UN number (e.g., UN 1090 for Acetone, UN 3291 for Regulated Medical Waste)
+
+### **The Manifest (The Paper Trail)** {-}
+
+Every shipment of hazardous waste must be accompanied by a **Uniform Hazardous Waste Manifest**. This is a legal document tracking the waste
+
+1.  **Generator (Lab):** Signs the manifest when the truck picks up the waste, certifying it is packaged and labeled correctly
+2.  **Transporter:** Signs to acknowledge receipt
+3.  **TSDF (Treatment, Storage, and Disposal Facility):** Signs when the waste arrives and is destroyed
+4.  **Return Copy:** The TSDF mails a signed copy back to the Generator. If the Lab does not receive this "Return Copy" within a specific window (e.g., 35-45 days), they must notify the EPA ("Exception Report"). This ensures the waste wasn't illegally dumped
+
+## **Training Requirements** {-}
+
+Any employee who prepares waste for shipment (labels bottles, signs manifests, or packs boxes) is defined as a "Hazmat Employee" by the DOT
+
+*   **Mandatory Training:** These employees must undergo DOT Hazardous Materials Training
+*   **Frequency:** Training is required **initially** (within 90 days of employment) and **recurrent** training every **3 years**
+*   **Scope:** Training covers General Awareness, Function-Specific tasks, Safety, and Security Awareness
+
+## **Specific Hazard Categories** {-}
+
+*   **Category A Infectious Substances (UN 2814)**
+    *   These are high-consequence pathogens (e.g., Ebola, Anthrax cultures) capable of causing permanent disability or death
+    *   *Transport:* Requires triple packaging, pressure-tested vessels, and strict security plans. They cannot be shipped with standard medical waste
+*   **Category B Infectious Substances (UN 3373)**
+    *   Standard diagnostic specimens (patient blood/urine) suspected of containing pathogens
+    *   *Transport:* Requires "Basic Triple Packaging" (Primary leakproof, Secondary leakproof with absorbent, Rigid Outer) but fewer administrative hurdles than Category A
+

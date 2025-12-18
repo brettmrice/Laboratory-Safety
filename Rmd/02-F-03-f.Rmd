@@ -1,0 +1,73 @@
+# Hand Hygiene {-}
+
+Hand hygiene is universally recognized by the CDC, OSHA, and the World Health Organization (WHO) as the single most effective measure to prevent the transmission of healthcare-associated infections (HAIs) and the spread of antibiotic-resistant organisms. In the clinical laboratory context, hand hygiene serves a dual purpose: it protects the laboratory scientist from colonization by pathogens handled at the bench, and it protects the integrity of clinical specimens from contamination by the laboratory scientist's skin flora. It is the foundation upon which all other Standard Precautions are built
+
+## **Methods of Hand Hygiene** {-}
+
+There are two primary methods for performing hand hygiene in the laboratory. The selection of the method depends on the specific level of soil and the nature of the potential contaminants
+
+### **Soap & Water (Routine Hand Wash)** {-}
+
+This is considered the "Gold Standard" of laboratory hygiene. It relies on the mechanical action of friction and the chemical action of surfactants to physically lift and remove soil, organic matter, and transient microorganisms from the skin
+
+*   **Mandatory Usage Scenarios**
+    *   **Visibly Soiled Hands:** If hands are visibly dirty or contaminated with blood, body fluids, or proteinaceous material, soap and water must be used. Alcohol sanitizers cannot penetrate organic matter effectively
+    *   **Spore-Forming Bacteria:** Alcohol is ineffective against bacterial spores. If working in Microbiology with suspected *Clostridioides difficile* (*C. diff*) or *Bacillus anthracis*, washing with soap and water is mandatory to mechanically rinse the spores down the drain
+    *   **After Restroom Use:** To prevent fecal-oral transmission
+    *   **Chemical Exposure:** If hazardous chemicals are spilled on the skin, they must be flushed with water and soap; alcohol may solubilize the chemical and increase absorption
+
+### **Alcohol-Based Hand Rubs (ABHR)** {-}
+
+ABHRs (gels, foams, or rinses) containing 60-95% ethanol or isopropanol are the preferred method for routine hygienic antisepsis when hands are not visibly soiled
+
+*   **Mechanism:** Alcohol denatures proteins, effectively killing vegetative bacteria (including Multi-Drug Resistant Organisms like MRSA and VRE), mycobacteria, fungi, and enveloped viruses (HIV, Influenza)
+*   **Advantages:** They are faster to use (20-30 seconds), accessible at the workbench, causing less skin irritation than frequent soap washing, and generally achieve a higher log-reduction of bacterial counts than soap
+*   **Technique:** Apply a sufficient volume to cover all surfaces of the hands. Rub hands together until they are completely **dry**. Do not wave hands to air dry or wipe them on a lab coat; the alcohol must remain in contact with the skin until it evaporates to be effective
+
+## **Indications for Hand Hygiene (The "When")** {-}
+
+Hand hygiene is not a "once a day" activity. Standard Work Practices dictate specific moments when hygiene must be performed to break the chain of infection
+
+*   **After Glove Removal:** This is the most critical and frequently missed step. Gloves are not absolute barriers; micro-perforations can allow pathogens to contaminate skin. Furthermore, the warm, moist environment inside a glove promotes the rapid proliferation of the user's natural bacterial flora
+*   **Before Donning Gloves:** To prevent contamination of the inside of the glove or the box of gloves
+*   **Before Leaving the Laboratory:** Before stepping across the threshold from a "Technical/Dirty" area to a "Clean" area (hallway, breakroom, office), hands must be washed to prevent tracking pathogens to public surfaces (door handles, elevator buttons)
+*   **Before "Clean" Tasks:** Before preparing clean media, setting up a PCR run, or touching a clean computer keyboard
+*   **After Accidental Contact:** Immediately after touching contaminated equipment or surfaces with bare hands
+
+## **Proper Washing Technique** {-}
+
+Ineffective washing creates a false sense of security. The following steps maximize the removal of transient flora:
+
+1.  **Wet:** Wet hands with warm (not scalding) water first. Applying soap to dry hands can increase skin irritation
+2.  **Lather:** Apply soap and lather vigorously
+3.  **Friction (The Key Step):** Scrub for a minimum of **20 seconds** (often taught as the time it takes to sing "Happy Birthday" twice)
+    *   *Critical Areas:* Pay special attention to the areas most commonly missed: the thumbs, the webs between fingers, the fingertips/nails, and the dorsal surface (back) of the hands
+4.  **Rinse:** Rinse with hands pointed downward so the dirty water flows into the sink, not down the elbows
+5.  **Dry:** Dry thoroughly with a disposable paper towel
+6.  **Barrier:** Use the paper towel to turn off the faucet and open the door handle. Never touch the clean faucet with clean hands
+
+## **Fingernails & Jewelry** {-}
+
+The subungual region (the space beneath the fingernail) harbors the highest concentration of bacteria on the hand and is the most difficult to clean
+
+*   **Artificial Nails:** The use of artificial nails, extenders, or overlays is **strictly prohibited** for staff handling biological specimens
+    *   *The Hazard:* A biofilm of Gram-negative bacteria and fungi often grows in the gap between the natural nail and the artificial nail. This biofilm cannot be removed by hand washing
+    *   *Epidemiology:* Several outbreaks of *Pseudomonas* and *Candida* in NICUs and ICUs have been epidemiologically traced to the artificial nails of healthcare workers
+*   **Nail Length:** Natural nails should be kept short (typically < ¼ inch long). Long nails can puncture gloves and compromise tactile sensation
+*   **Nail Polish:** If worn, nail polish must be intact. Chipped polish creates microscopic crevices that trap bacteria and resist removal by scrubbing
+
+## **Skin Integrity & Dermatitis** {-}
+
+Intact skin is the body's primary defense against infection. Damaged skin poses a significant risk to the laboratory scientist
+
+*   **The Hazard:** Dry, cracked, or chapped skin acts as a portal of entry for bloodborne pathogens (HIV, Hepatitis B/C) and chemical absorption. It is functionally equivalent to an open wound
+*   **Prevention**
+    *   Use warm, not hot, water
+    *   Pat hands dry rather than rubbing aggressively
+    *   **Lotions:** Use hospital-approved hand lotions regularly to maintain skin integrity
+*   **Compatibility Warning:** Staff must only use lotions provided or approved by the lab management. Some petroleum-based or oil-based commercial lotions can break down the integrity of latex gloves, causing them to disintegrate or become permeable within minutes
+
+## **Gloves & Hand Hygiene** {-}
+
+*   **Not a Substitute:** Glove use is **never** a substitute for hand hygiene
+*   **No Washing Gloves:** Disposable gloves should never be washed or sanitized with alcohol. The surfactants and alcohols degrade the polymers (latex/nitrile), causing micropores and barrier failure. If gloves are dirty, they must be changed
