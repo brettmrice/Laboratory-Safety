@@ -15,6 +15,18 @@ Information intended to assist preparation for Laboratory Safety content on <a h
 
 You are recommend to use this information as a supplement to the "Reading List" cited  by the <a href="https://www.ascp.org/boc/explore-credentials/view-all-credentials/QLS" target="_blank">ASCP BOC</a> for the QLS certification
 
+## Assess Readiness {-}
+
+Mock QLS Certification Exam questions - click the image that links to an external companion site:
+
+<center>
+
+<a href="https://prep.mlsascp.com/?cert=QLS" target="_blank">
+  <img src="imgs/prep.png" alt="QLS Prep" width="60%"/>
+</a>
+
+</center>
+
 ## Last Updated {-}
 
 Last edit pushed to this site was on `r Sys.Date()`
